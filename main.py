@@ -15,7 +15,7 @@ def get_score(vec_11, vec_22):
 def get_quora_q_file(
         filename="./datasets/quora_duplicate_questions.tsv",
         model=None,
-        filename_answers="./results/quora_smallests.csv"
+        filename_answers="./results_test/quora_smallests.csv"
 ):
     with open(filename, 'r', encoding='utf-8') as tsvfile:
         # Iterate through each line in the TSV file
@@ -49,7 +49,7 @@ def get_quora_q_file(
 def get_sts_test(
         filename="./datasets/stsbenchmark/sts-test.csv",
         model=None,
-        filename_answers="./results/sts_test_smallest.csv"
+        filename_answers="./results_test/sts_test_smallest.csv"
 ):
     with open(filename, 'r', encoding='utf-8') as csv_read:
         # Iterate through each line in the TSV file
@@ -81,7 +81,7 @@ def get_sts_test(
 def get_wnli_val(
         filename="./datasets/wnli/validation.jsonl",
         model=None,
-        filename_answers="./results/wnli_val_smallest.csv"
+        filename_answers="./results_test/wnli_val_smallest.csv"
 ):
     with jsonlines.open(filename) as reader:
         # Iterate through each line in the JSONL file
@@ -112,7 +112,7 @@ def get_wnli_val(
                 writer.writerow(answer_row)
 
 
-def normalize_scores_binary(file_path='./results/wnli_val_smallest.csv', dataset=None):
+def normalize_scores_binary(file_path='./results_test/wnli_val_smallest.csv', dataset=None):
 
     # Initialize variables to hold max and min values
     max_value = float('-inf')  # Initialize max_value as negative infinity
@@ -169,7 +169,7 @@ def normalize_scores_binary(file_path='./results/wnli_val_smallest.csv', dataset
           f"Correct: {correct_values}, incorrect: {incorrect_values}, total: {total_values}\n")
 
 
-def normalize_scores_scale(file_path='./results/sts_test_smallest.csv'):
+def normalize_scores_scale(file_path='./results_test/sts_test_smallest.csv'):
 
     # Initialize variables to hold max and min values
     max_value = float('-inf')  # Initialize max_value as negative infinity
@@ -334,20 +334,20 @@ if __name__ == '__main__':
     exit()
     # normalize_scores_scale()
     # normalize_scores_binary(dataset='wnli')
-    # normalize_scores_binary(file_path='./results/quora_smallests.csv', dataset='quora')
-    # normalize_scores_scale(file_path='./results/sts_test_best_q.csv')
-    # normalize_scores_binary(file_path="./results/wnli_val_best_q.csv", dataset='wnli')
-    # normalize_scores_binary(file_path='./results/quora_best_q.csv', dataset='quora')
+    # normalize_scores_binary(file_path='./results_test/quora_smallests.csv', dataset='quora')
+    # normalize_scores_scale(file_path='./results_test/sts_test_best_q.csv')
+    # normalize_scores_binary(file_path="./results_test/wnli_val_best_q.csv", dataset='wnli')
+    # normalize_scores_binary(file_path='./results_test/quora_best_q.csv', dataset='quora')
     # exit()
     model_smallest = SentenceTransformer('sentence-transformers/paraphrase-albert-small-v2')
-    get_wnli_val(model=model_smallest, filename_answers="./results/del1.csv")
-    get_sts_test(model=model_smallest, filename_answers="./results/del2.csv")
-    get_quora_q_file(model=model_smallest, filename_answers="./results/del3.csv")
+    get_wnli_val(model=model_smallest, filename_answers="results_test/del1.csv")
+    get_sts_test(model=model_smallest, filename_answers="results_test/del2.csv")
+    get_quora_q_file(model=model_smallest, filename_answers="results_test/del3.csv")
     exit()
     model_best_quality = SentenceTransformer('sentence-transformers/all-mpnet-base-v2')
-    get_wnli_val(model=model_best_quality, filename_answers="./results/wnli_val_best_q.csv")
-    get_sts_test(model=model_best_quality, filename_answers="./results/sts_test_best_q.csv")
-    get_quora_q_file(model=model_best_quality, filename_answers="./results/quora_best_q.csv")
+    get_wnli_val(model=model_best_quality, filename_answers="results_test/wnli_val_best_q.csv")
+    get_sts_test(model=model_best_quality, filename_answers="results_test/sts_test_best_q.csv")
+    get_quora_q_file(model=model_best_quality, filename_answers="results_test/quora_best_q.csv")
     # model = SentenceTransformer('sentence-transformers/multi-qa-mpnet-base-dot-v1')
     # model = SentenceTransformer('sentence-transformers/all-mpnet-base-v2')
     # model = SentenceTransformer('sentence-transformers/paraphrase-MiniLM-L3-v2')
