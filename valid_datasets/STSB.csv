@@ -1,0 +1,502 @@
+id,first_sentence,second_sentence,score,score_name,score_type
+0,A man is playing a large flute.,A man is playing a flute.,3.800,score,scale_0_5
+1,A man is spreading shreded cheese on a pizza.,A man is spreading shredded cheese on an uncooked pizza.,3.800,score,scale_0_5
+2,Three men are playing chess.,Two men are playing chess.,2.600,score,scale_0_5
+3,A man is playing the cello.,A man seated is playing the cello.,4.250,score,scale_0_5
+4,Some men are fighting.,Two men are fighting.,4.250,score,scale_0_5
+5,A man is smoking.,A man is skating.,0.500,score,scale_0_5
+6,The man is playing the piano.,The man is playing the guitar.,1.600,score,scale_0_5
+7,A man is playing on a guitar and singing.,A woman is playing an acoustic guitar and singing.,2.200,score,scale_0_5
+8,A person is throwing a cat on to the ceiling.,A person throws a cat on the ceiling.,5.000,score,scale_0_5
+9,The man hit the other man with a stick.,The man spanked the other man with a stick.,4.200,score,scale_0_5
+10,A woman picks up and holds a baby kangaroo.,A woman picks up and holds a baby kangaroo in her arms.,4.600,score,scale_0_5
+11,A man is playing a flute.,A man is playing a bamboo flute.,3.867,score,scale_0_5
+12,A person is folding a piece of paper.,Someone is folding a piece of paper.,4.667,score,scale_0_5
+13,A man is running on the road.,A panda dog is running on the road.,1.667,score,scale_0_5
+14,A dog is trying to get bacon off his back.,A dog is trying to eat the bacon on its back.,3.750,score,scale_0_5
+15,The polar bear is sliding on the snow.,A polar bear is sliding across the snow.,5.000,score,scale_0_5
+16,A woman is writing.,A woman is swimming.,0.500,score,scale_0_5
+17,A cat is rubbing against baby's face.,A cat is rubbing against a baby.,3.800,score,scale_0_5
+18,The man is riding a horse.,A man is riding on a horse.,5.000,score,scale_0_5
+19,A man pours oil into a pot.,A man pours wine in a pot.,3.200,score,scale_0_5
+20,A man is playing a guitar.,A girl is playing a guitar.,2.800,score,scale_0_5
+21,A panda is sliding down a slide.,A panda slides down a slide.,4.600,score,scale_0_5
+22,A woman is eating something.,A woman is eating meat.,3.000,score,scale_0_5
+23,A woman peels a potato.,A woman is peeling a potato.,5.000,score,scale_0_5
+24,The boy fell off his bike.,A boy falls off his bike.,4.800,score,scale_0_5
+25,The woman is playing the flute.,A woman is playing a flute.,5.000,score,scale_0_5
+26,A rabbit is running from an eagle.,A hare is running from a eagle.,4.200,score,scale_0_5
+27,The woman is frying a breaded pork chop.,A woman is cooking a breaded pork chop.,4.200,score,scale_0_5
+28,A girl is flying a kite.,A girl running is flying a kite.,4.000,score,scale_0_5
+29,A man is riding a mechanical bull.,A man rode a mechanical bull.,4.000,score,scale_0_5
+30,The man is playing the guitar.,A man is playing a guitar.,4.909,score,scale_0_5
+31,A woman is dancing and singing with other women.,A woman is dancing and singing in the rain.,3.000,score,scale_0_5
+32,A man is slicing a bun.,A man is slicing an onion.,2.400,score,scale_0_5
+33,A man is pouring oil into a pan.,A man is pouring oil into a skillet.,4.200,score,scale_0_5
+34,A lion is playing with people.,A lion is playing with two men.,3.400,score,scale_0_5
+35,A dog rides a skateboard.,A dog is riding a skateboard.,5.000,score,scale_0_5
+36,Someone is carving a statue.,A man is carving a statue.,3.750,score,scale_0_5
+37,A woman is slicing an onion.,A man is cutting an onion.,2.750,score,scale_0_5
+38,A woman peels shrimp.,A woman is peeling shrimp.,5.000,score,scale_0_5
+39,A woman is frying fish.,A woman is cooking fish.,4.000,score,scale_0_5
+40,A woman is playing an electric guitar.,A woman is playing a guitar.,3.600,score,scale_0_5
+41,A baby tiger is playing with a ball.,A baby is playing with a doll.,1.600,score,scale_0_5
+42,A person is slicing a tomato.,A person is slicing some meat.,1.750,score,scale_0_5
+43,A person cuts an onion.,A person is cutting an onion.,5.000,score,scale_0_5
+44,A man is playing the piano.,A woman is playing the violin.,1.000,score,scale_0_5
+45,A woman is playing the flute.,A man is playing the guitar.,1.000,score,scale_0_5
+46,A man is cutting up a potato.,A man is cutting up carrots.,2.375,score,scale_0_5
+47,A kid is playing guitar.,A boy is playing a guitar.,3.800,score,scale_0_5
+48,A boy is playing guitar.,A man is playing a guitar.,3.200,score,scale_0_5
+49,A man is playing guitar.,A boy is playing a guitar.,3.200,score,scale_0_5
+50,A little boy is playing a keyboard.,A boy is playing key board.,4.400,score,scale_0_5
+51,A man is playing a guitar.,A man is playing an electric guitar.,3.750,score,scale_0_5
+52,A dog licks a baby.,A dog is licking a baby.,4.750,score,scale_0_5
+53,A woman is slicing an onion.,A man is cutting and onion.,3.200,score,scale_0_5
+54,A man is playing the guitar.,A man is playing the drums.,1.556,score,scale_0_5
+55,A woman is slicing a pepper.,A woman is cutting a red pepper.,3.938,score,scale_0_5
+56,A man is playing the drums.,A man plays the drum.,5.000,score,scale_0_5
+57,A woman rides a horse.,A woman is riding a horse.,5.000,score,scale_0_5
+58,A man is eating a banana by a tree.,A man is eating a banana.,4.000,score,scale_0_5
+59,A cat is playing a key board.,A man is playing two keyboards.,1.600,score,scale_0_5
+60,A man chops down a tree with an axe.,A man cut a tree with an axe.,4.750,score,scale_0_5
+61,A kid plays with a toy phone.,A little boy plays with a toy phone.,3.500,score,scale_0_5
+62,A man is riding a motorcycle.,A man is riding a horse.,1.400,score,scale_0_5
+63,A man is riding a motorcycle.,A man is riding a horse.,1.400,score,scale_0_5
+64,A squirrel is spinning around in circles.,A squirrel runs around in circles.,4.000,score,scale_0_5
+65,A man and a woman are kissing.,A man and woman kiss.,5.000,score,scale_0_5
+66,A man is getting into a car.,A man is getting into a car in a garage.,3.833,score,scale_0_5
+67,A man is dancing.,A man is talking.,0.600,score,scale_0_5
+68,A man is playing the guitar and singing.,A man is playing the guitar.,2.917,score,scale_0_5
+69,A person is cutting mushrooms.,A person is cutting mushrooms with a knife.,4.200,score,scale_0_5
+70,A tiger cub is making a sound.,A tiger is walking around.,2.000,score,scale_0_5
+71,A person is slicing onions.,A person is peeling an onion.,2.600,score,scale_0_5
+72,A man is playing the piano.,A man is playing the trumpet.,1.600,score,scale_0_5
+73,A woman is peeling a potato.,A woman is peeling an apple.,2.000,score,scale_0_5
+74,A pankda is eating bamboo.,A panda bear is eating some bamboo.,4.200,score,scale_0_5
+75,A person is peeling an onion.,A person is peeling an eggplant.,2.000,score,scale_0_5
+76,A monkey pushes another monkey.,The monkey pushed the other monkey.,4.800,score,scale_0_5
+77,A squirrel runs around in circles.,A squirrel is moving in circles.,4.400,score,scale_0_5
+78,A man is tying his shoe.,A man ties his shoe.,5.000,score,scale_0_5
+79,A boy is singing and playing the piano.,A boy is playing the piano.,3.000,score,scale_0_5
+80,A dog is eating water melon.,A dog is eating a piece of watermelon.,4.250,score,scale_0_5
+81,A woman is chopping broccoli.,A woman is chopping broccoli with a knife.,4.250,score,scale_0_5
+82,A man is peeling a potato.,A man peeled a potatoe.,3.800,score,scale_0_5
+83,A woman is playing a guitar.,A man plays a guitar.,2.400,score,scale_0_5
+84,A woman is slicing tomato.,A man is slicing onion.,1.600,score,scale_0_5
+85,A man swims underwater.,A woman is swimming underwater.,2.000,score,scale_0_5
+86,A man and woman are talking.,A man and woman is eating.,1.600,score,scale_0_5
+87,A small dog is chasing a yoga ball.,A dog is chasing a ball.,4.000,score,scale_0_5
+88,The men are playing cricket.,The men are playing basketball.,2.200,score,scale_0_5
+89,A man rides off on a motorcycle.,A man is riding on a motorcycle.,4.400,score,scale_0_5
+90,A man is playing a guitar.,A man is singing and playing a guitar.,3.600,score,scale_0_5
+91,The man talked on the telephone.,The man is talking on the phone.,3.600,score,scale_0_5
+92,A man is fishing.,A man is exercising.,0.500,score,scale_0_5
+93,A man is levitating.,A man is talking.,0.800,score,scale_0_5
+94,Two boys are driving.,Two bays are dancing.,0.600,score,scale_0_5
+95,A man is riding on a horse.,A girl is riding a horse.,2.600,score,scale_0_5
+96,A man is riding a bicycle.,A monkey is riding a bike.,2.000,score,scale_0_5
+97,A man is slicing potatoes.,A woman is peeling potato.,2.200,score,scale_0_5
+98,A woman is peeling a potato.,A man is slicing potato.,2.400,score,scale_0_5
+99,A man is playing a guitar.,Someoen is playing guitar.,3.600,score,scale_0_5
+100,A woman is slicing a leek.,A woman is slicing ginger.,2.200,score,scale_0_5
+101,The man cut a paper plate.,A man is cutting a paper plate.,4.800,score,scale_0_5
+102,The man is playing the guitar.,A man is playing the flute.,1.643,score,scale_0_5
+103,A man is playing the piano.,The man is playing the violin.,1.750,score,scale_0_5
+104,A woman is slicing up some meat.,A woman is breading some meat.,2.250,score,scale_0_5
+105,A man is playing on his keyboard.,A man is playing a keyboard piano.,4.000,score,scale_0_5
+106,The lady chopped up the green onions.,The lady cut up a green onion.,4.800,score,scale_0_5
+107,Someone is sitring noodles in water.,A woman is boiling noodles in water.,3.200,score,scale_0_5
+108,Lionel Richie is dancing on the ceiling.,Lionel Ritchie dances while standing on the ceiling.,4.000,score,scale_0_5
+109,A man is playing a piano.,A person is playing the piano.,4.400,score,scale_0_5
+110,A woman is playing flute.,A woman plays on a flute.,4.600,score,scale_0_5
+111,A boy is checking a calender.,A boy is looking at a calendar.,3.800,score,scale_0_5
+112,A woman is cutting an onion.,A woman is chopping onions.,4.800,score,scale_0_5
+113,A man is playing guitar.,A man plays a guitar.,4.857,score,scale_0_5
+114,A woman is using a sewing machine.,A woman is sewing on a machine.,5.000,score,scale_0_5
+115,A woman is flipping pancakes.,A cartoon chef is flipping pancakes.,2.533,score,scale_0_5
+116,A man is running on the road.,A car is driving down the road.,1.000,score,scale_0_5
+117,A man is riding on a horse.,A man is talking on a phone.,1.000,score,scale_0_5
+118,A man is riding a bike.,A man is riding on a horse.,2.000,score,scale_0_5
+119,A woman is dancing.,A man is eating.,0.143,score,scale_0_5
+120,A man is playing a piano.,A man is playing a flute.,2.000,score,scale_0_5
+121,A man is playing a flute.,A man is playing a piano.,1.600,score,scale_0_5
+122,A man is spinning.,A man is dancing.,1.600,score,scale_0_5
+123,A monkey is swinging from limb to limb.,A monkey is swinging from tree to tree.,3.400,score,scale_0_5
+124,The people got off the train.,The people got off the train at the station.,4.000,score,scale_0_5
+125,A dog is jumping on a trampoline.,A dog bounces on a trampoline.,4.800,score,scale_0_5
+126,A boy is playing an instrument.,A man is playing a trumpet.,2.500,score,scale_0_5
+127,A woman plays the guitar.,A man sings and plays the guitar.,1.750,score,scale_0_5
+128,A woman is picking a can.,A woman is slicing a tomato.,1.000,score,scale_0_5
+129,A man is climbing a rope.,A man climbs up a rope.,5.000,score,scale_0_5
+130,A man is lifting a car.,A man is climbing a wall.,1.400,score,scale_0_5
+131,A man and woman are driving down the street in a jeep.,A man and woman are driving down the road in an open air vehicle.,4.000,score,scale_0_5
+132,The shirtless man sat in a chair.,A shirtless man is sitting on a chair.,3.800,score,scale_0_5
+133,Two women are wrestling.,Two women are wrestling on the floor.,4.000,score,scale_0_5
+134,The puppy played with a blue tennis ball.,A puppy is playing with a tennis ball.,4.000,score,scale_0_5
+135,A kangroo is eating something.,A kangaroo is eating.,4.800,score,scale_0_5
+136,A cat is playing a piano.,A man is playing a guitar.,0.600,score,scale_0_5
+137,The man cut some carpet with a knife.,A man is cutting carpet with a knife.,4.750,score,scale_0_5
+138,A woman is riding a motorized scooter down a road.,A man is riding a motor scooter.,2.200,score,scale_0_5
+139,someone is slicing a vegetable.,Someone is slicing a tomato.,3.000,score,scale_0_5
+140,A woman is dancing.,A man is talking.,0.000,score,scale_0_5
+141,A dog licks up a baby's drool.,A dog licks a baby.,2.200,score,scale_0_5
+142,A man is rowing a boat.,A man is slicing a tomato.,0.400,score,scale_0_5
+143,A man cuts up potatos.,A man slices potatoes.,4.800,score,scale_0_5
+144,A woman is chopping up garlic.,The woman is dicing garlic.,4.800,score,scale_0_5
+145,An animal run in circles.,A squirrel runs in circles.,3.800,score,scale_0_5
+146,A man is walking slowly across a rope bridge.,A boy is walking across a bridge.,3.000,score,scale_0_5
+147,A man is playing the guitar.,A man seated in a room is playing the guitar.,4.000,score,scale_0_5
+148,A man plays the flute.,A man is playing a flute.,5.000,score,scale_0_5
+149,A woman cracks two eggs into a glass bowl.,A woman is cracking an egg into a bowl.,3.800,score,scale_0_5
+150,A man is cutting a fish.,A man guts a fish.,3.000,score,scale_0_5
+151,Two men are packing suitcases into the trunk of a car.,The men are putting suitcases into the car's trunk.,4.400,score,scale_0_5
+152,A man pours oil on some tomatos.,The man poured oil on the cut tomatoes.,3.800,score,scale_0_5
+153,A man is slicing something.,A man is slicing a bun.,3.000,score,scale_0_5
+154,A man is paddling a canoe.,A man is playing a harp.,0.667,score,scale_0_5
+155,A man and woman are walking together through the woods.,A man and woman are walking arm in arm through a wooded area.,4.000,score,scale_0_5
+156,The woman picked up the kangaroo.,A woman picks up a baby kangaroo.,3.750,score,scale_0_5
+157,Fish are swimming.,A fish is swimming.,4.133,score,scale_0_5
+158,Two women mix something in a food processor.,Two women make something in a blender.,4.000,score,scale_0_5
+159,A person is surfing a large wave.,A person is surfing.,3.600,score,scale_0_5
+160,A man is playing a guitar.,A man is stabbing a target.,1.200,score,scale_0_5
+161,A man is playing a flute in a band.,A man is playing a guitar.,1.600,score,scale_0_5
+162,The man spread butter on the loaf of bread.,A man is spreading butter onto bread.,4.000,score,scale_0_5
+163,A person is boiling noodles.,A woman is boiling noodles in water.,4.000,score,scale_0_5
+164,A group of people dance on a hill.,A group of people are dancing.,3.200,score,scale_0_5
+165,A man is dancing outside.,A man is playing flute.,1.000,score,scale_0_5
+166,A woman is feeding a man.,A woman is mixing meat.,1.000,score,scale_0_5
+167,A man is putting a pan into an oven.,A woman is cutting an onion.,0.600,score,scale_0_5
+168,A woman is sitting at a desk.,A woman is riding a donkey.,0.400,score,scale_0_5
+169,Medics transport a patient on a stretcher.,A doctor rushes a patient on a stretcher.,3.400,score,scale_0_5
+170,A woman is playing a flute on stage.,The woman is playing the flute.,3.600,score,scale_0_5
+171,Two baby pandas are playing.,Two pandas are laying together.,3.000,score,scale_0_5
+172,A baby is laughing.,A baby is laughing and giggling.,4.000,score,scale_0_5
+173,A man is playing a guitar.,A boy is playing a piano.,1.200,score,scale_0_5
+174,A man is folding paper.,A woman is slicing a pepper.,0.600,score,scale_0_5
+175,Three women are dancing.,The man is dancing.,1.600,score,scale_0_5
+176,The cats are playing with each other.,Two cats are fighting each other.,2.600,score,scale_0_5
+177,A person is writing.,A person is writing with a pencil.,3.600,score,scale_0_5
+178,A man is running.,A man is running down a road.,3.500,score,scale_0_5
+179,The woman is rolling dough.,A woman is flouring and rolling dough.,3.765,score,scale_0_5
+180,A woman is adding spices on a meat.,Woman is adding sugar to meat.,2.750,score,scale_0_5
+181,A woman is adding oil on fishes.,A woman is pouring water on fish.,2.250,score,scale_0_5
+182,A young boy is holding a guitar.,A little boy is playing a guitar.,2.750,score,scale_0_5
+183,A cheetah is running.,A cheetah is running across a field.,3.800,score,scale_0_5
+184,The man is eating pizza.,A man is eating a slice of pizza.,4.800,score,scale_0_5
+185,An orangutan is riding a bus.,A monkey is riding on a bus.,3.600,score,scale_0_5
+186,A man and a woman talk in a diner.,A man and a woman are riding on a bicycle.,1.200,score,scale_0_5
+187,A man is playing a guitar.,A man is cleaning a glass door.,0.400,score,scale_0_5
+188,A girl is singing and playing a guitar.,A young man is singing while playing the guitar.,2.400,score,scale_0_5
+189,A girl is communicating with sign language.,A young girl is using sign language.,3.941,score,scale_0_5
+190,A woman is doing weight exercises.,A woman is doing her hair.,0.500,score,scale_0_5
+191,A man is getting inside a car.,An elderly man is getting into a red car.,3.750,score,scale_0_5
+192,A big green ball knocks a potato over.,A large green ball hits a potato.,4.000,score,scale_0_5
+193,A cat is playing keyboards.,A cat is playing a piano.,3.000,score,scale_0_5
+194,Two dogs swim in a pool.,Dogs are swimming in a pool.,4.200,score,scale_0_5
+195,The man used a chopper to chop the onion.,The man used a machine to chop up a potatoe.,2.000,score,scale_0_5
+196,A woman slices tofu.,A woman is cutting tofu.,5.000,score,scale_0_5
+197,A herd of deer are crossing the street.,A herd of caribou are crossing a road.,3.000,score,scale_0_5
+198,The person is riding the horse.,A man is riding a horse.,3.800,score,scale_0_5
+199,Someone is feeding a animal.,Someone is playing a piano.,0.000,score,scale_0_5
+200,Someone is slicing tortila's.,Someone is riding a horse.,0.000,score,scale_0_5
+201,Someone is mixing ingrediants.,Someone is sewing things.,0.250,score,scale_0_5
+202,A rooster pecks at a dead mouse.,A chicken is pecking at a dead mouse.,4.000,score,scale_0_5
+203,A woman holds a kangaroo.,A woman is picking up a kangaroo.,3.250,score,scale_0_5
+204,A man is playing with frogs,A cat is playing with a camera.,0.750,score,scale_0_5
+205,Two men are talking.,Two men are playing guitar.,1.500,score,scale_0_5
+206,A man spreads butter on a big piece of bread.,A man is smearing butter on a slice of garlic bread.,3.500,score,scale_0_5
+207,A man is running across a high wire.,A man is running on rope.,3.000,score,scale_0_5
+208,A man is mowing a lawn.,A woman is cutting a lemon.,0.200,score,scale_0_5
+209,A man is opening a door.,A man is playing a guitar.,0.800,score,scale_0_5
+210,A man is slicing a potato into pieces.,A man is cutting a potato.,4.200,score,scale_0_5
+211,The woman is cutting cooked octopus.,A woman is chopping octopus.,3.800,score,scale_0_5
+212,A man is punching through boards.,A dog is running through water.,0.400,score,scale_0_5
+213,A man is dancing.,A man is eating bread.,0.800,score,scale_0_5
+214,Someone is playing a piano.,A man is playing a guitar.,1.200,score,scale_0_5
+215,Two foxes are eating from a plate on a brick patio.,Foxes are eating from a plate.,2.800,score,scale_0_5
+216,A boy is playing a key-board.,A boy is playing the piano.,3.200,score,scale_0_5
+217,A person plays a keyboard.,Someone is playing a keyboard.,5.000,score,scale_0_5
+218,A man is shooting a gun.,A man is spitting.,0.000,score,scale_0_5
+219,Someone is slicing an onion.,Someoen is peeling a potato.,1.000,score,scale_0_5
+220,A man is swimming.,A woman is slicing meat.,0.000,score,scale_0_5
+221,A man is playing the guitar.,A man plays an acoustic guitar.,3.750,score,scale_0_5
+222,A woman is slicing a pumpkin.,A woman is riding an elephant.,0.400,score,scale_0_5
+223,A woman is dancing.,A woman is kneading dough.,0.400,score,scale_0_5
+224,A woman is cracking eggs into a bowl.,A woman is placing skewers onto a rack.,0.600,score,scale_0_5
+225,A car is moving through a road.,A car is driving down the road.,4.000,score,scale_0_5
+226,Someone is greasing a pan.,Smeone is laying down.,0.400,score,scale_0_5
+227,A man is playing guitar.,A man is draining pasta.,0.400,score,scale_0_5
+228,A woman is drinking vodka.,A woman is exercising.,0.400,score,scale_0_5
+229,A woman is cutting meat into pieces.,A woman is cutting up some meat.,4.800,score,scale_0_5
+230,A man is rinsing a steak.,A man is playing a guitar.,0.600,score,scale_0_5
+231,A man is selling items.,A man is cleaning the house.,0.800,score,scale_0_5
+232,A man is jumping a wall.,A man jumps onto a short wall.,3.200,score,scale_0_5
+233,Runners race around a track.,Runners compete in a race.,3.200,score,scale_0_5
+234,A man is kicking a soccer ball.,A man is mixing a bowl.,0.600,score,scale_0_5
+235,A woman is frying something.,A woman is riding a horse.,0.600,score,scale_0_5
+236,A cat is licking a sucker.,A woman is slicing cucumber.,0.000,score,scale_0_5
+237,A woman is dancing by a fire.,A woman is taking a bath.,1.400,score,scale_0_5
+238,The man is slicing a fish open.,A man is slicing a potato.,2.200,score,scale_0_5
+239,Butter is melting in a pan.,A man is melting butter in a pan.,3.600,score,scale_0_5
+240,Three boys are dancing.,Kids are dancing.,3.111,score,scale_0_5
+241,A woman is playing a game with a man.,A man is playing piano.,0.600,score,scale_0_5
+242,The man is driving a white car.,A man is giving an interview.,0.400,score,scale_0_5
+243,A man drove his car.,A man is driving a car.,4.250,score,scale_0_5
+244,A car backs out of a space.,A car is backing out of a blocked lane.,3.000,score,scale_0_5
+245,A man puts some cheese on a pizza.,The man sprinkled cheese on the pizza.,5.000,score,scale_0_5
+246,The boy is playing the piano.,A boy plays a piano.,5.000,score,scale_0_5
+247,The man played his guitar.,A man is playing a guitar.,3.750,score,scale_0_5
+248,A man is riding a horse.,A man is playing a keyboard.,0.200,score,scale_0_5
+249,A man is walking on a rope.,A man is riding a mo-pad.,0.400,score,scale_0_5
+250,A girl is playing a flute.,A band is playing on a stage.,1.286,score,scale_0_5
+251,People step off a train.,A group of people get off a train.,4.600,score,scale_0_5
+252,A woman is sewing on a machine.,A woman is breading some meat.,0.600,score,scale_0_5
+253,A dog is looking into swimming pool.,A dog is walking around a pool.,2.000,score,scale_0_5
+254,A man is buttering a piece of bread.,A man is applying butter to bread.,5.000,score,scale_0_5
+255,A man is cutting tomatoes into pieces.,A woman is cutting some vegetables.,1.800,score,scale_0_5
+256,Three teenage girls danced in the room.,Some teenage girls are dancing for the camera.,2.400,score,scale_0_5
+257,A lion is walking.,A lion is pacing in a pen.,2.400,score,scale_0_5
+258,A man shooting a car.,A man is cutting a potato.,0.400,score,scale_0_5
+259,A black horse is running around.,The horse is running.,4.200,score,scale_0_5
+260,A woman is deveining shrimp.,A man is dancing in rain.,0.000,score,scale_0_5
+261,A man is riding a horse.,A woman is washing a freezer.,0.000,score,scale_0_5
+262,A man walks down a path.,A man walks across a tight rope.,0.800,score,scale_0_5
+263,A man is slicing a potato.,A woman is cutting a jalepeno.,1.400,score,scale_0_5
+264,A dog is barking at a ball.,A dog swims after a tennis ball.,1.500,score,scale_0_5
+265,A kid runs away from a fish swinging around on a fishing pole.,A little kid is running around a fishing pole.,2.500,score,scale_0_5
+266,A man is walking along a path through wilderness.,A man is walking down a road.,2.500,score,scale_0_5
+267,An elderly man is speaking at a podium.,A man is making a speech at the podium.,3.500,score,scale_0_5
+268,A man riding a horse in slow motion.,A man is riding on a horse.,3.400,score,scale_0_5
+269,A person is cutting some burrata cheese.,The person is slicing cheese.,3.800,score,scale_0_5
+270,The man is shooting an automatic rifle.,A man is shooting a gun.,3.800,score,scale_0_5
+271,A man is crushing garlic with the back of a knife.,A woman is slicing meat with a knife.,1.500,score,scale_0_5
+272,A woman is filing her fingernails with an emery board.,A woman is feeding her baby with a bottle.,0.500,score,scale_0_5
+273,A man is riding a skateboard.,A woman is cutting a potato.,0.000,score,scale_0_5
+274,A woman is taking a shower.,A man is riding a white horse.,0.000,score,scale_0_5
+275,A  man is dancing.,A man is riding a horse.,0.800,score,scale_0_5
+276,A man is rowing a boat.,A man is shooting off a gun.,0.850,score,scale_0_5
+277,A man is swinging from a rope attached to the ceiling.,A man is swinging on a rope.,3.400,score,scale_0_5
+278,A woman is riding a horse on a beach.,A man is carrying another man on his back.,0.400,score,scale_0_5
+279,A man holds a small animal in one hand.,A man shows off a small monkey.,1.750,score,scale_0_5
+280,A person is folding a square paper piece.,A man is folding paper.,3.250,score,scale_0_5
+281,A person is frying meat in a pan.,A person is holding a skunk.,0.750,score,scale_0_5
+282,A chimpanzee is hurting a woman.,A man is driving a car.,0.000,score,scale_0_5
+283,The woman is peeling shrimp.,The man is holding a lemur.,0.000,score,scale_0_5
+284,Two zebras are playing.,Zebras are socializing.,4.250,score,scale_0_5
+285,A woman is slicing butter.,A woman slices tofu.,1.800,score,scale_0_5
+286,Some men are playing guitars.,Three men are playing guitars and singing together.,3.200,score,scale_0_5
+287,The elephants sprayed water on themselves.,Elephants spray themselves with water.,3.600,score,scale_0_5
+288,A dog sat at the counter of a store.,The dog is standing at the counter.,2.600,score,scale_0_5
+289,Someone drills a hole in a strip of wood with a power drill.,A man drills a hole in a piece of wood.,3.200,score,scale_0_5
+290,A woman is slicing some vegetables.,The woman is dicing garlic.,2.800,score,scale_0_5
+291,A badger is burrowing a hole.,A badger is digging the earth.,4.600,score,scale_0_5
+292,A woman is water skiing on a lake.,A man is playing a flute.,0.000,score,scale_0_5
+293,A girl is playing a violin.,A baby is laughing and giggling.,0.250,score,scale_0_5
+294,A helicopter is landing on a helipad.,A helicopter lands.,3.923,score,scale_0_5
+295,A woman is cutting up a chicken.,A woman is slicing meat.,2.750,score,scale_0_5
+296,A woman is cutting a cucumber.,A man is playing a guitar.,0.000,score,scale_0_5
+297,A woman rides an elephant in front of an adoring crowd.,A woman rides an elephant.,3.000,score,scale_0_5
+298,A puppy is sliding backwards along the floor.,A puppy is pushing itself backwards.,3.800,score,scale_0_5
+299,A woman splits garlic cloves.,A woman is breaking a head of garlic into cloves.,4.600,score,scale_0_5
+300,A dog is looking into swimming pool.,A dog is walking along the edge of a pool.,2.600,score,scale_0_5
+301,A woman mixes a beauty treatment in a glass.,A woman is mixing a cream in a glass with a spoon.,3.600,score,scale_0_5
+302,A man is drawing a picture.,A person is drawing.,3.600,score,scale_0_5
+303,A woman is picking tomatoes.,A woman is pouring batter into a bowl.,1.000,score,scale_0_5
+304,A man is looking at a computer monitor.,A man is using a laptop.,2.750,score,scale_0_5
+305,The boy is riding a tricycle.,A woman is riding a water scooter.,1.250,score,scale_0_5
+306,Two men compete in a tire rolling race.,Two people flipped tractor tires in a race.,2.750,score,scale_0_5
+307,A person is cutting a meat.,A person riding a mechanical bull,0.000,score,scale_0_5
+308,A man is playing a violin.,A woman is using a sewing machine.,0.000,score,scale_0_5
+309,The baby crawled through the doorway.,A baby is crawling across the floor.,2.400,score,scale_0_5
+310,A man is playing keyboard.,A person is playing a piano.,2.200,score,scale_0_5
+311,A man is smelling two pizzas.,A woman is feeding a man.,0.200,score,scale_0_5
+312,A monkey pulls the tail of a dog.,A monkey is teasing a dog at the zoo.,2.800,score,scale_0_5
+313,A dog lies on his back on a wooden floor.,A dog is laying on the floor.,4.000,score,scale_0_5
+314,A woman is frying something in the pan.,A man is playing his guitar.,0.000,score,scale_0_5
+315,A man puts seasoning in a bowl of water.,The man added seasoning to water in a bowl.,5.000,score,scale_0_5
+316,An elderly woman is pouring oil into a frying pan.,A tied man is putting into water.,0.000,score,scale_0_5
+317,A woman is chopping an onion.,A woman is slicing partially into half of an onion.,3.200,score,scale_0_5
+318,The woman picked up the kangaroo.,A woman is carrying a kangaroo.,3.500,score,scale_0_5
+319,A dog biting on a can.,A dog opens a can of food.,1.750,score,scale_0_5
+320,A woman is deboning a fish.,A man catches a fish.,1.250,score,scale_0_5
+321,A man is mowing grass.,A man is busting concrete.,0.833,score,scale_0_5
+322,A cat is watching a TV.,A man is slicing a leave.,0.000,score,scale_0_5
+323,The boy is stuck in the door of the doghouse.,A child is stuck in a dog house.,3.750,score,scale_0_5
+324,People flip into a swimming pool.,Men are falling into a pool.,2.750,score,scale_0_5
+325,A woman swims underwater.,A woman is swimming.,3.800,score,scale_0_5
+326,A man is playing a guitar.,A woman is dancing.,0.200,score,scale_0_5
+327,An airplane is flying in the air.,A South African Airways plane is flying in a blue sky.,3.400,score,scale_0_5
+328,A bear is running from two dogs.,A bear is fighting wolves.,1.400,score,scale_0_5
+329,A woman is resting in a floating raft.,A woman relaxes in an inner tube.,3.800,score,scale_0_5
+330,A man is dieing in an operating room.,A man is kissing a woman in stage.,0.400,score,scale_0_5
+331,A man is holding a leaf.,A woman is watching television.,0.000,score,scale_0_5
+332,A person is riding a horse.,A woman is slicing potatoes.,0.000,score,scale_0_5
+333,A woman is slicing octopus.,A man is playing the guitar.,0.000,score,scale_0_5
+334,A man is breaking water jugs.,A woman is peeling garlic.,0.200,score,scale_0_5
+335,A man is playing a guitar.,A woman is cutting vegetable.,0.000,score,scale_0_5
+336,A girl is eating a cupcake.,A man is slicing a cucumber.,0.000,score,scale_0_5
+337,The little girl played on the grass with a dog and a ball.,A baby plays with a dog and ball.,3.800,score,scale_0_5
+338,People ride and paddle a raft.,Four people are floating on a raft.,2.250,score,scale_0_5
+339,The lady cut up a potatoe.,A man is cutting a potato.,2.400,score,scale_0_5
+340,The missile exploded.,A rocket exploded.,3.200,score,scale_0_5
+341,A dog is playing in the snow.,A dog is pawing at a fly in the carpet before it.,1.600,score,scale_0_5
+342,A woman is dancing with other women.,A woman is shredding chicken.,0.400,score,scale_0_5
+343,A boy is pushing a van.,A person is slicing a tomato.,0.000,score,scale_0_5
+344,A boy is making some dance steps.,A boy is pouring something from a pitcher.,0.400,score,scale_0_5
+345,A woman is opening a soda and drinking it.,A woman is riding on an elephant.,0.600,score,scale_0_5
+346,A man is assembling speaker parts.,A man is playing the guitar.,1.000,score,scale_0_5
+347,The dog walked along the edge of the pool.,A dog is walking along a pool.,4.600,score,scale_0_5
+348,Butter is being put into a bowl.,A man cutting butter into a mixing bowl.,4.250,score,scale_0_5
+349,Raccoons are eating.,A man is eating.,1.500,score,scale_0_5
+350,Someone fell off a horse.,A man gets knocked off of a horse.,3.500,score,scale_0_5
+351,A woman peels an apple.,A man pops wheelies on a motorcycle.,0.000,score,scale_0_5
+352,A man is taking some math classes.,A man is rinsing a steak.,0.000,score,scale_0_5
+353,Animals are playing in water.,Two men are playing ping pong.,0.000,score,scale_0_5
+354,A man is riding a horse and jumping over obstacles.,A man is kicking a soccer ball.,0.333,score,scale_0_5
+355,A person is doing pencil tricks with his hand.,A person is slicing carrots in half.,0.333,score,scale_0_5
+356,The person lit the cameras on fire.,A person is blow torching cameras.,3.333,score,scale_0_5
+357,The man is slicing the tape from the box.,A man is cutting open a box.,4.333,score,scale_0_5
+358,A man is fishing in the river.,A man is singing while walking down the sidewalk.,0.800,score,scale_0_5
+359,A man is riding a bike.,A woman is dancing in the street.,0.200,score,scale_0_5
+360,A man is doing push-ups.,A woman is cutting some octopus.,0.000,score,scale_0_5
+361,A man is playing guitar.,A woman is slicing up some pork.,0.000,score,scale_0_5
+362,The little boy is singing and playing the guitar.,A baby is playing a guitar.,2.800,score,scale_0_5
+363,A woman is powdering her face.,The woman is tapping her fingers on the table.,0.800,score,scale_0_5
+364,A woman is peeling a potato.,A lion is walking around.,0.000,score,scale_0_5
+365,A woman is firing a rifle.,A man is performing stunts.,0.250,score,scale_0_5
+366,A woman puts a garland over a man's shoulders.,A man pours water over a pilots head.,0.500,score,scale_0_5
+367,An old woman is shaking hand with a man.,A man and a woman shake hands.,3.750,score,scale_0_5
+368,The woman is waterskiing.,A woman is wake boarding on a lake.,1.750,score,scale_0_5
+369,Trees are bending in storm.,Trees are hit by very hard winds.,2.667,score,scale_0_5
+370,A man and woman is riding in a car.,A woman is frying shrimp.,0.400,score,scale_0_5
+371,A man is moving a tree limb.,The woman is playing the violin.,0.000,score,scale_0_5
+372,A man plays a piano.,A woman is playing the violin.,1.000,score,scale_0_5
+373,A person pours oil on a skillet.,A person is dicing an onion.,0.800,score,scale_0_5
+374,The animal is eating.,A woman is dancing.,0.000,score,scale_0_5
+375,The woman is walking her dog.,A woman walks her dog down the street.,4.000,score,scale_0_5
+376,A group of people sing.,Some people are singing.,5.000,score,scale_0_5
+377,The cat is drinking milk.,A cat is licking from a saucer of milk.,4.400,score,scale_0_5
+378,A girl is making eyelid.,A woman is applying eyeshadow.,2.000,score,scale_0_5
+379,Two men are fighting.,Two men are fighting using a form of martial arts.,2.800,score,scale_0_5
+380,The military officer barked at the recruits.,An officer is talking to recruits.,2.500,score,scale_0_5
+381,The man is putting chicken into the container.,A man is putting foods in a box.,2.500,score,scale_0_5
+382,A man is tying on a stenographers machine.,the man used a stenograph.,2.250,score,scale_0_5
+383,A woman is adding pasta to a pot of water.,A woman is making noodles.,3.600,score,scale_0_5
+384,A woman is lying on a blanket on a rock and reading a book.,A woman seated is singing a song and playing the guitar too.,1.200,score,scale_0_5
+385,Two puppies are playing with each other.,Some men are playing soccer.,0.200,score,scale_0_5
+386,A man is running on a field.,A man climbs up a rope.,1.000,score,scale_0_5
+387,A man is hugging someone.,A man is taking a picture.,0.400,score,scale_0_5
+388,Someone is pouring ingrediants into a pot.,A man puts vegetables into a pot.,2.800,score,scale_0_5
+389,A couple are walking.,Some men are sawing.,0.000,score,scale_0_5
+390,A person is playing a guitar.,The man played his guitar.,3.000,score,scale_0_5
+391,A person is adding food in a pan.,A woman puts rice into a pan.,3.000,score,scale_0_5
+392,A group of penguins is walking.,A large amount of penguins are heading to the ocean.,2.800,score,scale_0_5
+393,A man is playing a guitar.,Someone is handling a bun.,0.000,score,scale_0_5
+394,A dog is jumping on a trampoline.,A boy is playing a guitar.,0.000,score,scale_0_5
+395,A man is shaking a container over a kitchen sink.,A man is emptying a plastic container.,2.200,score,scale_0_5
+396,A man is walking with a horse.,A man is leading a horse around by it's halter.,3.750,score,scale_0_5
+397,Paper is being cut with scissors.,A piece of paper is being cut.,4.000,score,scale_0_5
+398,A person peels shrimp.,The lady peeled the shrimp.,3.500,score,scale_0_5
+399,A man is playing a guitar.,A man tries to read the paper.,0.800,score,scale_0_5
+400,A man making a bed in a hotel.,A man is holding a animal.,0.800,score,scale_0_5
+401,The dog pulled the dogs tail and then his leg.,A monkey pulled a dogs tail.,1.750,score,scale_0_5
+402,A woman beats two eggs in a bowl.,A person is mixing ingredients in a bowl.,3.000,score,scale_0_5
+403,A man is jumping rope outside.,A woman is slicing a cucumber.,0.000,score,scale_0_5
+404,A person is slicing some onions.,A hamster is singing.,0.000,score,scale_0_5
+405,A woman holds a kangaroo.,A man in a hat sings a song.,0.000,score,scale_0_5
+406,Soccer players are kicking a soccer ball into the goal.,A soccer player scores a goal.,3.800,score,scale_0_5
+407,A woman is cooking something.,A woman is pouring ingredients into a frying pan.,3.200,score,scale_0_5
+408,A woman is swimming in the beach.,A woman splashes around in the ocean's waves.,3.200,score,scale_0_5
+409,A man is carrying another man.,A man sprays another man with water from a hose.,0.800,score,scale_0_5
+410,The woman is putting paste into a dish.,A woman is pulling some kind of sticky goo out of a bowl.,1.500,score,scale_0_5
+411,A man is holding up and talking about a gray You Tube T-shirt.,A man is showing a t shirt.,2.750,score,scale_0_5
+412,Someone pours olive oil into a bowl of tomato wedges.,The man poured oil on the tomato slices.,3.750,score,scale_0_5
+413,A man is playing the guitar.,The man played his guitar with a friend.,3.200,score,scale_0_5
+414,Someone is boiling okra in a pot.,Someone pours olive oil into a bowl of tomato wedges.,0.800,score,scale_0_5
+415,A person is peeling a potato.,A cat is licking a small bottle.,0.000,score,scale_0_5
+416,A cat is jumping into a box.,A young man is talking to a leaf.,0.000,score,scale_0_5
+417,The woman is seasoning the oil.,A woman is pouring ingredients in a bowl.,1.400,score,scale_0_5
+418,A cat is sliding upside down under a couch.,A cat is crawling under a piece of furniture on it's back.,3.200,score,scale_0_5
+419,A woman dances while a man plays the keyboard.,A woman is dancing on a stage.,2.200,score,scale_0_5
+420,A chef is cleaning up a bowl of soup.,A man is wiping the edge of a bowl off.,2.533,score,scale_0_5
+421,An explosion is booming in the desert.,A nuclear weapon explodes in a desert.,3.400,score,scale_0_5
+422,A woman slices a lemon.,A man is talking into a microphone.,0.000,score,scale_0_5
+423,An overweight man is skipping rope.,A young man is dancing.,0.800,score,scale_0_5
+424,The lady cracked two raw eggs.,The woman is cracking eggs into a bowl.,3.200,score,scale_0_5
+425,A man sharpens a pencil using a knife.,A woman is dancing in the rain.,0.000,score,scale_0_5
+426,Plastic toys are floating in water.,The ladies are performing a dance.,0.000,score,scale_0_5
+427,The turtle followed the fish.,A sea turtle is hunting for fish.,3.000,score,scale_0_5
+428,The woman is pencilling on eye shadow.,The girl is using an eye pencil on her eyelid.,2.800,score,scale_0_5
+429,A man is tying his shoe.,A dog is riding on a bicyclists shoulders.,0.000,score,scale_0_5
+430,A woman is slicing meat with a knife.,A man is spreading out dough.,0.417,score,scale_0_5
+431,A dog is running on the ground.,A girl is tapping her finger nails.,0.000,score,scale_0_5
+432,A man is petting a tied up dog.,A man is showing his dog to the camera.,1.000,score,scale_0_5
+433,A woman is walking on an open ground with a pet dog as some other dogs follow them.,A man is walking with several dogs.,2.000,score,scale_0_5
+434,A woman is mincing some garlic.,A person is cleaning a disk.,0.000,score,scale_0_5
+435,Two teams are playing soccer.,Different sets of teams are playing football on a field.,2.500,score,scale_0_5
+436,A rat like creature is smelling around.,An animal is walking on the ground.,2.000,score,scale_0_5
+437,Two Sumo ringers are fighting each other.,A man rides a water toy in the water.,0.000,score,scale_0_5
+438,A man lays on the ground and aims a rifle.,A man is spreading butter on a tortilla.,0.000,score,scale_0_5
+439,A couple are running towards the ocean.,"A man and and woman are running together, holding hands.",2.818,score,scale_0_5
+440,A woman is chopping a hard egg.,A person is cutting  boiled egg into pieces.,3.533,score,scale_0_5
+441,Two robots share a kiss.,A male and female robot are kissing.,3.800,score,scale_0_5
+442,A cat is trying to touch a dog.,The cat teased the dog by touching his head.,3.250,score,scale_0_5
+443,The rhino grazed on the grass.,A rhino is grazing in a field.,4.000,score,scale_0_5
+444,The man drove his little red car around the traffic.,The dog ran in the water at the beach.,0.000,score,scale_0_5
+445,A man is cutting bread.,A man is doing tricks with a soccer ball.,1.000,score,scale_0_5
+446,A cat rapidly swats a kid in the head.,A cat and a boy play together.,2.600,score,scale_0_5
+447,A cat is playing in a box.,The dog is playing with the floor cleaner.,1.400,score,scale_0_5
+448,The couple danced in the church.,A couple slow dances.,3.200,score,scale_0_5
+449,A man is patting an alligator on the mouth.,A person is dumping chopped vegetables into a pot on the stove.,0.000,score,scale_0_5
+450,A person checks some rice pudding.,A horse is running.,0.000,score,scale_0_5
+451,A woman is stirring two eggs in a glass bowl.,A young girl is singing on a stage.,0.000,score,scale_0_5
+452,The man is playing the drums.,A man pours cleaner in his sink.,0.000,score,scale_0_5
+453,A man is slicing a pepper.,A person cuts a big green pepper apart.,3.800,score,scale_0_5
+454,A woman is speaking in sign language.,A woman spices some seafood.,0.643,score,scale_0_5
+455,A boy is crawling into a dog house.,A cat is playing on the floor.,0.000,score,scale_0_5
+456,The girl flew her kite while she ran up a hill.,A girl loses her kite.,2.250,score,scale_0_5
+457,A woman is placing food in a pot of hot water.,A woman is frying meat.,1.250,score,scale_0_5
+458,A small monkey walks through water.,A monkey is wading across a marsh.,3.400,score,scale_0_5
+459,A man is riding a bike.,A panda bear is eating.,0.000,score,scale_0_5
+460,A young man is singing and playing the piano.,The man is writing a letter.,0.200,score,scale_0_5
+461,A boy takes off his sunglasses.,A boy is screaming.,0.500,score,scale_0_5
+462,A girl is playing a piano.,A boy is doing push ups.,0.000,score,scale_0_5
+463,The lady sliced a tomatoe.,Someone is cutting a tomato.,4.000,score,scale_0_5
+464,Someone is holding a hedgehog.,A onion is being sliced.,0.000,score,scale_0_5
+465,A woman peels a potato.,A woman is grilling pineapples.,1.000,score,scale_0_5
+466,A cat is drinking some water.,A truck is going down a hill.,0.000,score,scale_0_5
+467,A person is putting salt and pepper on a piece of pork.,A youngster is sitting on a piano.,0.000,score,scale_0_5
+468,The man sat in his chair and stared.,The little girl is putting her hair into a pony tail.,0.000,score,scale_0_5
+469,A woman is dicing a potato.,A woman cuts tofu into tiny pieces.,1.800,score,scale_0_5
+470,A baby is crawling happily.,A baby sneezed and scared another baby.,1.200,score,scale_0_5
+471,A person is frying a meat in the pan.,A man is cutting a vegetable.,0.600,score,scale_0_5
+472,A man is looking out of a window.,A woman is swimming in the water.,0.250,score,scale_0_5
+473,A man seated is playing the guitar.,A man is playing an acoustic guitar and singing into a microphone.,3.250,score,scale_0_5
+474,A woman is slicing an onion with a knife.,A man is preparing some dish.,1.250,score,scale_0_5
+475,A rider is running and jumping her horse.,A woman jumps hurdles on a horse.,4.000,score,scale_0_5
+476,A boy is playing a key-board.,A boy is sitting in a room playing a piano by lamp light.,3.250,score,scale_0_5
+477,Two men are fighting.,The man is exercising.,0.750,score,scale_0_5
+478,A man is playing a wooden flute while several other men play bongo drums.,A man is playing a flute.,3.250,score,scale_0_5
+479,A person is petting a monkey.,A man is holding a slow loris.,1.200,score,scale_0_5
+480,Two cartoon rabbits are kissing.,A rabbit is kissing another rabbit.,3.800,score,scale_0_5
+481,The hedgehog chewed on the towel.,A hedgehog is biting at a blanket.,3.400,score,scale_0_5
+482,A cat is licking himself.,A man is slicing a white onion with a mandolin slicer.,0.000,score,scale_0_5
+483,A small guinea pig is gnawing and eating a piece of carrot on the floor.,A Guinea pig eats a carrot.,3.500,score,scale_0_5
+484,Four boys are standing in front of the burning car.,Four young men stand still as a car explodes behind them.,3.750,score,scale_0_5
+485,A man is smoking.,The man sat in his suit and smoked.,4.000,score,scale_0_5
+486,A woman is adding sauce to some food.,A person is cutting leaves.,0.200,score,scale_0_5
+487,Three children are eating their food.,The deer jumped over the fence.,0.000,score,scale_0_5
+488,A submarine is going through water.,A baby is falling asleep.,0.000,score,scale_0_5
+489,A man is running on a street.,A man plays the guitar.,0.800,score,scale_0_5
+490,A person is slicing an onion.,A cat is pooping into a toilet.,0.000,score,scale_0_5
+491,A badger is digging in the dirt.,A man is moving large rocks.,0.000,score,scale_0_5
+492,A woman is slicing big pepper.,A dog is moving its mouth.,0.000,score,scale_0_5
+493,A man is riding a bicycle.,A man is riding a bike.,5.000,score,scale_0_5
+494,A man and a woman are kissing each other.,A man and a woman are talking to each other.,0.600,score,scale_0_5
+495,A woman is slicing an onion.,A woman is cutting an onion.,4.200,score,scale_0_5
+496,A small boy is playing with a dog.,A baby is playing with a dog.,3.750,score,scale_0_5
+497,The man is drawing.,A man is drawing.,5.000,score,scale_0_5
+498,A man is cutting a potato.,A woman is cutting a tomato.,1.250,score,scale_0_5
+499,A boy is playing a guitar.,A kid is playing a guitar.,3.600,score,scale_0_5
+500,A woman is cutting an onion.,A woman is cutting through an onion.,5.000,score,scale_0_5

@@ -1,0 +1,504 @@
+first_sentence,second_sentence,score,dot_score,cos_score,eucl_score,score_type,score_name
+can not share audio via bluetooth,good for on-line presentation,0,-27.098148345947266,-0.10847169160842896,23.535597,binary,is_reason
+Google sign-in does not work!,hard to use video,0,-32.300514221191406,-0.12737515568733215,23.911808,binary,is_reason
+the best platform to communicate in a pandemic,good for communication,1,116.56005096435547,0.5645557045936584,13.704682,binary,is_reason
+it will not open on my telephone!,app is bad for work,0,51.16463088989258,0.25451773405075073,17.32079,binary,is_reason
+this app is very expensive to learn study online classes,app is expensive for online classes,1,195.9943084716797,0.8373156189918518,8.746639,binary,is_reason
+I am not able to sign up for hulu,unable to sign up for hulu,1,270.2315673828125,0.9526470899581909,5.523464,binary,is_reason
+now it does not work on oneplus,unable to use subtitle on chromecast,0,33.438011169433594,0.12034175544977188,22.189386,binary,is_reason
+because i can not skip class,unable to connect to airplay,0,-25.732851028442383,-0.0997694581747055,23.891619,binary,is_reason
+you can not change your mic setting while drawing on someone else's,want to change mic setting while drawing,1,167.20721435546875,0.7312177419662476,11.135849,binary,is_reason
+too dangerous for my children.,bad app for children,1,76.8377456665039,0.3772483468055725,16.02346,binary,is_reason
+i can not meet my friend,app is slow and clang patronizely,0,-13.519505500793457,-0.05952446907758713,22.06264,binary,is_reason
+"erstwhiles the app will clang, but i just restart my telephone.",want to change setting,0,47.99016571044922,0.21120585501194,19.252924,binary,is_reason
+some features are missing,features are missing,1,220.68751525878906,0.9429821968078613,5.189122,binary,is_reason
+i forget my password and try to set new password via electronic_mail,have to reinstall the app to make the app work,0,31.130218505859375,0.12435716390609741,20.979055,binary,is_reason
+"the whole point of download is to watch offline, but the app wants you to be connect.",upapproach meeting are not in sync,0,18.21094512939453,0.09442687034606934,18.695114,binary,is_reason
+love this app i can always get on rapid_climb with my friend or family,background voice issue,0,-2.5501644611358643,-0.010590750724077225,23.246315,binary,is_reason
+will not connect to my outlook contact addresses which is a pain.,want to connect to outlook email,1,181.24343872070312,0.7422912120819092,12.206662,binary,is_reason
+it is rather annoyance because when you want to attend a meeting it just comes up that the app need updating.,want to hear audio without headteletelephone,0,10.19536304473877,0.05231688544154167,20.12258,binary,is_reason
+not very much good always asks to switch account and sign in,want to switch account and sign in,1,210.92262268066406,0.8264305591583252,10.438234,binary,is_reason
+"best entertainment app for video, movie, cartoon","good for watching movies, series and cartoons",1,123.35576629638672,0.5663955211639404,13.792379,binary,is_reason
+I am using 150mbps but the cyclosis quality is very bad on android tv.,unable to subscribe on app,0,16.335105895996094,0.08518535643815994,19.602524,binary,is_reason
+everyone says there is no support for Turkish language translate from setting to Turkish so simple or how did you not understand?,want to share file in chat,0,3.989020586013794,0.017865397036075592,21.565073,binary,is_reason
+"unfortunately, no sound on tv when i plug my ipad or iphone into an hdmi adapter.",want to hear audio on tv after plugging in ios devices into hdmi adapter,1,157.29629516601562,0.8064729571342468,8.694555,binary,is_reason
+sound problem - why is it so hard?,pen is not working,0,22.05876922607422,0.10097091645002365,20.015028,binary,is_reason
+"also, it would be nice if there was a way to remove items from the ""continue observation"" list.",receive incorrect telephone number message,0,-6.448230266571045,-0.029699956998229027,22.877811,binary,is_reason
+"poor performance, and always updating even in on-line class meeting,",app has virtual background,0,11.816689491271973,0.06138750538229942,19.776173,binary,is_reason
+i have not even try the application but the regestration just freeze out why do so many items,want to connect to the conference,0,7.462338924407959,0.04064037278294563,19.056484,binary,is_reason
+best app for on-line teaching,better the quality of communication,0,47.98319625854492,0.21338510513305664,18.81807,binary,is_reason
+no option for chew_the_fat,unable to download rapid_climb app,0,63.38383483886719,0.2730056941509247,18.41632,binary,is_reason
+but i would like it to lower_berth its memory at least up to 50% of memory since it is time to uninstall apps that may be necessitate,want to specialize in computer science,0,6.940524578094482,0.03685369715094566,19.110115,binary,is_reason
+but the picture quality is not great.,poor picture quality,1,122.16841888427734,0.7933098673820496,8.773815,binary,is_reason
+good one for on-line business.,24mb rapid_climb emojis are download all the time,0,15.523534774780273,0.08434146642684937,18.364492,binary,is_reason
+you should like the option that you can put wallpaper on cell telephone,want to get card,0,62.909542083740234,0.2780228555202484,18.23525,binary,is_reason
+i can not change my language to russian or ukrainian!,want to change russian language,1,259.52294921875,0.7917593121528625,11.684854,binary,is_reason
+can not change settings like background picture until I am already in a meeting,want to change settings like background picture,1,160.46971130371094,0.7421163320541382,10.900165,binary,is_reason
+"since i update it, it will not let me enter the app",unable to login since the update,1,71.69061279296875,0.3123258650302887,18.13699,binary,is_reason
+"the bell is not necessity, it is okay to leave a banner on the screen but not a bell every time person articulation.",want to open camera,0,-14.948931694030762,-0.07360699772834778,21.349428,binary,is_reason
+"i use to use rapid_climb on both my tablet and Mobile with same history in same time, so it very easy to switch between device and its very useful.",easy to use without have to memorize kuji,0,54.56147766113281,0.3007235825061798,16.079456,binary,is_reason
+some episode are miss.,want to change name and profile picture,0,2.6304070949554443,0.01089232973754406,21.959946,binary,is_reason
+this app is only worst my time class automatic disconnect,app is bad for time management,1,132.59878540039062,0.636064350605011,12.323695,binary,is_reason
+will not let me even install it,want to lower_berth age limit,0,-0.549892008304596,-0.0028773231897503138,19.581738,binary,is_reason
+can not even read / write message coincidently.,want to disable auto revolve feature,0,-7.47637939453125,-0.03603105992078781,20.772598,binary,is_reason
+"""you are not eligible to sign up for zoom at this time""",receiving not eligible for zoom message,1,152.7132568359375,0.6237725615501404,14.06718,binary,is_reason
+i love observation movie from my childhood with my little girl.,want to use virtual background for samsung galaxy tablet s6,0,2.957892894744873,0.012806904502213001,21.35452,binary,is_reason
+it is not possible to log in either from the pc or from the tv.,want to see more than 4 screen,0,28.887723922729492,0.1069665178656578,21.967669,binary,is_reason
+very good user interface and experience.,want to record on telephone,0,30.87466049194336,0.11175359040498734,22.536676,binary,is_reason
+"after the last update, the interface wholly change and expose in Russian, in the setting there is no such option as ""language chooseion""",good for virtual gathering,0,-9.494672775268555,-0.041236549615859985,22.220137,binary,is_reason
+it will not stop buffering and it is not because my connection is bad,app has connection and buffering issues,1,122.87626647949219,0.5554264187812805,14.196675,binary,is_reason
+i enjoy the assortment that hulu has to offer.,want to change name,0,-18.8823184967041,-0.07131973654031754,23.840921,binary,is_reason
+"since a recent update, i can no longer see people in breakout rooms.",want to see people in breakout rooms,1,129.93260192871094,0.6009376645088196,13.19961,binary,is_reason
+this app is very helpful to collaborate with friend welcome,want to hear the anthem,0,11.890236854553223,0.0507698617875576,21.087988,binary,is_reason
+the subtitle are truly too small to read.,facing screen compatibility issue on moto g20,0,10.755853652954102,0.05079268664121628,20.139732,binary,is_reason
+it has no recording option,want recording option,1,191.08706665039062,0.6947036385536194,13.183433,binary,is_reason
+the most unliked app for teacher,want Ukrainian language support,0,24.0744571685791,0.0935354232788086,22.351545,binary,is_reason
+this app does not have service support,app does not have service,1,187.5665740966797,0.7724429965019226,10.545258,binary,is_reason
+not able to join any meeting smoothly after every minute my zoom disconnects and shows error,unable to join zoom rooms,1,139.19082641601562,0.5824740529060364,14.4538555,binary,is_reason
+i can not install the app in my phone,unable to download the app,1,157.9416046142578,0.6763857007026672,12.586128,binary,is_reason
+"this application is reasonably good, but it does not support the Arabic language; so i gave it 2 out of 5",want to register for 3 devices,0,14.751595497131348,0.07943104952573776,18.733755,binary,is_reason
+"the question is why i can not save a list of meetings i can connect to on the main screen, with the ability to name this meeting.",want to save meeting lists,1,133.21536254882812,0.6240733861923218,13.64267,binary,is_reason
+"images uploaded for polls do not pop up in certain devices, and can not find help anywhere",want to find polls in certain devices,1,126.61582946777344,0.5779784321784973,14.061455,binary,is_reason
+unable to download or update,unable to download and update,1,291.6988525390625,0.9566338658332825,5.1460843,binary,is_reason
+there is a problem on bluetooth audio and device audio.,facing issues with bluetooth audio devices,1,201.74559020996094,0.8606465458869934,8.2043495,binary,is_reason
+can not get it to pair with hearing aids.,want to pair hearing aids,1,167.11492919921875,0.720007061958313,12.145405,binary,is_reason
+whether on my tv or telephone the app patronizely Michigan playing in the center of a show.,poor service from hotstar,0,25.811874389648438,0.14869561791419983,17.665611,binary,is_reason
+very good application and very practical for monitoring remote meetings,good for monitoring remote meetings,1,202.10797119140625,0.9042884707450867,6.955283,binary,is_reason
+"you should add the option to remove from the ""continue watching"" list.",want to remove videos from continue watching list,1,140.27572631835938,0.65107262134552,12.624438,binary,is_reason
+i can not change my language to Russian or Ukrainian!,app keeps auto shutting,0,-12.505983352661133,-0.04405279457569122,24.454432,binary,is_reason
+best app for children,good for children,1,167.0965576171875,0.6157116293907166,14.665693,binary,is_reason
+"and no where to ascent the plan, please delegateed a button for ascent to others plan also.",desktop version is bad,0,-30.666946411132812,-0.15854860842227936,21.904951,binary,is_reason
+"it does not work with a bluetooth box, i believe that not with a headset and on the tv/monitor, the sound does not come out on the tv in mirror mode/",want to change setting like background picture,0,30.23720932006836,0.16734015941619873,17.705875,binary,is_reason
+zoom does not cater for android users.,zoom does not cater for android users,1,281.11029052734375,0.8966877460479736,8.052886,binary,is_reason
+the current version of hulu is not compatible with ios version 15.4.,unable to use hulu on ios after latest update,1,176.20681762695312,0.8002523183822632,9.597602,binary,is_reason
+"mega nice app, unfortunately there is a malfunction from time to time because the network is wholly overload.",Mobile app is better than desktop app,0,25.1193790435791,0.14518529176712036,17.735306,binary,is_reason
+"fantastic app, moderate prices and suitable for everyone!",app is good with reasonable price,1,169.65444946289062,0.7745228409767151,9.964669,binary,is_reason
+for some reason recently the app has not load.,want to login from direct link,0,7.71392822265625,0.034852661192417145,20.948792,binary,is_reason
+i have major problem with buffer of this app,unable to play download video,0,37.53449249267578,0.13010968267917633,22.554634,binary,is_reason
+i can not share my screen!,want to share screen,1,201.3135223388672,0.6640806198120117,14.42629,binary,is_reason
+zoom is not convenient to do lessons in the distance vatsap better than zoom there,zoom is not convenient,1,152.71678161621094,0.7065370082855225,11.697964,binary,is_reason
+could be a little clearer voice control,want better voice control,1,184.77244567871094,0.8191151022911072,9.593949,binary,is_reason
+the server never runs properly!,app has terrible servers,1,115.3635482788086,0.506072461605072,15.008216,binary,is_reason
+"every time the app is update, the history is delete!",want to delete posts,0,121.22908020019531,0.465449720621109,16.689138,binary,is_reason
+older version was far better than this new.,previous version was better,1,128.3939208984375,0.6068101525306702,12.933497,binary,is_reason
+i can not listen to the conference i can not listen to the conference,want to listen to the conference,1,148.0081787109375,0.786369264125824,9.036298,binary,is_reason
+best ott app in the universe,unable to choose subtitle,0,29.419231414794922,0.10076145827770233,22.919527,binary,is_reason
+it would be interest to be able to make a agenda meeting,want to login to school history,0,14.034307479858398,0.08111429214477539,17.85733,binary,is_reason
+but whenever i join the meeting and then if i want to go to other app then host voice is completely inaudible and after 2-3min it disconnected..,want to hear audio and meeting gets disconnected,1,109.77734375,0.5803857445716858,13.2623005,binary,is_reason
+"i mainly use it for yoga lessons, but i can no longer turn off the center camera in the control center, and i can not capture the entire pose.",want to turn off center camera in the control center,1,113.99932098388672,0.6655519604682922,11.130313,binary,is_reason
+the zoom is limited with time and it is very disruptive,zoom has a time limit,1,169.6897430419922,0.7818761467933655,9.8917885,binary,is_reason
+downloaded emojis which are useless.,downloaded emojis which are useless,1,243.37757873535156,0.9737434387207031,3.634115,binary,is_reason
+the sound connection is poorly done (you need to use headphones and then on the inscription,sound connection is poor,1,128.83685302734375,0.6883270740509033,11.267787,binary,is_reason
+"unclear encryption systems, etc.",unclear encryption system,1,271.2760314941406,0.9069713950157166,7.9999676,binary,is_reason
+the software of this app is low even one star,app has bad software,1,155.52212524414062,0.6702806949615479,12.420707,binary,is_reason
+my app server goes down when i try to join my class.,app server goes down when trying to join class,1,177.35264587402344,0.9138218760490417,5.7992554,binary,is_reason
+"it is unacceptable that it is not possible to mirror the image and audio natively in the application, if you want to use an android device and mirror the video to the tv on Google chrome cast you can only be able to use the Google home app but the audio does not mirror, it is muted and pathetic!",want to hear video,0,38.327667236328125,0.22918379306793213,16.344656,binary,is_reason
+the application plant shockingly badly,want to download update,0,2.4966747760772705,0.008592437021434307,24.70824,binary,is_reason
+very low quality meeting app.,poor quality of meeting,1,128.0028076171875,0.6277379393577576,12.327518,binary,is_reason
+i am not able to set the background of my video,good app for behavioring on-line meeting and interview,0,17.275657653808594,0.07821204513311386,20.188719,binary,is_reason
+it is a pity that you can not change and delete your sms in the chat,unable to load due to mistake,0,15.56089973449707,0.06753043830394745,21.02292,binary,is_reason
+no options exist to change subscriptions in the mobile app.,want to change subscriptions,1,164.83517456054688,0.5734094977378845,15.704864,binary,is_reason
+I would like rapid_climb to be able to work in background with picture in picture video like facetime does.,good for small business,0,5.279539585113525,0.03076229616999626,18.29549,binary,is_reason
+zoom is now better and more stable,app is better and stable,1,98.66552734375,0.4503808617591858,15.613784,binary,is_reason
+perfective for multi task,want to see ads while in use,0,14.656930923461914,0.06303977221250534,20.875021,binary,is_reason
+best app for conference call,telephone screen sharing is slow,0,94.74362182617188,0.3157593011856079,20.264454,binary,is_reason
+i can not get past the load screen.,presentment bell keeps ring during the meeting,0,-19.305402755737305,-0.07579611986875534,23.436558,binary,is_reason
+my app waiter goes down when i try to join my class.,want to connect to waiter,0,90.61559295654297,0.40900668501853943,16.705673,binary,is_reason
+"the artwork and fps are bad, very low, i do not see the option to addition the quality, besides the class of those teacher are drilling, demur that of eca and physical education",easy to connect,0,-23.736417770385742,-0.1234903335571289,22.364231,binary,is_reason
+i do not like that i do not have the option to hide my camera just for myself not for other user on call,want to reset password,0,20.291202545166016,0.09004831314086914,20.834322,binary,is_reason
+some feature are miss,good for face to face communication,0,62.35295867919922,0.23138345777988434,20.378256,binary,is_reason
+the links do not open me and it tells me error 1132 all the time i deleted it,want to access link,1,119.92137908935547,0.446632981300354,18.58822,binary,is_reason
+i can not install rapid_climb on my android.,want to exit the application,0,30.731220245361328,0.12288765609264374,21.21393,binary,is_reason
+i hope that there is a pip mode.,want pip mode,1,188.07611083984375,0.7211111783981323,13.328196,binary,is_reason
+it does not support the arabic language,need arabic language support,1,162.95045471191406,0.6232173442840576,14.294688,binary,is_reason
+i can not watch ipl,want to sign in using Google,0,12.77057933807373,0.04756773263216019,22.798697,binary,is_reason
+i can not edit my profile picture,battery consumption is high,0,-25.47848892211914,-0.09110525250434875,24.735693,binary,is_reason
+so this app is atrocious because people hack into it,sound is too loud in the last setting,0,9.198081970214844,0.04789319634437561,19.138119,binary,is_reason
+perfect for educational purposes only. .,educational uses only,1,104.2064437866211,0.5814822316169739,12.501334,binary,is_reason
+bluetooth support is atrocious.,good app for behavioring on-line meeting and screen sharing,0,31.541282653808594,0.1380961686372757,19.891556,binary,is_reason
+immense for the interactions,good for interactions,1,134.55819702148438,0.6690244674682617,11.563842,binary,is_reason
+"i liked the app, but Holocenely the sound has stop working.",want to use chat background,0,41.2835807800293,0.16778025031089783,20.83752,binary,is_reason
+you can not set the volume to 0.,want to modify font,0,20.49700927734375,0.08074118942022324,21.768581,binary,is_reason
+the settings are not displayed on the screen.,settings are not displayed on the screen,1,215.29238891601562,0.7782008051872253,11.114818,binary,is_reason
+this helps stay together as a family,acquiring space screen after launching the app,0,-1.812110424041748,-0.008794974535703659,20.511044,binary,is_reason
+"zoom does not seem to want to keep my account working, I am very mad",want to access account,1,75.0726089477539,0.28871169686317444,20.05082,binary,is_reason
+this app is not working on android devices,unable to load the android app,1,166.5535430908203,0.6100943088531494,14.722039,binary,is_reason
+continue observation but not being able to click on a different episode is pathetic.,want to disable presentments,0,13.44379997253418,0.07629846036434174,18.323587,binary,is_reason
+it is perfective but the in-app auto rotation sucking!,unable to open app in uae,0,29.67962646484375,0.14299198985099792,19.485855,binary,is_reason
+I am getting a blank screen after logging in.,getting blank screen after logging in,1,220.19174194335938,0.8648924231529236,8.328663,binary,is_reason
+updating is too frequent.,updates are too frequent,1,188.9639129638672,0.7565348148345947,11.528061,binary,is_reason
+its not connect to internet,want to attend lecture,0,5.712029933929443,0.022307228296995163,22.38571,binary,is_reason
+you can not put filters only on computers something that seems unfair to me :(,want to put filters on computers,1,121.51930236816406,0.7217324376106262,10.566375,binary,is_reason
+the image quality is amazing!,image quality is good,1,208.32998657226562,0.8622307181358337,8.164262,binary,is_reason
+"why can i no longer remove show from the ""keep observation"" class?",need Arabic language support,0,-18.327526092529297,-0.074750155210495,23.24208,binary,is_reason
+the app does not install,app show black screen,0,84.21121215820312,0.4031463861465454,15.910971,binary,is_reason
+and i have to restart my telephone every time.,want to get sharing device screen control option and pip mode,0,37.23546600341797,0.16411060094833374,19.50227,binary,is_reason
+my microphone is not working.,want to use microphone,1,169.5330047607422,0.6176072359085083,14.735048,binary,is_reason
+it will not open on my phone!,unable to use on phone,1,166.8474578857422,0.6695141792297363,13.136342,binary,is_reason
+good background effects and good quality video.,want anime content,0,82.4188003540039,0.3028842508792877,19.878948,binary,is_reason
+I have been try to natural my subscription for a while,want to remove ads,0,63.896034240722656,0.26161110401153564,19.3949,binary,is_reason
+sign in to the correct email password and it just shows the wrong email or password,keeps receiving error message after entering correct email and password,1,144.15185546875,0.6434993743896484,12.698106,binary,is_reason
+"please help, horizontal and vertical chevron look on the computer, they stay after the boot, i do not know how to remove, there is nothing in the setting",rapid_climb is good for chew_the_fat with friend,0,0.22734571993350983,0.0012608293909579515,18.978336,binary,is_reason
+what a disgusting application makes us pass classes,app makes us pass classes,1,154.0093994140625,0.6188830137252808,13.916277,binary,is_reason
+"sometimes the host voice gets a little fuzzy, and come off the screen.",host voice gets fuzzy,1,166.81825256347656,0.7947742938995361,10.384524,binary,is_reason
+why could not i do a device check??,app is good and worth the monetary_value,0,20.22687339782715,0.09546055644750595,19.757097,binary,is_reason
+it does not work properly on most devices.,does not work on most devices,1,124.19586944580078,0.8019320964813232,8.178076,binary,is_reason
+this is amazing apps for student and teacher and any another people..,bad app to watch ipl,0,79.01847076416016,0.39165928959846497,15.669005,binary,is_reason
+the application is unstable on tablets.,app is unstable on tablets,1,156.19647216796875,0.7126314640045166,11.554266,binary,is_reason
+please better your app.,customer service need betterment,0,65.95818328857422,0.29387199878692627,17.804487,binary,is_reason
+it is been 2 weeks since i can not reinstall my zoom.,want to reinstall zoom,1,177.7064971923828,0.7984706163406372,10.171496,binary,is_reason
+can not restore the information,want to recover data,1,133.935302734375,0.4676440358161926,17.690266,binary,is_reason
+i think it is not a good idea to use the android phone and the android filter,android phone and android filter are bad,1,140.17677307128906,0.7323952317237854,11.225487,binary,is_reason
+i have subscribe but i am not happy with hotstar experience,screen presets are not optimum,0,28.649093627929688,0.14366333186626434,18.49978,binary,is_reason
+but i give it 4 stars because they should correct the problem that when they take you out of a meeting it will not let you back in,meeting gets disconnected and unable to rejoin,1,81.25150299072266,0.48246416449546814,14.9070835,binary,is_reason
+i do not know why my zoom can not use the backgroud[?],want to use zoom function,1,149.92828369140625,0.6955707669258118,12.6234865,binary,is_reason
+otherwise there is good flexibility with sharing picture and sound along with break suite for small group.,Mobile app clang patronizely,0,23.829294204711914,0.12170244753360748,18.876715,binary,is_reason
+i uninstall this app and yet it is still look on the update list?,want to connect to audio device,0,-18.544864654541016,-0.07162408530712128,23.836096,binary,is_reason
+it would be interest to be able to open coincident suite by cell telephone.,app keeps acquiring lodge,0,36.459659576416016,0.17904572188854218,18.955011,binary,is_reason
+the truth is this application has very bad graphics i expected more from this brand,app has bad graphics,1,156.48597717285156,0.7422958612442017,11.179033,binary,is_reason
+but when my mother is teaching her child so i cannot get the laptop's charger.,want coincident translation by divide screen,0,-4.2766876220703125,-0.02090589329600334,20.917253,binary,is_reason
+"the screen is clear and the sound is heard very well, and i am using it very well.",audio and video quality is good,1,108.33222961425781,0.5069817900657654,14.718478,binary,is_reason
+so there was this update and now i have no sound.,want to open multiple suite coincidently,0,9.126325607299805,0.03952755779027939,21.131454,binary,is_reason
+this app is good but it wastes a lot of battery.,battery consumption is high,1,106.40851593017578,0.48140162229537964,15.834138,binary,is_reason
+whenever i start to play something the app hangs and then clang.,want to have all setting,0,52.40760040283203,0.2447209656238556,18.253326,binary,is_reason
+i need to uninstall it and reinstall it,want camera and microtelephone option to be foster,0,4.949617385864258,0.023315774276852608,20.387758,binary,is_reason
+the app in my laptop keeps muting itself and it becomes so irritating in daily meetings.,app keeps muting itself,1,174.78726196289062,0.7775291800498962,11.047246,binary,is_reason
+best ott app in the world,best ott platform,1,237.19313049316406,0.7995944619178772,10.982762,binary,is_reason
+"hi, i have black screen when i switch to see active speaker.",receiving black screen to view active speaker,1,171.247802734375,0.8167997002601624,9.160322,binary,is_reason
+- background do not have great interface --,unable to use espn+ without subscribe to cable supplyr,0,19.467870712280273,0.09032583981752396,19.967157,binary,is_reason
+best wish for more creativity to the team of developer.,good to watch movie with family,0,35.610557556152344,0.18096449971199036,18.016706,binary,is_reason
+and how are the camera feature set up?,want to get background and filter for Mobile,0,67.31587219238281,0.29229283332824707,18.064938,binary,is_reason
+i need to listen in the Spanish language thanks,reinstallation did not work,0,17.715116500854492,0.07593744993209839,20.767189,binary,is_reason
+break room feature is not available on mobile version.,break room feature is not available on mobile version,1,200.7796630859375,0.9593366384506226,4.128194,binary,is_reason
+"it is truly annoyance that rapid_climb still auto-revolves the meeting ui, even though my tablet's auto-revolve setting is turn off.",want to find camera option,0,25.619369506835938,0.15134966373443604,17.86329,binary,is_reason
+crashes every time while watching videos,video is crashing,1,234.20982360839844,0.7819073796272278,11.972647,binary,is_reason
+"ask to drop data (name, surname, electronic_mail) and send inexplicable links to some conference.",camera turns off when the app is kept on background,0,4.842283248901367,0.027393033728003502,18.993824,binary,is_reason
+i am not acquiring the blur option,want to change the app name to adstar,0,47.711143493652344,0.21941877901554108,18.428118,binary,is_reason
+it progress at the service of our professional and personal projects,good for personal and professional projects,1,118.58120727539062,0.7407815456390381,9.17381,binary,is_reason
+whether on my tv or phone the app frequently stops playing in the middle of a show.,app is crashing while watching videos,1,125.88194274902344,0.5968063473701477,13.591775,binary,is_reason
+you need to improve in connectivity in gmails,want to improve connectivity in gmails,1,226.26968383789062,0.9626786112785339,4.4016414,binary,is_reason
+there are no virtual background or studio effects in android devices.,app keeps saying something went wrong,0,61.98606491088867,0.21109195053577423,21.661167,binary,is_reason
+one of the best apps to keep up with past and current sports events,good app for sports,1,188.56771850585938,0.7966417670249939,10.845545,binary,is_reason
+i have major problem with buffering of this app,app has buffering issue,1,224.27572631835938,0.8865501880645752,7.801624,binary,is_reason
+my only problem is erstwhiles i get kick off during peak hours of use when using the hot_spot with my laptop,want to make regestration,0,27.299270629882812,0.15916092693805695,17.07137,binary,is_reason
+very bad the artwork are awful and it is very difficult to get the currency of the game and its matchdevising is very bad apart from it,good for school,0,11.662948608398438,0.06818394362926483,18.21582,binary,is_reason
+"erstwhiles the host voice gets a little fuzzed, and come off the screen.",good for app pull_offment,0,4.053117275238037,0.021848252043128014,19.123663,binary,is_reason
+it was good before the last update but now has become worst everytime,recent update is bad,1,122.91374969482422,0.6171934604644775,12.677656,binary,is_reason
+this app is good for playing all sports and movies .,good for watching sports and movies,1,110.77044677734375,0.5770836472511292,12.79431,binary,is_reason
+the appt shuts down twice,switch the session between devices,0,56.11415481567383,0.19589626789093018,21.96758,binary,is_reason
+make a dark mode for ios.,need dark mode on ios,1,181.2581787109375,0.8099801540374756,9.222685,binary,is_reason
+your data is not safe on this app.,app is expensive for on-line class,0,65.08981323242188,0.3125494420528412,16.923784,binary,is_reason
+i tried repeatedly pressing the join audio button and nothing worked.,join audio button is not working,1,204.20718383789062,0.8245302438735962,9.494219,binary,is_reason
+so i can not go to outside meetings with my house ladys.,want to attend outside meetings,1,71.79853820800781,0.362713098526001,16.054224,binary,is_reason
+a poor application is not able to update the status after purchasing on a laptop.,want to update status after purchasing a laptop,1,134.8354034423828,0.612592875957489,13.5277195,binary,is_reason
+i can not load memory is writes failed to load,want to load memory,1,176.9497833251953,0.5907320380210876,15.904327,binary,is_reason
+"you should add the option to remove from the ""continue observation"" list.",unable to play offline video,0,-29.879989624023438,-0.14880454540252686,21.608583,binary,is_reason
+"evening not able to join,device.",good audio and video connection,0,60.01191711425781,0.22257575392723083,20.695387,binary,is_reason
+sign in and sign process is very delay,sign in and signout process is time consuming,1,129.6011199951172,0.6232122182846069,12.534424,binary,is_reason
+erstwhiles i want to be anonymous in a meeting -every time i go to edit my name and put a new name in next time i go into rapid_climb,app is clang,0,56.228118896484375,0.2956874966621399,16.973246,binary,is_reason
+"after updating, i can no longer use hulu.",unable to use hulu after update,1,260.8259582519531,0.8368006348609924,10.141142,binary,is_reason
+why is the app not run on my samsung tv.,unable to use vpn,0,28.376995086669922,0.1192631870508194,20.587654,binary,is_reason
+there should be a way we can cast rapid_climb into a tv.,good for observation childhood movie,0,60.5739631652832,0.3722688555717468,14.348402,binary,is_reason
+can not use background image,easy to use for kids,0,24.99642562866211,0.10103775560855865,21.091177,binary,is_reason
+i uninstalled this app and yet it is still appeared on the update list?,uninstalled the app and yet it is still on the update list,1,166.39694213867188,0.863582193851471,7.4210186,binary,is_reason
+your english translation (live transcripts) when enabled are not accurate at all.,english translation is not correct,1,122.12293243408203,0.6070802807807922,12.797228,binary,is_reason
+i can not talk in class,want to record point,0,16.57450294494629,0.05631987750530243,23.642756,binary,is_reason
+when i switch to another page with zoom meeting open on phone no longer meeting interrupts i can not hear sounds from behind how can i fix this,want to hear sounds from behind,1,63.27092742919922,0.34661149978637695,15.453496,binary,is_reason
+for me i could't find video filter,want to find video filter,1,172.5945281982422,0.7917441725730896,9.831833,binary,is_reason
+but i try to make an history,unable to register in rapid_climb,0,13.507155418395996,0.07902374118566513,18.26789,binary,is_reason
+the test mode does not work.,test mode does not work,1,143.75230407714844,0.690197229385376,11.686291,binary,is_reason
+- you can not control audio from the app if you dial in on the telephone,registration procedure is complicate,0,-0.04316344112157822,-0.0001919982023537159,21.241964,binary,is_reason
+"it will not even let me put in my age it stays on the day it is opened and will not let me change the date, i can not even use the app",want to input date and age,1,43.81194305419922,0.2608563303947449,16.302076,binary,is_reason
+I have uninstalled and reinstalled twice to no avail.,reinstalling did not work,1,149.73080444335938,0.6807370185852051,12.181067,binary,is_reason
+i can not open my zoom,want to use the app,1,95.42237854003906,0.3529382348060608,18.705519,binary,is_reason
+it will not load after i logged in.,unable to load after login,1,186.50274658203125,0.6227083206176758,15.2774105,binary,is_reason
+could have used a better ui.,good app for survey,0,37.05178451538086,0.17822924256324768,19.155035,binary,is_reason
+biometric recognition fails to function after enable it in setting.,data consumption is high and unable to adjust video quality,0,33.901084899902344,0.18211761116981506,17.469194,binary,is_reason
+blurred background not a option though.,blurred background not a option,1,181.39968872070312,0.8304494023323059,8.774417,binary,is_reason
+I am sorry i can not make zumbang.,want to watch populate cricket,0,11.019363403320312,0.062342070043087006,18.54475,binary,is_reason
+i can not set background filter in my android device,break suite are miss,0,-19.771474838256836,-0.09005825221538544,21.934767,binary,is_reason
+i do not understand why the simple function of allowing us to change our status on the mobile app is not an option.,want to change status on mobile,1,151.46377563476562,0.7058155536651611,13.3113,binary,is_reason
+"my zoom app has refused to update even when there is data and network, and i have a very important zoom meeting to attend today, pls can you people help",unable to update zoom app,1,163.89376831054688,0.7491569519042969,11.773133,binary,is_reason
+streaming to chromecast just plain does not work.,unable to stream on chromecast,1,273.7334289550781,0.811716616153717,11.269576,binary,is_reason
+I have delete and re-download the app twice and now i can not even log in.,receive incorrect meeting passcode message,0,50.01894760131836,0.19929713010787964,20.441479,binary,is_reason
+consistently & pleasantly surprised by the consistent improvement of zoom for users.,improve zoom for users,1,186.72998046875,0.7145547866821289,13.230142,binary,is_reason
+how to save data or use less,want to contact technical support,0,8.824803352355957,0.037424683570861816,21.375616,binary,is_reason
+excellent for digital gathering,ux/ui is bad,0,4.909832000732422,0.021129103377461433,21.32957,binary,is_reason
+this app is very good for video conferencing.,unable to enter meeting,0,26.29472541809082,0.09279182553291321,22.8421,binary,is_reason
+i only used it a cpl times yet my saved passcodes do not work.,saved passcodes are not working,1,154.04359436035156,0.71271812915802,11.409132,binary,is_reason
+"keeping track of which episode one is on in a series is impossible because ""watched episodes"" do not work as it should.",unable to keep track of episodes,1,125.76070404052734,0.6484948396682739,12.489792,binary,is_reason
+erstwhiles it wants to restart the same episode,app is slow,0,15.025500297546387,0.05782670900225639,22.138393,binary,is_reason
+it is impossible to write because the pen pressure is severely cut off and the lines are printed out sharply,want to write because the pen pressure is cutoff,1,127.98346710205078,0.6978492140769958,10.5274725,binary,is_reason
+where is the rest of the second season of the owl house?,want to know the status of the owl house season two,1,157.0504150390625,0.8230348229408264,8.30526,binary,is_reason
+and you know how you can put an emoji on the corner of your screen.,want to put emoji on the corner of screen,1,148.86480712890625,0.8004209995269775,8.648594,binary,is_reason
+can not use video filter and studio effects,artwork is bad and unable to change fictional_fictional_character,0,50.00194549560547,0.21322733163833618,19.209322,binary,is_reason
+easy to navigate through,easy to navigate,1,212.21852111816406,0.8954641222953796,7.093299,binary,is_reason
+"i am not able to join audio on pc with my telephone , india is not screening in drop down hapless and even the rapid_climb support is not helping",acquiring charge for naturalled subscription,0,4.444808483123779,0.025259971618652344,18.75816,binary,is_reason
+this app is not installed in my playstore,want to find app on playstore,1,228.16824340820312,0.8025017380714417,10.670397,binary,is_reason
+please put the controls at the bottom of the screen.,want to put controls at bottom of screen,1,169.87208557128906,0.7237927913665771,11.551699,binary,is_reason
+"pretty excellent app, just wish it was not so big!",app is too large in size,1,110.8976058959961,0.6172295808792114,11.886532,binary,is_reason
+please put the control at the bottom of the screen.,want to get record option in Mobile,0,18.117612838745117,0.08164440095424652,20.435541,binary,is_reason
+this app is very expensive to learn survey on-line class,want expression icons on app,0,87.23432922363281,0.35025715827941895,18.5836,binary,is_reason
+since then i can not get the computer to work anymore.,want to copy paste chat,0,-1.281477928161621,-0.00540661346167326,21.897488,binary,is_reason
+please remove this app from Google shop as early as possible.,app is slow while opening,0,54.736263275146484,0.2339494228363037,18.993193,binary,is_reason
+we can not find what the meeting password is.,want to find meeting password,1,211.9950714111328,0.7824946641921997,11.272408,binary,is_reason
+please insert vitual background in it,registration procedure is time devour,0,29.103288650512695,0.13684029877185822,19.317606,binary,is_reason
+"bug, polls freeze or do not work.",want to remove horizontal and vertical chevron,0,-0.3667626976966858,-0.0016003218479454517,21.4934,binary,is_reason
+technical support does not respond.,want to contact technical support,1,101.37379455566406,0.4263106882572174,16.62206,binary,is_reason
+can not reverse the camera,want to reverse camera,1,193.26968383789062,0.7949490547180176,10.000154,binary,is_reason
+fix password error and invalid id,want to fix password error and invalid id issues,1,231.11634826660156,0.8948238492012024,7.4352975,binary,is_reason
+and why we can not take or host a meeting without sign in ?,Russian planmer are good,0,-10.649643898010254,-0.05567680299282074,20.185638,binary,is_reason
+while observation highlight during ads it start buffer,want to own a laptop,0,-24.319000244140625,-0.09160071611404419,24.159746,binary,is_reason
+hulu is a waste of money.,unable to receive otp,0,41.02769470214844,0.13839371502399445,22.780586,binary,is_reason
+"i pre-signed up, but no electronic_mail came.",unable to load even after reinstallation the app,0,34.711204528808594,0.1979660540819168,16.773264,binary,is_reason
+i am not going to 5 star yet because what is most miss is the option to open coincident suite and place participant in them.,want to have more option on telephone,0,40.7353630065918,0.25485172867774963,15.993183,binary,is_reason
+how to put virtual background in Mobile on rapid_climb??,file are too big,0,22.571643829345703,0.10760115832090378,19.396133,binary,is_reason
+why can not you hear me without headteletelephone during a conference,acquiring ads contempt pay for subscription,0,2.7048983573913574,0.013138318434357643,20.23312,binary,is_reason
+registration is long and boring.,screen freeze and audio continue,0,1.5685443878173828,0.005498063750565052,24.154165,binary,is_reason
+the application does not work i copy the link and paste connect to the lesson and an mistake will look,emojis are download,0,68.54143524169922,0.31277820467948914,18.246784,binary,is_reason
+can not change change the image,want to change image,1,188.2313995361328,0.7233462929725647,12.154179,binary,is_reason
+greater for virtual gathering,want to open the baby shower,0,26.687477111816406,0.1064596176147461,21.230974,binary,is_reason
+can not delete message pls do this issue otherwise good,unable to connect to the waiter,0,45.204708099365234,0.1755441129207611,20.66678,binary,is_reason
+monday's upgrade means i can no longer use zoom on my ipad and only through safari with limited features on my imac.,want to use zoom on ipad,1,144.60951232910156,0.6969301104545593,11.594987,binary,is_reason
+very bad highly data usage,want to add picture in picture mode,0,-29.54782485961914,-0.10774680972099304,24.855206,binary,is_reason
+the app sucks to many #s and passcode,app is bad for passcode,1,192.31884765625,0.7835138440132141,10.333204,binary,is_reason
+i enjoy the variety that hulu has to offer.,app has very good content,1,141.74539184570312,0.516521155834198,16.303045,binary,is_reason
+"the pen does not work any more, can you tell me why ?",pen is not working,1,169.7570037841797,0.773793637752533,10.330815,binary,is_reason
+"the zoom has always worked very well, it is very convenient, but recently it has become hanging,",app hangs sometimes,1,78.20114135742188,0.3573208451271057,17.113686,binary,is_reason
+i am unable to blur my background..,want to blur the background,1,154.8387451171875,0.7708509564399719,9.649228,binary,is_reason
+"i see an blessing mistake, but what is the problem?",easy to login for kids,0,-12.238130569458008,-0.0636754110455513,20.689919,binary,is_reason
+great way for large group to come together!!,want to know why only 10 people can entree room,0,56.222171783447266,0.30441153049468994,16.050802,binary,is_reason
+when i want to download anything from the phone i can not download it.,unable to download on phone,1,222.6632843017578,0.7805050611495972,11.932782,binary,is_reason
+", you can at least add your own volume slider.",want to add volume slider,1,193.6829071044922,0.7956433296203613,10.658703,binary,is_reason
+i am unable to stream live matches or any other sports related content.,unable to watch live matches and movies,1,129.26156616210938,0.5508588552474976,14.7442,binary,is_reason
+does not want to register and cannot join the conference,want to register and cannot join conference,1,206.7568359375,0.9410377740859985,5.1213875,binary,is_reason
+does not work properly on Windows 11,unable to update playtore,0,15.004754066467285,0.05629320442676544,22.456905,binary,is_reason
+it gives an error 403 and does not allow you to enter.,receiving 403 error,1,192.1885986328125,0.6237702965736389,15.707888,binary,is_reason
+this app is good but it waste a lot of battery.,facing patronize issue with hulu,0,46.01082229614258,0.23982615768909454,17.211605,binary,is_reason
+but now it dosnt login to a meeting even after 5mins beacause of that,want to remove host/teacher,0,51.99442672729492,0.24078118801116943,18.530611,binary,is_reason
+how do i get to a conference if i can not log in?,audio is falsify while person is speaking,0,51.93061447143555,0.2677686810493469,16.862103,binary,is_reason
+"terrible, you use it a couple of times normally, but then it crashes ridiculously when you start it, and so on, until you uninstall and install again, that is horrible, fix it.",have to reinstall the app due to frequent crashes,1,59.43019485473633,0.3700864017009735,14.516168,binary,is_reason
+worst app. can not take email,want to use email,1,130.933837890625,0.6013116240501404,13.579407,binary,is_reason
+i get a vpn error.,unable to use vpn,1,204.31739807128906,0.8299769163131714,9.301922,binary,is_reason
+many express feature in the tablet version,receive incorrect password message,0,-22.188791275024414,-0.07374221086502075,25.43617,binary,is_reason
+this app keeps learning a little bit of splashed out and clear my network is full of lines and it still splashed out.,app keeps getting splashed out,1,173.63656616210938,0.8027142286300659,10.379595,binary,is_reason
+this app is not working properly in vertual background in some android phone.,app is not working properly in virtual background,1,150.7814178466797,0.690669596195221,11.846842,binary,is_reason
+my dvr shows do not load.,unable to record video,1,101.9800796508789,0.3490954041481018,19.752132,binary,is_reason
+this is a very helpful app for my on-line class but it so lag and so much time taken for connection,need to add more content,0,43.61590576171875,0.22035346925258636,18.059452,binary,is_reason
+i always drop out from the waiting room although my network is stable.,getting disconnected from waiting room,1,88.6252670288086,0.38120144605636597,17.129574,binary,is_reason
+i can not connect to the tv.,remove name_calling and mute status,0,-1.3362443447113037,-0.005598823074251413,21.909012,binary,is_reason
+and i had trouble with rapid_climb cloud meeting.,acquiring space screen after logging in,0,36.62580871582031,0.21214936673641205,16.916082,binary,is_reason
+hotstar is not working on my television.,image quality is good,0,13.515132904052734,0.052074968814849854,22.22895,binary,is_reason
+especially if i play a video after sometimes it automatically pauses.,video keeps pausing automatically,1,189.07647705078125,0.7313395738601685,12.978016,binary,is_reason
+i am able to use green screen on samsung Mobiles,want to turn on the telephone,0,80.4489974975586,0.32994595170021057,18.101881,binary,is_reason
+it is easy to use without have to memorize how to use kuji.,good for connect with youtube,0,64.23180389404297,0.2805277407169342,18.160091,binary,is_reason
+wish it work better on ipads,facing issue with screen share after latest update,0,22.59482192993164,0.11419795453548431,19.035038,binary,is_reason
+can not go in wait room..,app update takes everlastingly,0,26.455718994140625,0.12846814095973969,18.94656,binary,is_reason
+"i try to agree to say that Disney + is unavailable in a certain region, and i was picking it up now",app is good for kids,0,46.45241165161133,0.2797113358974457,16.522621,binary,is_reason
+"a good application for a private study group, important meeting with people at a far distance",good for private study,1,110.4564208984375,0.6276508569717407,11.771023,binary,is_reason
+i think hulu is very expensive.,want to remove conference sound,0,17.915971755981445,0.0707424134016037,21.824284,binary,is_reason
+for some reason i do not understand when the download range 100% i get a message that the application cannot be install,unable to download,0,83.26300811767578,0.39294832944869995,16.926054,binary,is_reason
+pip is not supported.,unable to use pip mode,1,210.99305725097656,0.7150470614433289,13.285586,binary,is_reason
+you have to change the payment method.,want to change payment method,1,189.95872497558594,0.7782824039459229,11.020358,binary,is_reason
+"can not rapid_climb out to use other apps, quite inconvenient, although the camera still has a miniature mode",unable to delete message in rapid_climb chat,0,51.123680114746094,0.3072317838668823,15.495868,binary,is_reason
+after the latest update the picture mode is not working,want to share whiteboard from itelephone,0,5.130018711090088,0.024835683405399323,20.084158,binary,is_reason
+i can not trip the system,good for sport,0,17.278167724609375,0.06755828857421875,21.846289,binary,is_reason
+i could not uninstall the headteletelephone and i had to see it so bad on wozap,telephone runs out of battery,0,53.854034423828125,0.2978561818599701,16.400333,binary,is_reason
+i want to rate this one star because there is no option to switch audio to stereo therefore all audio comes through the phone speaker instead of the tv speaker when casting.,want to switch audio to stereo,1,100.74060821533203,0.6008718013763428,12.508989,binary,is_reason
+what about croatian subtitles?,want croatian language subtitles,1,301.7503356933594,0.8851044774055481,9.454289,binary,is_reason
+download the app .and it will not let me sign up.,good app for cloud meeting,0,49.53261947631836,0.22563929855823517,19.380907,binary,is_reason
+they are still sucking money out of my account with no means to cancel at this time.,want to stop amount deduction,1,71.02693939208984,0.37471315264701843,16.124947,binary,is_reason
+"i do not know how to put the filters, nor do i know how to put the photos in the entrance when you turn off your camera.",want to apply filters and put the photos in entrance,1,91.82889556884766,0.6048206090927124,11.453413,binary,is_reason
+"awful gameplay, bad artwork, bad fictional_fictional_character, this game is bad",rapid_climb dp is not change,0,-8.532854080200195,-0.043408140540122986,20.36278,binary,is_reason
+sometimes the screen freezes,screen freezes,1,334.98785400390625,0.9088346362113953,8.906653,binary,is_reason
+you should make a lite version of rapid_climb,want to share audio via bluetooth,0,26.202184677124023,0.1152011826634407,20.533041,binary,is_reason
+please allow me to change the wallpaper,want to change wallpaper,1,241.966796875,0.831701397895813,10.300577,binary,is_reason
+"but every time your telephone number could not be salvage, please try again",facing issue with bluetooth connection,0,86.14743041992188,0.3656529188156128,17.881865,binary,is_reason
+online classes are very bad.,online classes are bad,1,166.1289825439453,0.7739853262901306,9.858305,binary,is_reason
+"everything lags, it is impossible to enter the system",unable to install hotstar,0,46.19615173339844,0.22065244615077972,18.150564,binary,is_reason
+how do i post my profile picture with my ipad 9th gen,app does not have service,0,12.464343070983887,0.05441330373287201,20.813768,binary,is_reason
+"everything was fine earlier but now after i re-install, it is not support on my ios",unable to play ipl in hotstar,0,29.01323699951172,0.16497480869293213,17.21668,binary,is_reason
+i can not talk to my team while I am working.,worst application for student,0,25.354692459106445,0.12535712122917175,18.831844,binary,is_reason
+how to sign out acc just crazy Chinese,app falsify sound and picture,0,26.23006820678711,0.1283712089061737,18.874651,binary,is_reason
+this is not a best because i can not sign up in the rapid_climb app isliye main ise 2,good for group exhibition,0,17.66105842590332,0.11485693603754044,17.258276,binary,is_reason
+"it is good, but I am taking lessons well, but i can not log in and sign up for membership.",want to log in and sign up for membership,1,166.2683563232422,0.7858507037162781,10.670083,binary,is_reason
+"dear rapid_climb developer, make it possible to change icons on 7 iteletelephone",payment method is difficult,0,6.222439289093018,0.03077513538300991,20.035452,binary,is_reason
+i can not enter my card details.,want to enter card information,1,176.60601806640625,0.6861644983291626,13.292644,binary,is_reason
+"i keep bouncing that my session has expired, but i hit some bugs and fix them",sessions are getting expired,1,162.20361328125,0.6272406578063965,14.173861,binary,is_reason
+the only thing i feel could be improved is to have the passcode imported/populate automatically if the meeting is joined via a link.,passcode needs to be imported automatically if meeting is joined via link,1,128.1871795654297,0.7912974953651428,8.762287,binary,is_reason
+i have missed two meetings and it has onemore problem that there is no option to increase the volume of the audio.,want to increase audio,1,125.57581329345703,0.6295468211174011,13.522226,binary,is_reason
+is there a way to watch the recording?,want to remove left and right flip function,0,-5.695237636566162,-0.024990441277623177,21.616156,binary,is_reason
+the app is very good and the call quality is extremely good.,good app for conducting calls,1,129.31382751464844,0.5096213221549988,16.068352,binary,is_reason
+but i would like it to lower its memory at least up to 50% of memory since it is time to uninstall apps that may be needed,want to reduce memory,1,124.34192657470703,0.6448981761932373,11.939152,binary,is_reason
+but when you try to screen share it is always lagging and you can not see what is going on.,Mobile update was bad,0,33.26897430419922,0.18765459954738617,17.684359,binary,is_reason
+just needs a little bit more security,security features are not high,1,106.82418823242188,0.5700867176055908,12.801524,binary,is_reason
+why are the commercials so loud.,ads are louder than the content,1,131.00473022460938,0.5660800337791443,14.188508,binary,is_reason
+it takes everlastingly to download the app.,app clang every 10 minutes,0,98.1468505859375,0.5206639170646667,13.7390375,binary,is_reason
+i have high speed internet and video is getting stuck.,video keeps getting stuck while playing,1,195.14816284179688,0.6736923456192017,14.238091,binary,is_reason
+"the removal of the names and mute status makes the app appear more streamline, but we need the names and mute status back (function over appearance)!",remove names and mute status,1,111.53224182128906,0.5971774458885193,13.406404,binary,is_reason
+"tablet support: i use a lenovo xiaoxin pad pro with sd730g proc, the virtual background option is unavailable, and the app just treats the 11"" screen as an oversized phone screen which does not make efficient use of the screen real estate to allow chat to be displayed alongside the video feeds.",want to get virtual background option and unable to view chat with video feeds,1,68.65132141113281,0.40531647205352783,14.817617,binary,is_reason
+"the payment portal is torment slow, confuse, and unintuitive.",acquiring ads patronizely,0,30.977617263793945,0.15865005552768707,18.408869,binary,is_reason
+"just to mention, that the sound of the voice are delay.",video turns black intermittently when switch split view,0,22.640148162841797,0.1219780296087265,18.39529,binary,is_reason
+", i enter it, the code did not pass and it is not correct.",want to enter card information,0,96.10175323486328,0.3841531574726105,18.07017,binary,is_reason
+please help me issue a refund.,want a refund,1,163.3912811279297,0.785308837890625,9.63286,binary,is_reason
+I am always pushed out of a meeting and this app always needs constant upgrade which eats my data way too much,getting pushed out of meeting and updates are too frequent,1,123.34282684326172,0.6503183245658875,11.730859,binary,is_reason
+i find it difficult to update my rapid_climb cloud meeting,want playback speed control option,0,6.991597652435303,0.031235456466674805,21.725777,binary,is_reason
+can you add more content?,want to open coincident suite on telephone,0,-9.250617027282715,-0.03809193894267082,22.502064,binary,is_reason
+"network or network, video does not match the voice and screen.",want to sync audio with video,1,95.0741958618164,0.3779032826423645,18.200966,binary,is_reason
+it is very much helpful but i cannot record the meeting from smart phone .,want to record meeting from smart phone,1,144.47767639160156,0.7967547178268433,10.106933,binary,is_reason
+how do i switch to paid content?,want to switch to paid content,1,248.5905303955078,0.9261276721954346,6.3678646,binary,is_reason
+they charge you a monthly fee,facing unauthorised charges every month,1,93.45369720458984,0.46473273634910583,14.672309,binary,is_reason
+i have not been able to enter the room,want to mute telephone,0,41.513671875,0.14452748000621796,22.38229,binary,is_reason
+best app for video calling and office meeting and online classes,good app for conducting online classes and meetings,1,171.00839233398438,0.8027591705322266,9.335345,binary,is_reason
+fantastic to still connect to our love ones contempt the covid 19,code is wrong,0,26.72350311279297,0.13134638965129852,19.04569,binary,is_reason
+zoom is a very very bad app because there are,poor quality of the application,1,85.68893432617188,0.44247063994407654,14.715253,binary,is_reason
+it work at the beginning but now it will not let me watch my show,connect done bluetooth is time devour,0,45.07029342651367,0.23134592175483704,17.698193,binary,is_reason
+"video, sometimes audio as well, turns black intermittently when switching split view on ipad.",video turns black intermittently when switching split view,1,163.3905029296875,0.8208178877830505,9.081194,binary,is_reason
+but 1 - you can not delete zoom chat messages,unable to delete message in zoom chat,1,211.59254455566406,0.8612228035926819,8.262731,binary,is_reason
+i can not watch my online classes .,want to watch online classes,1,139.2509307861328,0.6888952255249023,11.383391,binary,is_reason
+a great app to check on games and team stats,want to watch on-line class,0,66.25728607177734,0.30246204137802124,17.488977,binary,is_reason
+i have a problem could not enter with my email already go into help and services zoom,want to enter email,1,145.8308563232422,0.6366345286369324,13.406763,binary,is_reason
+"resoluteness the issue of keep a list of conference, fix template",emoticon are not beautiful,0,-5.0897417068481445,-0.02974848821759224,18.785074,binary,is_reason
+very easy to create meeting links,easy to create meeting links,1,306.2947082519531,0.9690521955490112,4.4295316,binary,is_reason
+needs more personalization options.,want personalization options,1,132.99636840820312,0.8448079228401184,7.616532,binary,is_reason
+apple phones have some options (like the background option) that android does not have.,apple phone has background option,1,159.31466674804688,0.7657937407493591,11.180926,binary,is_reason
+"since i update, i can not enter some links.",want to use studio effects,0,14.1168212890625,0.05792328715324402,21.466183,binary,is_reason
+"also, lately hulu has not been loading episodes queues for shows!",unable to view the list of episodes on hulu,1,180.234619140625,0.7053539156913757,12.615776,binary,is_reason
+"ill-defined encoding system, etc.",unable to connect on Mobile network,0,20.92501449584961,0.09606319665908813,20.07154,binary,is_reason
+it plant fine but erstwhiles the rapid_climb waiter clang i leave it to be repair please,want to enter alphabet,0,18.906147003173828,0.09022888541221619,20.34484,binary,is_reason
+how can i change the time limit?,want to communicate with people,0,44.692283630371094,0.17188838124275208,20.76233,binary,is_reason
+easy to open and start my class quickly.,easy to open and start,1,160.83338928222656,0.6722104549407959,12.544036,binary,is_reason
+still have not got a refund.,want to get a refund,1,127.33926391601562,0.6298984885215759,12.25817,binary,is_reason
+i have high speed internet and video is acquiring lodge.,cloud rapid_climb apps are good when it comes to following remote_control plans,0,47.346561431884766,0.3089868426322937,14.673683,binary,is_reason
+please provide pip on ipad,want pip on ipad,1,248.14280700683594,0.9037362933158875,7.2746124,binary,is_reason
+what kind of stupid app does not let you record the audio when you are not the host?,want to register for class,0,-15.354044914245605,-0.07533958554267883,21.776308,binary,is_reason
+the app is a great problem because there are not some movies that were supposed to be featured,service does not offer many movies,1,101.72817993164062,0.5564553737640381,12.925276,binary,is_reason
+I am observation a series there is no way to go back to the first episode,want screen lock feature,0,8.383737564086914,0.03478732332587242,22.675459,binary,is_reason
+streaming functionality is awful.,worst app for streaming,1,167.86532592773438,0.6502152681350708,13.439303,binary,is_reason
+i look forward to zoom to have the same filter on instagram,want filters from instagram,1,186.0086212158203,0.7294378876686096,12.427448,binary,is_reason
+"i can not register, plus the lack of ukrainian language, please correct it and put a good assessment",want to register and want ukrainian language support,1,180.7007598876953,0.7330588102340698,12.160716,binary,is_reason
+i need to wait a long time to login,takes time to login,1,185.42819213867188,0.7738422155380249,10.423536,binary,is_reason
+i am not able to share whiteboard from itelephone.,itelephone has better battery performance,0,53.95917892456055,0.2939515709877014,16.117802,binary,is_reason
+but i never found the microphone button.,want to find microphone button,1,205.04006958007812,0.7141871452331543,13.785554,binary,is_reason
+would be nice if expression icons return in zoom.,want expression icons on app,1,151.34811401367188,0.58529132604599,15.218224,binary,is_reason
+"as of this morning i cannot screen cast for some stupid reason, fix this",unable to mirror screen,1,89.14057922363281,0.386501282453537,17.835417,binary,is_reason
+it is great that you can watch your movie right from your telephone.,does not swing even if there is 1gb of space,0,10.528108596801758,0.06156489625573158,18.104797,binary,is_reason
+there is a bug that the rapid_climb screen harden on itelephone xs (ios15.2.1).,educational uses only,0,18.492568969726562,0.11926674842834473,17.039265,binary,is_reason
+an option to touch the space bar to toggle mute/unmute would be fantastic.,want to connect to audio automatic_rifleally,0,65.83602905273438,0.3668103516101837,15.459307,binary,is_reason
+sound will not play on ipad after ios update.,unable to hear sound on ios after update,1,193.87017822265625,0.8061997294425964,9.679418,binary,is_reason
+"it is speaker is also not working properly, even though my mobile is perfectly fine.",speaker is not working properly,1,137.20018005371094,0.6729286313056946,11.82444,binary,is_reason
+it is nice to have a star wars and marvel category.,good for watching star wars and marvel movies,1,160.5693359375,0.8024609684944153,8.914326,binary,is_reason
+bt i could not record my session via Mobile,image quality need betterment,0,14.081684112548828,0.06999339908361435,19.34453,binary,is_reason
+only concern which i detect is that one cannot login on multiple devices with the same paid history which should be repair.,want to use electronic_mail,0,32.1859130859375,0.1575806736946106,19.108265,binary,is_reason
+the app keeps saying something went wrong.,app keeps saying something went wrong,1,216.47525024414062,0.9084683656692505,6.686145,binary,is_reason
+i wrote a reappraisal and it was delete.,group member change topographic_point,0,-1.3049733638763428,-0.005162374582141638,22.9359,binary,is_reason
+very bad app i can not even sign in,unable to sign up,1,116.76481628417969,0.4616389572620392,16.760921,binary,is_reason
+zoom does not update me anymore,want to update zoom app,1,210.08775329589844,0.7767814993858337,11.255294,binary,is_reason
+"i keep bounce that my session has run_out, but i hit some bugs and fix them",bad app for child,0,50.74759292602539,0.2239915430545807,18.754585,binary,is_reason
+it would be nice if more users can be seen on the screen at once.,want to view more participants on one screen,1,113.36272430419922,0.5418106913566589,14.401739,binary,is_reason
+will not even let me make an history.,Google duo is easy,0,-23.955041885375977,-0.10703984647989273,23.453396,binary,is_reason
+i can not watch my on-line class .,app is slow with high speed internet,0,41.161476135253906,0.20611456036567688,17.987307,binary,is_reason
+internet lags when there is a conference,internet lags when there is a conference,1,206.63552856445312,1.0000001192092896,0.0,binary,is_reason
+zoom will not let me create sections and also will not let me start or subscribe,want to create sections,1,64.99121856689453,0.26674455404281616,19.169235,binary,is_reason
+"the app is awful, do not download this discord mess a billion times better!",unable to open the app on ipad,0,36.32533645629883,0.17837372422218323,18.456636,binary,is_reason
+i can not hold any meetings!!,want to hold meetings,1,150.41616821289062,0.6081917881965637,13.93021,binary,is_reason
+the application is as incomprehensible as possible and not comfortable for work.,app is bad for work,1,90.67923736572266,0.5770492553710938,11.822924,binary,is_reason
+you should decrease your subscription fee.,want lower subscription charges,1,168.84130859375,0.7112749218940735,12.160958,binary,is_reason
+re: Mobile.truly awful design that launch you into meeting without giving you a preappraisal of yourself which has cause me to suddenly enter a meeting with video and audio on in the past.,app is not optimize for devices,0,36.38529586791992,0.21624498069286346,17.489084,binary,is_reason
+considering that you cannot recover objects without coming to the surface and if there is a surface contact serca in 2 seconds it will sunk you.,want to recover objects without coming to the surface,1,124.60472106933594,0.6772506833076477,11.62151,binary,is_reason
+"happy, tablet not able to have all settings.",want to have all settings,1,137.67413330078125,0.4937954545021057,17.02791,binary,is_reason
+"you can not put a profile, and it is too ridiculous that the meeting time is 40 minutes.",want to set up profile and increase meeting time limit,1,92.18173217773438,0.5067958831787109,13.859432,binary,is_reason
+not able to use virtual background filter in my meetings.,want to use virtual background filter,1,165.4814453125,0.7607908248901367,10.316938,binary,is_reason
+will not let me connect my tablet's camera,want to download rapid_climb app,0,70.05989074707031,0.29763996601104736,18.213121,binary,is_reason
+video quality is very poor,unable to use on telephone,0,33.02944564819336,0.1365986466407776,21.0898,binary,is_reason
+"this new rapid_climb app is so so annoyance,always download emoji every time i launch it",tv app is bad,0,74.6069564819336,0.39779239892959595,15.565558,binary,is_reason
+telephone call drop all the time,screen sharing quality is good,0,36.1900634765625,0.13077059388160706,21.939451,binary,is_reason
+why can not i control the volume on my itelephone with my headteletelephone on?!,want to synchronize,0,25.070053100585938,0.10068807750940323,21.933184,binary,is_reason
+this app is good for playing all sport and movie .,want to contact in setting,0,6.289970397949219,0.027916735038161278,21.171888,binary,is_reason
+i can not download any movie .,want to behavior meeting for more than 40 minutes,0,-20.561012268066406,-0.09534526616334915,21.820969,binary,is_reason
+rapid_climb will not tell me make an history.,unable to connect meeting,0,-0.7451201677322388,-0.0032832815777510405,22.296356,binary,is_reason
+guess it is time to find a new sport app.,good for sharing with group,0,26.93505859375,0.14021643996238708,18.728352,binary,is_reason
+but it would be best if we had the option of sharing only sound done android devices as well.,app has bad control,0,21.98462677001953,0.11103132367134094,19.107883,binary,is_reason
+"very good app, but after the last update it show a white line on the left of the screen",android version is good,0,54.25069046020508,0.2739119529724121,17.631128,binary,is_reason
+"no button, no way to drag down meeting control from top, absolutely nothing i can do.",want to send picture in message,0,20.7369327545166,0.09008299559354782,21.329382,binary,is_reason
+"the app is nice, but it lacks a lot of content",platform has poor quality of content,1,96.20934295654297,0.49348923563957214,14.13637,binary,is_reason
+new stickers are not downloading,want to download stickers,1,208.08346557617188,0.6616640686988831,14.615255,binary,is_reason
+will not connect to my mentality contact address which is a pain.,want to multitask without switch video,0,-7.8376336097717285,-0.03898448497056961,20.661716,binary,is_reason
+it does not allow to enter the meeting .,unable to enter meetings,1,177.6696014404297,0.7141942381858826,13.13695,binary,is_reason
+I am pay for a service that i can not use.,have to sign in with tv supplyr as well to use the app,0,36.359764099121094,0.21082350611686707,16.504585,binary,is_reason
+too many error codes.,facing error codes frequently,1,133.9608917236328,0.5378459692001343,15.301449,binary,is_reason
+but it is not my connection because no other app on my telephone fails,"want to add filter, background and effects",0,4.459852695465088,0.01993642933666706,20.94022,binary,is_reason
+the link could not be write.,setting are not expose on the screen,0,7.283588886260986,0.027905231341719627,22.62621,binary,is_reason
+it does not connect me with people to play minecraft does not work!,want the app to run in background with picture in picture video,0,1.0115108489990234,0.004586576018482447,20.97087,binary,is_reason
+why can not i register with itelephone 7,want to join a meeting from tablet,0,70.99307250976562,0.2877671420574188,18.883701,binary,is_reason
+can not set photos,want to add photo,1,151.43092346191406,0.544304609298706,15.936203,binary,is_reason
+cannot share ppt on my telephone.,mic does not turn off after call is done,0,82.98126983642578,0.3455563485622406,17.846724,binary,is_reason
+"hey guys, no choice menu for virtual background iphone 7",want to get menu for virtual background on iphone,1,154.5711212158203,0.7586916089057922,9.93654,binary,is_reason
+i think this app must be modified the camera quality because it is camera quality is literally worse in my opinion,want to modify camera quality,1,130.2615509033203,0.7439607977867126,10.06836,binary,is_reason
+helpful to connect with schoolmate and co-worker,want to insert display picture,0,0.39984720945358276,0.0017089447937905788,21.753208,binary,is_reason
+please make a double speed function!,want double speed function,1,230.15814208984375,0.8351321816444397,9.602779,binary,is_reason
+help me install my rapid_climb cloud meeting,do not want the subscription,0,26.75492286682129,0.13356423377990723,18.631163,binary,is_reason
+i have not been able to log in from my cell phone for some time.,unable to login with mobile number,1,140.84848022460938,0.6258009672164917,13.350491,binary,is_reason
+zoom freezes the image and sounds that cannot be seen and heard at unexpected times.,zoom freezes the image and sounds,1,203.04818725585938,0.9245002865791321,7.0286508,binary,is_reason
+it no longer works on android or fire stick tv!,unable to use on android or fire stick,1,138.93502807617188,0.6368278861045837,12.719048,binary,is_reason
+i could not install this app on my telephone!,want to open page,0,64.78497314453125,0.24013790488243103,20.681692,binary,is_reason
+"please add filter, background and effects as Google meet did in android",want to sign up,0,-15.43185043334961,-0.06570183485746384,22.587675,binary,is_reason
+it is very easy to join,easy to connect,1,123.71678161621094,0.39634618163108826,19.497194,binary,is_reason
+very annoying not being able to get a full screen view.,want to get full screen view,1,142.38685607910156,0.5896218419075012,14.811197,binary,is_reason
+you can not choose episode.,artwork is low and gameplay is very bad,0,19.524980545043945,0.09993887692689896,18.75553,binary,is_reason
+"could have given 5 star but for few minor glitches - some devices are unable to use background blurring and sometimes, quite difficult to join some meetings.",want to blur background and join meetings,1,92.6030502319336,0.5848326683044434,12.6420555,binary,is_reason
+fix the blur feature.,want to change id,0,20.65294075012207,0.06959559768438339,23.52388,binary,is_reason
+why would i want to join a meeting without audio?,want to join meeting with audio by default,1,153.96420288085938,0.7217203378677368,11.356488,binary,is_reason
+i would just like to finalize that ipad and iphone can connect a second pair of headphones via bluetooth.,want to connect a second pair of headphones via bluetooth,1,153.62796020507812,0.7848811149597168,9.448982,binary,is_reason
+and it keeps pickings me out of my meeting,app auto revolves in meeting even after disable auto revolve feature,0,56.86103439331055,0.34659630060195923,14.761154,binary,is_reason
+i cannot copy paste chat.,want to switch between computer and telephone,0,24.789575576782227,0.09113383293151855,22.275957,binary,is_reason
+excellent application for conferences and group exhibitions.,good for group exhibitions,1,170.29537963867188,0.7452165484428406,10.934618,binary,is_reason
+"as for now, rapid_climb app is not able to connect to car bluetooth.",chat boxes are blocking the presentation,0,-1.2618025541305542,-0.0053839655593037605,21.953583,binary,is_reason
+I have been trying to cancel my subscription for a while,unable to unsubscribe,1,116.91009521484375,0.5261672735214233,14.740951,binary,is_reason
+apps are disgust to spend bagasse charge on the telephone,want to put money and filter,0,55.48190689086914,0.2973434031009674,16.217115,binary,is_reason
+"everytime i transfer from breakout room to another breakout room, it automatically unmutes me.",app unmutes automatically when switching between breakout rooms,1,153.98121643066406,0.7058837413787842,11.61546,binary,is_reason
+advertising is so bad,advertisements are bad,1,190.62908935546875,0.8284761309623718,8.999892,binary,is_reason
+i tried more than 10 times to download but it is not getting downloaded and it is showing that can not download zoom .,want to download zoom app,1,171.83290100097656,0.7650394439697266,11.6322,binary,is_reason
+drop the evaluation down a bit more.,want to remove the message mode,0,30.247446060180664,0.13275174796581268,20.495602,binary,is_reason
+this app does not work well on tv,subtitle are small on tv,0,81.6744384765625,0.3512423038482666,17.410019,binary,is_reason
+no virtual image approach after updating the app,control become more complex,0,1.6376663446426392,0.007985526695847511,20.205736,binary,is_reason
+"the application is miss background, this is very bad.",want to login with apple id,0,1.8769080638885498,0.00791861116886139,22.140692,binary,is_reason
+please improve your app.,need to improve the app,1,192.3579864501953,0.8216710686683655,9.13841,binary,is_reason
+"the application is missing backgrounds, this is very bad.",app is missing backgrounds,1,169.763427734375,0.7475210428237915,11.244912,binary,is_reason
+plus i keep acquiring log out of my history,unable to use the app on wireless_local_area_network,0,-10.933863639831543,-0.04679128900170326,22.118183,binary,is_reason
+it does not let me relax during class.,want to relax during class,1,113.87288665771484,0.6027307510375977,12.533878,binary,is_reason
+host video is not available,want to add volume skidder,0,38.649776458740234,0.14316530525684357,21.50896,binary,is_reason
+but i problem is the video cannot be paused betwwn the clases,want to pause video,1,220.0421600341797,0.7279078364372253,13.385126,binary,is_reason
+but whenever i logged in on one device then the other device gets logged out automatically.,getting auto logged out after logging in on second device,1,134.3368682861328,0.7372530698776245,9.814551,binary,is_reason
+extremely good interface and clear quality conferencing,good interface and clear quality conferencing,1,168.5382843017578,0.9828980565071106,2.4803994,binary,is_reason
+great for chat room,want to register and cannot join conference,0,22.105077743530273,0.09138355404138565,20.985533,binary,is_reason
+"the worst video calling app, lags badly everytime share screening, even with a powerful machine, any other application opened in the background that app starrs lagging badly.",video calling app is bad,1,106.76839447021484,0.6830028891563416,11.034574,binary,is_reason
+not able to use virtual background filter in my meeting.,installation procedure is time devour,0,9.780035018920898,0.042573001235723495,21.295269,binary,is_reason
+"when i mirror in the video settings, the view i see is mirrored, but i can not mirror it to other participants; it is really uncomfortable!",want to mirror screen to participants,1,98.3471450805664,0.5189511179924011,13.741478,binary,is_reason
+the audio is cut off.,audio is choppy,1,142.12364196777344,0.4999828636646271,16.865088,binary,is_reason
+waste of time it does not even let you scan the code when you have code!,want to scan code,1,145.14834594726562,0.6314426064491272,15.19753,binary,is_reason
+this app is not working in qatar..,unable to open app in middle east,1,145.11468505859375,0.680357038974762,11.678734,binary,is_reason
+it is a good app for korean lessons,good for korean lessons,1,196.05584716796875,0.74079430103302,11.725128,binary,is_reason
+"it is a good app and i am happy for this app but please give the virtual background option on this ipad mini , please i am pleasing you to give the option.",want to get virtual background option in ipad mini,1,105.08306121826172,0.6731254458427429,10.383332,binary,is_reason
+"i cannot enter ""rapid_climb"" from the web page from my network tv (samsung), it does not support.",app clang on load screen,0,41.50682067871094,0.24233675003051758,16.3812,binary,is_reason
+bullsh!t having trouble trying to sign to class but saying idk,want to register for classes,1,81.25038146972656,0.363481342792511,17.337626,binary,is_reason
+please make a double speed function!,load time is slow,0,41.300785064697266,0.15817900002002716,20.968214,binary,is_reason
+i can not update this app,unable to update app,1,160.85594177246094,0.709606409072876,11.486298,binary,is_reason
+app clang during important ipl final.hapless cyclosis platform.,want volume adjust feature,0,-0.23914283514022827,-0.0012731554452329874,20.536171,binary,is_reason
+"i can not see the slides properly, when i rotate my mobile.",want to rotate slides properly,1,129.81512451171875,0.6729894876480103,11.611251,binary,is_reason
+"it never Michigan, icons are not Handy, it articulation by video as default.",unable to use Disney plus on tv,0,80.91852569580078,0.36908087134361267,16.972195,binary,is_reason
+I would like to be able to minis the screen while i coil thru other apps,easy to set up,0,59.38719177246094,0.2747907042503357,17.873209,binary,is_reason
+rapid_climb is amaze i can rapid_climb anywhere and anytime but erstwhiles my internet goes down,unable to open app with wireless_local_area_network,0,26.590364456176758,0.13035167753696442,19.171337,binary,is_reason
+"please add some 144, 240 video quality options in the app",want 240p video quality,1,132.1012725830078,0.7366776466369629,9.820724,binary,is_reason
+can you give me indonesian language ?,want indonesian language support,1,210.63522338867188,0.7772237658500671,11.131544,binary,is_reason
+"very useful, and convenient for school meetings, etc.",good app for school,1,116.81324005126953,0.5335163474082947,14.983383,binary,is_reason
+awful when approach to populate cyclosis.,want to change background during video call,0,-18.08860206604004,-0.08796540647745132,21.400175,binary,is_reason
+i could not watch the movie i wanted to watch for god's sake,unable to view all movies,1,86.59213256835938,0.4015718698501587,16.900698,binary,is_reason
+i do not know why my rapid_climb can not use the backgroud[?],unable to set virtual background on mobie,0,29.58000373840332,0.16254931688308716,18.150728,binary,is_reason
+the app does not start for me (itelephone 12),unable to start on ios,0,96.24319458007812,0.44581466913223267,15.794509,binary,is_reason
+Disney+ has a overplus of different plan and is the most elite tv set i have ever seen i would highly recommend this to everyone,facing device heating issue,0,5.574662685394287,0.03112204372882843,19.395895,binary,is_reason
+crashes 50 times in a minute,crashes 50 times in a minute,1,190.77716064453125,0.9999999403953552,0.0,binary,is_reason
+slow down the download,want to record audio on pc,0,85.43501281738281,0.26300954818725586,21.883406,binary,is_reason
+"synergistic_agent handwriting was the large merit, but i could not write it because it was block.",video conference is bad,0,13.450093269348145,0.07388731837272644,18.578415,binary,is_reason
+"please add some 144, 240 video quality option in the app",video sound is low,0,121.27921295166016,0.5177608728408813,15.794639,binary,is_reason
+"when i checked the basic accessibility i found that there is no problem, but i could not find options for camera",want to find camera option,1,140.4195556640625,0.6575023531913757,12.436167,binary,is_reason

@@ -1,0 +1,504 @@
+id,first_sentence,second_sentence,score,score_name,score_type
+0,can not share audio via bluetooth,good for on-line presentation,0,is_reason,binary
+1,Google sign-in does not work!,hard to use video,0,is_reason,binary
+2,the best platform to communicate in a pandemic,good for communication,1,is_reason,binary
+3,it will not open on my telephone!,app is bad for work,0,is_reason,binary
+4,this app is very expensive to learn study online classes,app is expensive for online classes,1,is_reason,binary
+5,I am not able to sign up for hulu,unable to sign up for hulu,1,is_reason,binary
+6,now it does not work on oneplus,unable to use subtitle on chromecast,0,is_reason,binary
+7,because i can not skip class,unable to connect to airplay,0,is_reason,binary
+8,you can not change your mic setting while drawing on someone else's,want to change mic setting while drawing,1,is_reason,binary
+9,too dangerous for my children.,bad app for children,1,is_reason,binary
+10,i can not meet my friend,app is slow and clang patronizely,0,is_reason,binary
+11,"erstwhiles the app will clang, but i just restart my telephone.",want to change setting,0,is_reason,binary
+12,some features are missing,features are missing,1,is_reason,binary
+13,i forget my password and try to set new password via electronic_mail,have to reinstall the app to make the app work,0,is_reason,binary
+14,"the whole point of download is to watch offline, but the app wants you to be connect.",upapproach meeting are not in sync,0,is_reason,binary
+15,love this app i can always get on rapid_climb with my friend or family,background voice issue,0,is_reason,binary
+16,will not connect to my outlook contact addresses which is a pain.,want to connect to outlook email,1,is_reason,binary
+17,it is rather annoyance because when you want to attend a meeting it just comes up that the app need updating.,want to hear audio without headteletelephone,0,is_reason,binary
+18,not very much good always asks to switch account and sign in,want to switch account and sign in,1,is_reason,binary
+19,"best entertainment app for video, movie, cartoon","good for watching movies, series and cartoons",1,is_reason,binary
+20,I am using 150mbps but the cyclosis quality is very bad on android tv.,unable to subscribe on app,0,is_reason,binary
+21,everyone says there is no support for Turkish language translate from setting to Turkish so simple or how did you not understand?,want to share file in chat,0,is_reason,binary
+22,"unfortunately, no sound on tv when i plug my ipad or iphone into an hdmi adapter.",want to hear audio on tv after plugging in ios devices into hdmi adapter,1,is_reason,binary
+23,sound problem - why is it so hard?,pen is not working,0,is_reason,binary
+24,"also, it would be nice if there was a way to remove items from the ""continue observation"" list.",receive incorrect telephone number message,0,is_reason,binary
+25,"poor performance, and always updating even in on-line class meeting,",app has virtual background,0,is_reason,binary
+26,i have not even try the application but the regestration just freeze out why do so many items,want to connect to the conference,0,is_reason,binary
+27,best app for on-line teaching,better the quality of communication,0,is_reason,binary
+28,no option for chew_the_fat,unable to download rapid_climb app,0,is_reason,binary
+29,but i would like it to lower_berth its memory at least up to 50% of memory since it is time to uninstall apps that may be necessitate,want to specialize in computer science,0,is_reason,binary
+30,but the picture quality is not great.,poor picture quality,1,is_reason,binary
+31,good one for on-line business.,24mb rapid_climb emojis are download all the time,0,is_reason,binary
+32,you should like the option that you can put wallpaper on cell telephone,want to get card,0,is_reason,binary
+33,i can not change my language to russian or ukrainian!,want to change russian language,1,is_reason,binary
+34,can not change settings like background picture until I am already in a meeting,want to change settings like background picture,1,is_reason,binary
+35,"since i update it, it will not let me enter the app",unable to login since the update,1,is_reason,binary
+36,"the bell is not necessity, it is okay to leave a banner on the screen but not a bell every time person articulation.",want to open camera,0,is_reason,binary
+37,"i use to use rapid_climb on both my tablet and Mobile with same history in same time, so it very easy to switch between device and its very useful.",easy to use without have to memorize kuji,0,is_reason,binary
+38,some episode are miss.,want to change name and profile picture,0,is_reason,binary
+39,this app is only worst my time class automatic disconnect,app is bad for time management,1,is_reason,binary
+40,will not let me even install it,want to lower_berth age limit,0,is_reason,binary
+41,can not even read / write message coincidently.,want to disable auto revolve feature,0,is_reason,binary
+42,"""you are not eligible to sign up for zoom at this time""",receiving not eligible for zoom message,1,is_reason,binary
+43,i love observation movie from my childhood with my little girl.,want to use virtual background for samsung galaxy tablet s6,0,is_reason,binary
+44,it is not possible to log in either from the pc or from the tv.,want to see more than 4 screen,0,is_reason,binary
+45,very good user interface and experience.,want to record on telephone,0,is_reason,binary
+46,"after the last update, the interface wholly change and expose in Russian, in the setting there is no such option as ""language chooseion""",good for virtual gathering,0,is_reason,binary
+47,it will not stop buffering and it is not because my connection is bad,app has connection and buffering issues,1,is_reason,binary
+48,i enjoy the assortment that hulu has to offer.,want to change name,0,is_reason,binary
+49,"since a recent update, i can no longer see people in breakout rooms.",want to see people in breakout rooms,1,is_reason,binary
+50,this app is very helpful to collaborate with friend welcome,want to hear the anthem,0,is_reason,binary
+51,the subtitle are truly too small to read.,facing screen compatibility issue on moto g20,0,is_reason,binary
+52,it has no recording option,want recording option,1,is_reason,binary
+53,the most unliked app for teacher,want Ukrainian language support,0,is_reason,binary
+54,this app does not have service support,app does not have service,1,is_reason,binary
+55,not able to join any meeting smoothly after every minute my zoom disconnects and shows error,unable to join zoom rooms,1,is_reason,binary
+56,i can not install the app in my phone,unable to download the app,1,is_reason,binary
+57,"this application is reasonably good, but it does not support the Arabic language; so i gave it 2 out of 5",want to register for 3 devices,0,is_reason,binary
+58,"the question is why i can not save a list of meetings i can connect to on the main screen, with the ability to name this meeting.",want to save meeting lists,1,is_reason,binary
+59,"images uploaded for polls do not pop up in certain devices, and can not find help anywhere",want to find polls in certain devices,1,is_reason,binary
+60,unable to download or update,unable to download and update,1,is_reason,binary
+61,there is a problem on bluetooth audio and device audio.,facing issues with bluetooth audio devices,1,is_reason,binary
+62,can not get it to pair with hearing aids.,want to pair hearing aids,1,is_reason,binary
+63,whether on my tv or telephone the app patronizely Michigan playing in the center of a show.,poor service from hotstar,0,is_reason,binary
+64,very good application and very practical for monitoring remote meetings,good for monitoring remote meetings,1,is_reason,binary
+65,"you should add the option to remove from the ""continue watching"" list.",want to remove videos from continue watching list,1,is_reason,binary
+66,i can not change my language to Russian or Ukrainian!,app keeps auto shutting,0,is_reason,binary
+67,best app for children,good for children,1,is_reason,binary
+68,"and no where to ascent the plan, please delegateed a button for ascent to others plan also.",desktop version is bad,0,is_reason,binary
+69,"it does not work with a bluetooth box, i believe that not with a headset and on the tv/monitor, the sound does not come out on the tv in mirror mode/",want to change setting like background picture,0,is_reason,binary
+70,zoom does not cater for android users.,zoom does not cater for android users,1,is_reason,binary
+71,the current version of hulu is not compatible with ios version 15.4.,unable to use hulu on ios after latest update,1,is_reason,binary
+72,"mega nice app, unfortunately there is a malfunction from time to time because the network is wholly overload.",Mobile app is better than desktop app,0,is_reason,binary
+73,"fantastic app, moderate prices and suitable for everyone!",app is good with reasonable price,1,is_reason,binary
+74,for some reason recently the app has not load.,want to login from direct link,0,is_reason,binary
+75,i have major problem with buffer of this app,unable to play download video,0,is_reason,binary
+76,i can not share my screen!,want to share screen,1,is_reason,binary
+77,zoom is not convenient to do lessons in the distance vatsap better than zoom there,zoom is not convenient,1,is_reason,binary
+78,could be a little clearer voice control,want better voice control,1,is_reason,binary
+79,the server never runs properly!,app has terrible servers,1,is_reason,binary
+80,"every time the app is update, the history is delete!",want to delete posts,0,is_reason,binary
+81,older version was far better than this new.,previous version was better,1,is_reason,binary
+82,i can not listen to the conference i can not listen to the conference,want to listen to the conference,1,is_reason,binary
+83,best ott app in the universe,unable to choose subtitle,0,is_reason,binary
+84,it would be interest to be able to make a agenda meeting,want to login to school history,0,is_reason,binary
+85,but whenever i join the meeting and then if i want to go to other app then host voice is completely inaudible and after 2-3min it disconnected..,want to hear audio and meeting gets disconnected,1,is_reason,binary
+86,"i mainly use it for yoga lessons, but i can no longer turn off the center camera in the control center, and i can not capture the entire pose.",want to turn off center camera in the control center,1,is_reason,binary
+87,the zoom is limited with time and it is very disruptive,zoom has a time limit,1,is_reason,binary
+88,downloaded emojis which are useless.,downloaded emojis which are useless,1,is_reason,binary
+89,the sound connection is poorly done (you need to use headphones and then on the inscription,sound connection is poor,1,is_reason,binary
+90,"unclear encryption systems, etc.",unclear encryption system,1,is_reason,binary
+91,the software of this app is low even one star,app has bad software,1,is_reason,binary
+92,my app server goes down when i try to join my class.,app server goes down when trying to join class,1,is_reason,binary
+93,"it is unacceptable that it is not possible to mirror the image and audio natively in the application, if you want to use an android device and mirror the video to the tv on Google chrome cast you can only be able to use the Google home app but the audio does not mirror, it is muted and pathetic!",want to hear video,0,is_reason,binary
+94,the application plant shockingly badly,want to download update,0,is_reason,binary
+95,very low quality meeting app.,poor quality of meeting,1,is_reason,binary
+96,i am not able to set the background of my video,good app for behavioring on-line meeting and interview,0,is_reason,binary
+97,it is a pity that you can not change and delete your sms in the chat,unable to load due to mistake,0,is_reason,binary
+98,no options exist to change subscriptions in the mobile app.,want to change subscriptions,1,is_reason,binary
+99,I would like rapid_climb to be able to work in background with picture in picture video like facetime does.,good for small business,0,is_reason,binary
+100,zoom is now better and more stable,app is better and stable,1,is_reason,binary
+101,perfective for multi task,want to see ads while in use,0,is_reason,binary
+102,best app for conference call,telephone screen sharing is slow,0,is_reason,binary
+103,i can not get past the load screen.,presentment bell keeps ring during the meeting,0,is_reason,binary
+104,my app waiter goes down when i try to join my class.,want to connect to waiter,0,is_reason,binary
+105,"the artwork and fps are bad, very low, i do not see the option to addition the quality, besides the class of those teacher are drilling, demur that of eca and physical education",easy to connect,0,is_reason,binary
+106,i do not like that i do not have the option to hide my camera just for myself not for other user on call,want to reset password,0,is_reason,binary
+107,some feature are miss,good for face to face communication,0,is_reason,binary
+108,the links do not open me and it tells me error 1132 all the time i deleted it,want to access link,1,is_reason,binary
+109,i can not install rapid_climb on my android.,want to exit the application,0,is_reason,binary
+110,i hope that there is a pip mode.,want pip mode,1,is_reason,binary
+111,it does not support the arabic language,need arabic language support,1,is_reason,binary
+112,i can not watch ipl,want to sign in using Google,0,is_reason,binary
+113,i can not edit my profile picture,battery consumption is high,0,is_reason,binary
+114,so this app is atrocious because people hack into it,sound is too loud in the last setting,0,is_reason,binary
+115,perfect for educational purposes only. .,educational uses only,1,is_reason,binary
+116,bluetooth support is atrocious.,good app for behavioring on-line meeting and screen sharing,0,is_reason,binary
+117,immense for the interactions,good for interactions,1,is_reason,binary
+118,"i liked the app, but Holocenely the sound has stop working.",want to use chat background,0,is_reason,binary
+119,you can not set the volume to 0.,want to modify font,0,is_reason,binary
+120,the settings are not displayed on the screen.,settings are not displayed on the screen,1,is_reason,binary
+121,this helps stay together as a family,acquiring space screen after launching the app,0,is_reason,binary
+122,"zoom does not seem to want to keep my account working, I am very mad",want to access account,1,is_reason,binary
+123,this app is not working on android devices,unable to load the android app,1,is_reason,binary
+124,continue observation but not being able to click on a different episode is pathetic.,want to disable presentments,0,is_reason,binary
+125,it is perfective but the in-app auto rotation sucking!,unable to open app in uae,0,is_reason,binary
+126,I am getting a blank screen after logging in.,getting blank screen after logging in,1,is_reason,binary
+127,updating is too frequent.,updates are too frequent,1,is_reason,binary
+128,its not connect to internet,want to attend lecture,0,is_reason,binary
+129,you can not put filters only on computers something that seems unfair to me :(,want to put filters on computers,1,is_reason,binary
+130,the image quality is amazing!,image quality is good,1,is_reason,binary
+131,"why can i no longer remove show from the ""keep observation"" class?",need Arabic language support,0,is_reason,binary
+132,the app does not install,app show black screen,0,is_reason,binary
+133,and i have to restart my telephone every time.,want to get sharing device screen control option and pip mode,0,is_reason,binary
+134,my microphone is not working.,want to use microphone,1,is_reason,binary
+135,it will not open on my phone!,unable to use on phone,1,is_reason,binary
+136,good background effects and good quality video.,want anime content,0,is_reason,binary
+137,I have been try to natural my subscription for a while,want to remove ads,0,is_reason,binary
+138,sign in to the correct email password and it just shows the wrong email or password,keeps receiving error message after entering correct email and password,1,is_reason,binary
+139,"please help, horizontal and vertical chevron look on the computer, they stay after the boot, i do not know how to remove, there is nothing in the setting",rapid_climb is good for chew_the_fat with friend,0,is_reason,binary
+140,what a disgusting application makes us pass classes,app makes us pass classes,1,is_reason,binary
+141,"sometimes the host voice gets a little fuzzy, and come off the screen.",host voice gets fuzzy,1,is_reason,binary
+142,why could not i do a device check??,app is good and worth the monetary_value,0,is_reason,binary
+143,it does not work properly on most devices.,does not work on most devices,1,is_reason,binary
+144,this is amazing apps for student and teacher and any another people..,bad app to watch ipl,0,is_reason,binary
+145,the application is unstable on tablets.,app is unstable on tablets,1,is_reason,binary
+146,please better your app.,customer service need betterment,0,is_reason,binary
+147,it is been 2 weeks since i can not reinstall my zoom.,want to reinstall zoom,1,is_reason,binary
+148,can not restore the information,want to recover data,1,is_reason,binary
+149,i think it is not a good idea to use the android phone and the android filter,android phone and android filter are bad,1,is_reason,binary
+150,i have subscribe but i am not happy with hotstar experience,screen presets are not optimum,0,is_reason,binary
+151,but i give it 4 stars because they should correct the problem that when they take you out of a meeting it will not let you back in,meeting gets disconnected and unable to rejoin,1,is_reason,binary
+152,i do not know why my zoom can not use the backgroud[?],want to use zoom function,1,is_reason,binary
+153,otherwise there is good flexibility with sharing picture and sound along with break suite for small group.,Mobile app clang patronizely,0,is_reason,binary
+154,i uninstall this app and yet it is still look on the update list?,want to connect to audio device,0,is_reason,binary
+155,it would be interest to be able to open coincident suite by cell telephone.,app keeps acquiring lodge,0,is_reason,binary
+156,the truth is this application has very bad graphics i expected more from this brand,app has bad graphics,1,is_reason,binary
+157,but when my mother is teaching her child so i cannot get the laptop's charger.,want coincident translation by divide screen,0,is_reason,binary
+158,"the screen is clear and the sound is heard very well, and i am using it very well.",audio and video quality is good,1,is_reason,binary
+159,so there was this update and now i have no sound.,want to open multiple suite coincidently,0,is_reason,binary
+160,this app is good but it wastes a lot of battery.,battery consumption is high,1,is_reason,binary
+161,whenever i start to play something the app hangs and then clang.,want to have all setting,0,is_reason,binary
+162,i need to uninstall it and reinstall it,want camera and microtelephone option to be foster,0,is_reason,binary
+163,the app in my laptop keeps muting itself and it becomes so irritating in daily meetings.,app keeps muting itself,1,is_reason,binary
+164,best ott app in the world,best ott platform,1,is_reason,binary
+165,"hi, i have black screen when i switch to see active speaker.",receiving black screen to view active speaker,1,is_reason,binary
+166,- background do not have great interface --,unable to use espn+ without subscribe to cable supplyr,0,is_reason,binary
+167,best wish for more creativity to the team of developer.,good to watch movie with family,0,is_reason,binary
+168,and how are the camera feature set up?,want to get background and filter for Mobile,0,is_reason,binary
+169,i need to listen in the Spanish language thanks,reinstallation did not work,0,is_reason,binary
+170,break room feature is not available on mobile version.,break room feature is not available on mobile version,1,is_reason,binary
+171,"it is truly annoyance that rapid_climb still auto-revolves the meeting ui, even though my tablet's auto-revolve setting is turn off.",want to find camera option,0,is_reason,binary
+172,crashes every time while watching videos,video is crashing,1,is_reason,binary
+173,"ask to drop data (name, surname, electronic_mail) and send inexplicable links to some conference.",camera turns off when the app is kept on background,0,is_reason,binary
+174,i am not acquiring the blur option,want to change the app name to adstar,0,is_reason,binary
+175,it progress at the service of our professional and personal projects,good for personal and professional projects,1,is_reason,binary
+176,whether on my tv or phone the app frequently stops playing in the middle of a show.,app is crashing while watching videos,1,is_reason,binary
+177,you need to improve in connectivity in gmails,want to improve connectivity in gmails,1,is_reason,binary
+178,there are no virtual background or studio effects in android devices.,app keeps saying something went wrong,0,is_reason,binary
+179,one of the best apps to keep up with past and current sports events,good app for sports,1,is_reason,binary
+180,i have major problem with buffering of this app,app has buffering issue,1,is_reason,binary
+181,my only problem is erstwhiles i get kick off during peak hours of use when using the hot_spot with my laptop,want to make regestration,0,is_reason,binary
+182,very bad the artwork are awful and it is very difficult to get the currency of the game and its matchdevising is very bad apart from it,good for school,0,is_reason,binary
+183,"erstwhiles the host voice gets a little fuzzed, and come off the screen.",good for app pull_offment,0,is_reason,binary
+184,it was good before the last update but now has become worst everytime,recent update is bad,1,is_reason,binary
+185,this app is good for playing all sports and movies .,good for watching sports and movies,1,is_reason,binary
+186,the appt shuts down twice,switch the session between devices,0,is_reason,binary
+187,make a dark mode for ios.,need dark mode on ios,1,is_reason,binary
+188,your data is not safe on this app.,app is expensive for on-line class,0,is_reason,binary
+189,i tried repeatedly pressing the join audio button and nothing worked.,join audio button is not working,1,is_reason,binary
+190,so i can not go to outside meetings with my house ladys.,want to attend outside meetings,1,is_reason,binary
+191,a poor application is not able to update the status after purchasing on a laptop.,want to update status after purchasing a laptop,1,is_reason,binary
+192,i can not load memory is writes failed to load,want to load memory,1,is_reason,binary
+193,"you should add the option to remove from the ""continue observation"" list.",unable to play offline video,0,is_reason,binary
+194,"evening not able to join,device.",good audio and video connection,0,is_reason,binary
+195,sign in and sign process is very delay,sign in and signout process is time consuming,1,is_reason,binary
+196,erstwhiles i want to be anonymous in a meeting -every time i go to edit my name and put a new name in next time i go into rapid_climb,app is clang,0,is_reason,binary
+197,"after updating, i can no longer use hulu.",unable to use hulu after update,1,is_reason,binary
+198,why is the app not run on my samsung tv.,unable to use vpn,0,is_reason,binary
+199,there should be a way we can cast rapid_climb into a tv.,good for observation childhood movie,0,is_reason,binary
+200,can not use background image,easy to use for kids,0,is_reason,binary
+201,i uninstalled this app and yet it is still appeared on the update list?,uninstalled the app and yet it is still on the update list,1,is_reason,binary
+202,your english translation (live transcripts) when enabled are not accurate at all.,english translation is not correct,1,is_reason,binary
+203,i can not talk in class,want to record point,0,is_reason,binary
+204,when i switch to another page with zoom meeting open on phone no longer meeting interrupts i can not hear sounds from behind how can i fix this,want to hear sounds from behind,1,is_reason,binary
+205,for me i could't find video filter,want to find video filter,1,is_reason,binary
+206,but i try to make an history,unable to register in rapid_climb,0,is_reason,binary
+207,the test mode does not work.,test mode does not work,1,is_reason,binary
+208,- you can not control audio from the app if you dial in on the telephone,registration procedure is complicate,0,is_reason,binary
+209,"it will not even let me put in my age it stays on the day it is opened and will not let me change the date, i can not even use the app",want to input date and age,1,is_reason,binary
+210,I have uninstalled and reinstalled twice to no avail.,reinstalling did not work,1,is_reason,binary
+211,i can not open my zoom,want to use the app,1,is_reason,binary
+212,it will not load after i logged in.,unable to load after login,1,is_reason,binary
+213,could have used a better ui.,good app for survey,0,is_reason,binary
+214,biometric recognition fails to function after enable it in setting.,data consumption is high and unable to adjust video quality,0,is_reason,binary
+215,blurred background not a option though.,blurred background not a option,1,is_reason,binary
+216,I am sorry i can not make zumbang.,want to watch populate cricket,0,is_reason,binary
+217,i can not set background filter in my android device,break suite are miss,0,is_reason,binary
+218,i do not understand why the simple function of allowing us to change our status on the mobile app is not an option.,want to change status on mobile,1,is_reason,binary
+219,"my zoom app has refused to update even when there is data and network, and i have a very important zoom meeting to attend today, pls can you people help",unable to update zoom app,1,is_reason,binary
+220,streaming to chromecast just plain does not work.,unable to stream on chromecast,1,is_reason,binary
+221,I have delete and re-download the app twice and now i can not even log in.,receive incorrect meeting passcode message,0,is_reason,binary
+222,consistently & pleasantly surprised by the consistent improvement of zoom for users.,improve zoom for users,1,is_reason,binary
+221,how to save data or use less,want to contact technical support,0,is_reason,binary
+222,excellent for digital gathering,ux/ui is bad,0,is_reason,binary
+223,this app is very good for video conferencing.,unable to enter meeting,0,is_reason,binary
+224,i only used it a cpl times yet my saved passcodes do not work.,saved passcodes are not working,1,is_reason,binary
+225,"keeping track of which episode one is on in a series is impossible because ""watched episodes"" do not work as it should.",unable to keep track of episodes,1,is_reason,binary
+226,erstwhiles it wants to restart the same episode,app is slow,0,is_reason,binary
+227,it is impossible to write because the pen pressure is severely cut off and the lines are printed out sharply,want to write because the pen pressure is cutoff,1,is_reason,binary
+228,where is the rest of the second season of the owl house?,want to know the status of the owl house season two,1,is_reason,binary
+229,and you know how you can put an emoji on the corner of your screen.,want to put emoji on the corner of screen,1,is_reason,binary
+230,can not use video filter and studio effects,artwork is bad and unable to change fictional_fictional_character,0,is_reason,binary
+231,easy to navigate through,easy to navigate,1,is_reason,binary
+232,"i am not able to join audio on pc with my telephone , india is not screening in drop down hapless and even the rapid_climb support is not helping",acquiring charge for naturalled subscription,0,is_reason,binary
+233,this app is not installed in my playstore,want to find app on playstore,1,is_reason,binary
+234,please put the controls at the bottom of the screen.,want to put controls at bottom of screen,1,is_reason,binary
+235,"pretty excellent app, just wish it was not so big!",app is too large in size,1,is_reason,binary
+236,please put the control at the bottom of the screen.,want to get record option in Mobile,0,is_reason,binary
+237,this app is very expensive to learn survey on-line class,want expression icons on app,0,is_reason,binary
+238,since then i can not get the computer to work anymore.,want to copy paste chat,0,is_reason,binary
+239,please remove this app from Google shop as early as possible.,app is slow while opening,0,is_reason,binary
+240,we can not find what the meeting password is.,want to find meeting password,1,is_reason,binary
+241,please insert vitual background in it,registration procedure is time devour,0,is_reason,binary
+242,"bug, polls freeze or do not work.",want to remove horizontal and vertical chevron,0,is_reason,binary
+243,technical support does not respond.,want to contact technical support,1,is_reason,binary
+244,can not reverse the camera,want to reverse camera,1,is_reason,binary
+245,fix password error and invalid id,want to fix password error and invalid id issues,1,is_reason,binary
+246,and why we can not take or host a meeting without sign in ?,Russian planmer are good,0,is_reason,binary
+247,while observation highlight during ads it start buffer,want to own a laptop,0,is_reason,binary
+248,hulu is a waste of money.,unable to receive otp,0,is_reason,binary
+249,"i pre-signed up, but no electronic_mail came.",unable to load even after reinstallation the app,0,is_reason,binary
+250,i am not going to 5 star yet because what is most miss is the option to open coincident suite and place participant in them.,want to have more option on telephone,0,is_reason,binary
+251,how to put virtual background in Mobile on rapid_climb??,file are too big,0,is_reason,binary
+252,why can not you hear me without headteletelephone during a conference,acquiring ads contempt pay for subscription,0,is_reason,binary
+253,registration is long and boring.,screen freeze and audio continue,0,is_reason,binary
+254,the application does not work i copy the link and paste connect to the lesson and an mistake will look,emojis are download,0,is_reason,binary
+255,can not change change the image,want to change image,1,is_reason,binary
+256,greater for virtual gathering,want to open the baby shower,0,is_reason,binary
+257,can not delete message pls do this issue otherwise good,unable to connect to the waiter,0,is_reason,binary
+258,monday's upgrade means i can no longer use zoom on my ipad and only through safari with limited features on my imac.,want to use zoom on ipad,1,is_reason,binary
+259,very bad highly data usage,want to add picture in picture mode,0,is_reason,binary
+260,the app sucks to many #s and passcode,app is bad for passcode,1,is_reason,binary
+261,i enjoy the variety that hulu has to offer.,app has very good content,1,is_reason,binary
+262,"the pen does not work any more, can you tell me why ?",pen is not working,1,is_reason,binary
+263,"the zoom has always worked very well, it is very convenient, but recently it has become hanging,",app hangs sometimes,1,is_reason,binary
+264,i am unable to blur my background..,want to blur the background,1,is_reason,binary
+265,"i see an blessing mistake, but what is the problem?",easy to login for kids,0,is_reason,binary
+266,great way for large group to come together!!,want to know why only 10 people can entree room,0,is_reason,binary
+267,when i want to download anything from the phone i can not download it.,unable to download on phone,1,is_reason,binary
+268,", you can at least add your own volume slider.",want to add volume slider,1,is_reason,binary
+269,i am unable to stream live matches or any other sports related content.,unable to watch live matches and movies,1,is_reason,binary
+270,does not want to register and cannot join the conference,want to register and cannot join conference,1,is_reason,binary
+271,does not work properly on Windows 11,unable to update playtore,0,is_reason,binary
+272,it gives an error 403 and does not allow you to enter.,receiving 403 error,1,is_reason,binary
+273,this app is good but it waste a lot of battery.,facing patronize issue with hulu,0,is_reason,binary
+274,but now it dosnt login to a meeting even after 5mins beacause of that,want to remove host/teacher,0,is_reason,binary
+275,how do i get to a conference if i can not log in?,audio is falsify while person is speaking,0,is_reason,binary
+276,"terrible, you use it a couple of times normally, but then it crashes ridiculously when you start it, and so on, until you uninstall and install again, that is horrible, fix it.",have to reinstall the app due to frequent crashes,1,is_reason,binary
+277,worst app. can not take email,want to use email,1,is_reason,binary
+278,i get a vpn error.,unable to use vpn,1,is_reason,binary
+279,many express feature in the tablet version,receive incorrect password message,0,is_reason,binary
+280,this app keeps learning a little bit of splashed out and clear my network is full of lines and it still splashed out.,app keeps getting splashed out,1,is_reason,binary
+281,this app is not working properly in vertual background in some android phone.,app is not working properly in virtual background,1,is_reason,binary
+282,my dvr shows do not load.,unable to record video,1,is_reason,binary
+283,this is a very helpful app for my on-line class but it so lag and so much time taken for connection,need to add more content,0,is_reason,binary
+284,i always drop out from the waiting room although my network is stable.,getting disconnected from waiting room,1,is_reason,binary
+285,i can not connect to the tv.,remove name_calling and mute status,0,is_reason,binary
+286,and i had trouble with rapid_climb cloud meeting.,acquiring space screen after logging in,0,is_reason,binary
+287,hotstar is not working on my television.,image quality is good,0,is_reason,binary
+288,especially if i play a video after sometimes it automatically pauses.,video keeps pausing automatically,1,is_reason,binary
+289,i am able to use green screen on samsung Mobiles,want to turn on the telephone,0,is_reason,binary
+290,it is easy to use without have to memorize how to use kuji.,good for connect with youtube,0,is_reason,binary
+291,wish it work better on ipads,facing issue with screen share after latest update,0,is_reason,binary
+292,can not go in wait room..,app update takes everlastingly,0,is_reason,binary
+293,"i try to agree to say that Disney + is unavailable in a certain region, and i was picking it up now",app is good for kids,0,is_reason,binary
+294,"a good application for a private study group, important meeting with people at a far distance",good for private study,1,is_reason,binary
+295,i think hulu is very expensive.,want to remove conference sound,0,is_reason,binary
+296,for some reason i do not understand when the download range 100% i get a message that the application cannot be install,unable to download,0,is_reason,binary
+297,pip is not supported.,unable to use pip mode,1,is_reason,binary
+298,you have to change the payment method.,want to change payment method,1,is_reason,binary
+299,"can not rapid_climb out to use other apps, quite inconvenient, although the camera still has a miniature mode",unable to delete message in rapid_climb chat,0,is_reason,binary
+300,after the latest update the picture mode is not working,want to share whiteboard from itelephone,0,is_reason,binary
+301,i can not trip the system,good for sport,0,is_reason,binary
+302,i could not uninstall the headteletelephone and i had to see it so bad on wozap,telephone runs out of battery,0,is_reason,binary
+303,i want to rate this one star because there is no option to switch audio to stereo therefore all audio comes through the phone speaker instead of the tv speaker when casting.,want to switch audio to stereo,1,is_reason,binary
+304,what about croatian subtitles?,want croatian language subtitles,1,is_reason,binary
+305,download the app .and it will not let me sign up.,good app for cloud meeting,0,is_reason,binary
+306,they are still sucking money out of my account with no means to cancel at this time.,want to stop amount deduction,1,is_reason,binary
+307,"i do not know how to put the filters, nor do i know how to put the photos in the entrance when you turn off your camera.",want to apply filters and put the photos in entrance,1,is_reason,binary
+308,"awful gameplay, bad artwork, bad fictional_fictional_character, this game is bad",rapid_climb dp is not change,0,is_reason,binary
+309,sometimes the screen freezes,screen freezes,1,is_reason,binary
+310,you should make a lite version of rapid_climb,want to share audio via bluetooth,0,is_reason,binary
+311,please allow me to change the wallpaper,want to change wallpaper,1,is_reason,binary
+312,"but every time your telephone number could not be salvage, please try again",facing issue with bluetooth connection,0,is_reason,binary
+313,online classes are very bad.,online classes are bad,1,is_reason,binary
+314,"everything lags, it is impossible to enter the system",unable to install hotstar,0,is_reason,binary
+315,how do i post my profile picture with my ipad 9th gen,app does not have service,0,is_reason,binary
+316,"everything was fine earlier but now after i re-install, it is not support on my ios",unable to play ipl in hotstar,0,is_reason,binary
+317,i can not talk to my team while I am working.,worst application for student,0,is_reason,binary
+318,how to sign out acc just crazy Chinese,app falsify sound and picture,0,is_reason,binary
+319,this is not a best because i can not sign up in the rapid_climb app isliye main ise 2,good for group exhibition,0,is_reason,binary
+320,"it is good, but I am taking lessons well, but i can not log in and sign up for membership.",want to log in and sign up for membership,1,is_reason,binary
+321,"dear rapid_climb developer, make it possible to change icons on 7 iteletelephone",payment method is difficult,0,is_reason,binary
+322,i can not enter my card details.,want to enter card information,1,is_reason,binary
+323,"i keep bouncing that my session has expired, but i hit some bugs and fix them",sessions are getting expired,1,is_reason,binary
+324,the only thing i feel could be improved is to have the passcode imported/populate automatically if the meeting is joined via a link.,passcode needs to be imported automatically if meeting is joined via link,1,is_reason,binary
+325,i have missed two meetings and it has onemore problem that there is no option to increase the volume of the audio.,want to increase audio,1,is_reason,binary
+326,is there a way to watch the recording?,want to remove left and right flip function,0,is_reason,binary
+327,the app is very good and the call quality is extremely good.,good app for conducting calls,1,is_reason,binary
+328,but i would like it to lower its memory at least up to 50% of memory since it is time to uninstall apps that may be needed,want to reduce memory,1,is_reason,binary
+329,but when you try to screen share it is always lagging and you can not see what is going on.,Mobile update was bad,0,is_reason,binary
+330,just needs a little bit more security,security features are not high,1,is_reason,binary
+331,why are the commercials so loud.,ads are louder than the content,1,is_reason,binary
+332,it takes everlastingly to download the app.,app clang every 10 minutes,0,is_reason,binary
+333,i have high speed internet and video is getting stuck.,video keeps getting stuck while playing,1,is_reason,binary
+334,"the removal of the names and mute status makes the app appear more streamline, but we need the names and mute status back (function over appearance)!",remove names and mute status,1,is_reason,binary
+335,"tablet support: i use a lenovo xiaoxin pad pro with sd730g proc, the virtual background option is unavailable, and the app just treats the 11"" screen as an oversized phone screen which does not make efficient use of the screen real estate to allow chat to be displayed alongside the video feeds.",want to get virtual background option and unable to view chat with video feeds,1,is_reason,binary
+336,"the payment portal is torment slow, confuse, and unintuitive.",acquiring ads patronizely,0,is_reason,binary
+337,"just to mention, that the sound of the voice are delay.",video turns black intermittently when switch split view,0,is_reason,binary
+338,", i enter it, the code did not pass and it is not correct.",want to enter card information,0,is_reason,binary
+339,please help me issue a refund.,want a refund,1,is_reason,binary
+340,I am always pushed out of a meeting and this app always needs constant upgrade which eats my data way too much,getting pushed out of meeting and updates are too frequent,1,is_reason,binary
+341,i find it difficult to update my rapid_climb cloud meeting,want playback speed control option,0,is_reason,binary
+342,can you add more content?,want to open coincident suite on telephone,0,is_reason,binary
+343,"network or network, video does not match the voice and screen.",want to sync audio with video,1,is_reason,binary
+344,it is very much helpful but i cannot record the meeting from smart phone .,want to record meeting from smart phone,1,is_reason,binary
+345,how do i switch to paid content?,want to switch to paid content,1,is_reason,binary
+346,they charge you a monthly fee,facing unauthorised charges every month,1,is_reason,binary
+347,i have not been able to enter the room,want to mute telephone,0,is_reason,binary
+348,best app for video calling and office meeting and online classes,good app for conducting online classes and meetings,1,is_reason,binary
+349,fantastic to still connect to our love ones contempt the covid 19,code is wrong,0,is_reason,binary
+350,zoom is a very very bad app because there are,poor quality of the application,1,is_reason,binary
+351,it work at the beginning but now it will not let me watch my show,connect done bluetooth is time devour,0,is_reason,binary
+352,"video, sometimes audio as well, turns black intermittently when switching split view on ipad.",video turns black intermittently when switching split view,1,is_reason,binary
+353,but 1 - you can not delete zoom chat messages,unable to delete message in zoom chat,1,is_reason,binary
+354,i can not watch my online classes .,want to watch online classes,1,is_reason,binary
+355,a great app to check on games and team stats,want to watch on-line class,0,is_reason,binary
+356,i have a problem could not enter with my email already go into help and services zoom,want to enter email,1,is_reason,binary
+357,"resoluteness the issue of keep a list of conference, fix template",emoticon are not beautiful,0,is_reason,binary
+358,very easy to create meeting links,easy to create meeting links,1,is_reason,binary
+359,needs more personalization options.,want personalization options,1,is_reason,binary
+360,apple phones have some options (like the background option) that android does not have.,apple phone has background option,1,is_reason,binary
+361,"since i update, i can not enter some links.",want to use studio effects,0,is_reason,binary
+362,"also, lately hulu has not been loading episodes queues for shows!",unable to view the list of episodes on hulu,1,is_reason,binary
+363,"ill-defined encoding system, etc.",unable to connect on Mobile network,0,is_reason,binary
+364,it plant fine but erstwhiles the rapid_climb waiter clang i leave it to be repair please,want to enter alphabet,0,is_reason,binary
+365,how can i change the time limit?,want to communicate with people,0,is_reason,binary
+366,easy to open and start my class quickly.,easy to open and start,1,is_reason,binary
+367,still have not got a refund.,want to get a refund,1,is_reason,binary
+368,i have high speed internet and video is acquiring lodge.,cloud rapid_climb apps are good when it comes to following remote_control plans,0,is_reason,binary
+369,please provide pip on ipad,want pip on ipad,1,is_reason,binary
+370,what kind of stupid app does not let you record the audio when you are not the host?,want to register for class,0,is_reason,binary
+371,the app is a great problem because there are not some movies that were supposed to be featured,service does not offer many movies,1,is_reason,binary
+372,I am observation a series there is no way to go back to the first episode,want screen lock feature,0,is_reason,binary
+373,streaming functionality is awful.,worst app for streaming,1,is_reason,binary
+374,i look forward to zoom to have the same filter on instagram,want filters from instagram,1,is_reason,binary
+375,"i can not register, plus the lack of ukrainian language, please correct it and put a good assessment",want to register and want ukrainian language support,1,is_reason,binary
+376,i need to wait a long time to login,takes time to login,1,is_reason,binary
+377,i am not able to share whiteboard from itelephone.,itelephone has better battery performance,0,is_reason,binary
+378,but i never found the microphone button.,want to find microphone button,1,is_reason,binary
+379,would be nice if expression icons return in zoom.,want expression icons on app,1,is_reason,binary
+380,"as of this morning i cannot screen cast for some stupid reason, fix this",unable to mirror screen,1,is_reason,binary
+381,it is great that you can watch your movie right from your telephone.,does not swing even if there is 1gb of space,0,is_reason,binary
+382,there is a bug that the rapid_climb screen harden on itelephone xs (ios15.2.1).,educational uses only,0,is_reason,binary
+383,an option to touch the space bar to toggle mute/unmute would be fantastic.,want to connect to audio automatic_rifleally,0,is_reason,binary
+384,sound will not play on ipad after ios update.,unable to hear sound on ios after update,1,is_reason,binary
+385,"it is speaker is also not working properly, even though my mobile is perfectly fine.",speaker is not working properly,1,is_reason,binary
+386,it is nice to have a star wars and marvel category.,good for watching star wars and marvel movies,1,is_reason,binary
+387,bt i could not record my session via Mobile,image quality need betterment,0,is_reason,binary
+388,only concern which i detect is that one cannot login on multiple devices with the same paid history which should be repair.,want to use electronic_mail,0,is_reason,binary
+389,the app keeps saying something went wrong.,app keeps saying something went wrong,1,is_reason,binary
+390,i wrote a reappraisal and it was delete.,group member change topographic_point,0,is_reason,binary
+391,very bad app i can not even sign in,unable to sign up,1,is_reason,binary
+392,zoom does not update me anymore,want to update zoom app,1,is_reason,binary
+393,"i keep bounce that my session has run_out, but i hit some bugs and fix them",bad app for child,0,is_reason,binary
+394,it would be nice if more users can be seen on the screen at once.,want to view more participants on one screen,1,is_reason,binary
+395,will not even let me make an history.,Google duo is easy,0,is_reason,binary
+396,i can not watch my on-line class .,app is slow with high speed internet,0,is_reason,binary
+397,internet lags when there is a conference,internet lags when there is a conference,1,is_reason,binary
+398,zoom will not let me create sections and also will not let me start or subscribe,want to create sections,1,is_reason,binary
+399,"the app is awful, do not download this discord mess a billion times better!",unable to open the app on ipad,0,is_reason,binary
+400,i can not hold any meetings!!,want to hold meetings,1,is_reason,binary
+401,the application is as incomprehensible as possible and not comfortable for work.,app is bad for work,1,is_reason,binary
+402,you should decrease your subscription fee.,want lower subscription charges,1,is_reason,binary
+403,re: Mobile.truly awful design that launch you into meeting without giving you a preappraisal of yourself which has cause me to suddenly enter a meeting with video and audio on in the past.,app is not optimize for devices,0,is_reason,binary
+404,considering that you cannot recover objects without coming to the surface and if there is a surface contact serca in 2 seconds it will sunk you.,want to recover objects without coming to the surface,1,is_reason,binary
+405,"happy, tablet not able to have all settings.",want to have all settings,1,is_reason,binary
+406,"you can not put a profile, and it is too ridiculous that the meeting time is 40 minutes.",want to set up profile and increase meeting time limit,1,is_reason,binary
+407,not able to use virtual background filter in my meetings.,want to use virtual background filter,1,is_reason,binary
+408,will not let me connect my tablet's camera,want to download rapid_climb app,0,is_reason,binary
+409,video quality is very poor,unable to use on telephone,0,is_reason,binary
+410,"this new rapid_climb app is so so annoyance,always download emoji every time i launch it",tv app is bad,0,is_reason,binary
+411,telephone call drop all the time,screen sharing quality is good,0,is_reason,binary
+412,why can not i control the volume on my itelephone with my headteletelephone on?!,want to synchronize,0,is_reason,binary
+413,this app is good for playing all sport and movie .,want to contact in setting,0,is_reason,binary
+414,i can not download any movie .,want to behavior meeting for more than 40 minutes,0,is_reason,binary
+415,rapid_climb will not tell me make an history.,unable to connect meeting,0,is_reason,binary
+416,guess it is time to find a new sport app.,good for sharing with group,0,is_reason,binary
+417,but it would be best if we had the option of sharing only sound done android devices as well.,app has bad control,0,is_reason,binary
+418,"very good app, but after the last update it show a white line on the left of the screen",android version is good,0,is_reason,binary
+419,"no button, no way to drag down meeting control from top, absolutely nothing i can do.",want to send picture in message,0,is_reason,binary
+420,"the app is nice, but it lacks a lot of content",platform has poor quality of content,1,is_reason,binary
+421,new stickers are not downloading,want to download stickers,1,is_reason,binary
+422,will not connect to my mentality contact address which is a pain.,want to multitask without switch video,0,is_reason,binary
+423,it does not allow to enter the meeting .,unable to enter meetings,1,is_reason,binary
+424,I am pay for a service that i can not use.,have to sign in with tv supplyr as well to use the app,0,is_reason,binary
+425,too many error codes.,facing error codes frequently,1,is_reason,binary
+426,but it is not my connection because no other app on my telephone fails,"want to add filter, background and effects",0,is_reason,binary
+427,the link could not be write.,setting are not expose on the screen,0,is_reason,binary
+428,it does not connect me with people to play minecraft does not work!,want the app to run in background with picture in picture video,0,is_reason,binary
+429,why can not i register with itelephone 7,want to join a meeting from tablet,0,is_reason,binary
+430,can not set photos,want to add photo,1,is_reason,binary
+431,cannot share ppt on my telephone.,mic does not turn off after call is done,0,is_reason,binary
+432,"hey guys, no choice menu for virtual background iphone 7",want to get menu for virtual background on iphone,1,is_reason,binary
+433,i think this app must be modified the camera quality because it is camera quality is literally worse in my opinion,want to modify camera quality,1,is_reason,binary
+434,helpful to connect with schoolmate and co-worker,want to insert display picture,0,is_reason,binary
+435,please make a double speed function!,want double speed function,1,is_reason,binary
+436,help me install my rapid_climb cloud meeting,do not want the subscription,0,is_reason,binary
+437,i have not been able to log in from my cell phone for some time.,unable to login with mobile number,1,is_reason,binary
+438,zoom freezes the image and sounds that cannot be seen and heard at unexpected times.,zoom freezes the image and sounds,1,is_reason,binary
+439,it no longer works on android or fire stick tv!,unable to use on android or fire stick,1,is_reason,binary
+440,i could not install this app on my telephone!,want to open page,0,is_reason,binary
+441,"please add filter, background and effects as Google meet did in android",want to sign up,0,is_reason,binary
+442,it is very easy to join,easy to connect,1,is_reason,binary
+443,very annoying not being able to get a full screen view.,want to get full screen view,1,is_reason,binary
+444,you can not choose episode.,artwork is low and gameplay is very bad,0,is_reason,binary
+445,"could have given 5 star but for few minor glitches - some devices are unable to use background blurring and sometimes, quite difficult to join some meetings.",want to blur background and join meetings,1,is_reason,binary
+446,fix the blur feature.,want to change id,0,is_reason,binary
+447,why would i want to join a meeting without audio?,want to join meeting with audio by default,1,is_reason,binary
+448,i would just like to finalize that ipad and iphone can connect a second pair of headphones via bluetooth.,want to connect a second pair of headphones via bluetooth,1,is_reason,binary
+449,and it keeps pickings me out of my meeting,app auto revolves in meeting even after disable auto revolve feature,0,is_reason,binary
+450,i cannot copy paste chat.,want to switch between computer and telephone,0,is_reason,binary
+451,excellent application for conferences and group exhibitions.,good for group exhibitions,1,is_reason,binary
+452,"as for now, rapid_climb app is not able to connect to car bluetooth.",chat boxes are blocking the presentation,0,is_reason,binary
+453,I have been trying to cancel my subscription for a while,unable to unsubscribe,1,is_reason,binary
+454,apps are disgust to spend bagasse charge on the telephone,want to put money and filter,0,is_reason,binary
+455,"everytime i transfer from breakout room to another breakout room, it automatically unmutes me.",app unmutes automatically when switching between breakout rooms,1,is_reason,binary
+456,advertising is so bad,advertisements are bad,1,is_reason,binary
+457,i tried more than 10 times to download but it is not getting downloaded and it is showing that can not download zoom .,want to download zoom app,1,is_reason,binary
+458,drop the evaluation down a bit more.,want to remove the message mode,0,is_reason,binary
+459,this app does not work well on tv,subtitle are small on tv,0,is_reason,binary
+460,no virtual image approach after updating the app,control become more complex,0,is_reason,binary
+461,"the application is miss background, this is very bad.",want to login with apple id,0,is_reason,binary
+462,please improve your app.,need to improve the app,1,is_reason,binary
+463,"the application is missing backgrounds, this is very bad.",app is missing backgrounds,1,is_reason,binary
+464,plus i keep acquiring log out of my history,unable to use the app on wireless_local_area_network,0,is_reason,binary
+465,it does not let me relax during class.,want to relax during class,1,is_reason,binary
+466,host video is not available,want to add volume skidder,0,is_reason,binary
+467,but i problem is the video cannot be paused betwwn the clases,want to pause video,1,is_reason,binary
+468,but whenever i logged in on one device then the other device gets logged out automatically.,getting auto logged out after logging in on second device,1,is_reason,binary
+469,extremely good interface and clear quality conferencing,good interface and clear quality conferencing,1,is_reason,binary
+470,great for chat room,want to register and cannot join conference,0,is_reason,binary
+471,"the worst video calling app, lags badly everytime share screening, even with a powerful machine, any other application opened in the background that app starrs lagging badly.",video calling app is bad,1,is_reason,binary
+472,not able to use virtual background filter in my meeting.,installation procedure is time devour,0,is_reason,binary
+473,"when i mirror in the video settings, the view i see is mirrored, but i can not mirror it to other participants; it is really uncomfortable!",want to mirror screen to participants,1,is_reason,binary
+474,the audio is cut off.,audio is choppy,1,is_reason,binary
+475,waste of time it does not even let you scan the code when you have code!,want to scan code,1,is_reason,binary
+476,this app is not working in qatar..,unable to open app in middle east,1,is_reason,binary
+477,it is a good app for korean lessons,good for korean lessons,1,is_reason,binary
+478,"it is a good app and i am happy for this app but please give the virtual background option on this ipad mini , please i am pleasing you to give the option.",want to get virtual background option in ipad mini,1,is_reason,binary
+479,"i cannot enter ""rapid_climb"" from the web page from my network tv (samsung), it does not support.",app clang on load screen,0,is_reason,binary
+480,bullsh!t having trouble trying to sign to class but saying idk,want to register for classes,1,is_reason,binary
+481,please make a double speed function!,load time is slow,0,is_reason,binary
+482,i can not update this app,unable to update app,1,is_reason,binary
+483,app clang during important ipl final.hapless cyclosis platform.,want volume adjust feature,0,is_reason,binary
+484,"i can not see the slides properly, when i rotate my mobile.",want to rotate slides properly,1,is_reason,binary
+485,"it never Michigan, icons are not Handy, it articulation by video as default.",unable to use Disney plus on tv,0,is_reason,binary
+486,I would like to be able to minis the screen while i coil thru other apps,easy to set up,0,is_reason,binary
+487,rapid_climb is amaze i can rapid_climb anywhere and anytime but erstwhiles my internet goes down,unable to open app with wireless_local_area_network,0,is_reason,binary
+488,"please add some 144, 240 video quality options in the app",want 240p video quality,1,is_reason,binary
+489,can you give me indonesian language ?,want indonesian language support,1,is_reason,binary
+490,"very useful, and convenient for school meetings, etc.",good app for school,1,is_reason,binary
+491,awful when approach to populate cyclosis.,want to change background during video call,0,is_reason,binary
+492,i could not watch the movie i wanted to watch for god's sake,unable to view all movies,1,is_reason,binary
+493,i do not know why my rapid_climb can not use the backgroud[?],unable to set virtual background on mobie,0,is_reason,binary
+494,the app does not start for me (itelephone 12),unable to start on ios,0,is_reason,binary
+495,Disney+ has a overplus of different plan and is the most elite tv set i have ever seen i would highly recommend this to everyone,facing device heating issue,0,is_reason,binary
+496,crashes 50 times in a minute,crashes 50 times in a minute,1,is_reason,binary
+497,slow down the download,want to record audio on pc,0,is_reason,binary
+498,"synergistic_agent handwriting was the large merit, but i could not write it because it was block.",video conference is bad,0,is_reason,binary
+499,"please add some 144, 240 video quality option in the app",video sound is low,0,is_reason,binary
+500,"when i checked the basic accessibility i found that there is no problem, but i could not find options for camera",want to find camera option,1,is_reason,binary

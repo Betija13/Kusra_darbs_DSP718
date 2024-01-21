@@ -1,0 +1,502 @@
+id,first_sentence,second_sentence,score,score_name,score_type
+0,Simpson Strong-Tie 12-Gauge Angle,angle bracket,3.0,score,scale_1_3
+1,Simpson Strong-Tie 12-Gauge Angle,l bracket,2.5,score,scale_1_3
+2,BEHR Premium Textured DeckOver 1-gal. #SC-141 Tugboat Wood and Concrete Coating,deck over,3.0,score,scale_1_3
+3,Delta Vero 1-Handle Shower Only Faucet Trim Kit in Chrome (Valve Not Included),rain shower head,2.33,score,scale_1_3
+4,Delta Vero 1-Handle Shower Only Faucet Trim Kit in Chrome (Valve Not Included),shower only faucet,2.67,score,scale_1_3
+5,Whirlpool 1.9 cu. ft. Over the Range Convection Microwave in Stainless Steel with Sensor Cooking,convection otr,3.0,score,scale_1_3
+6,Whirlpool 1.9 cu. ft. Over the Range Convection Microwave in Stainless Steel with Sensor Cooking,microwave over stove,2.67,score,scale_1_3
+7,Whirlpool 1.9 cu. ft. Over the Range Convection Microwave in Stainless Steel with Sensor Cooking,microwaves,3.0,score,scale_1_3
+8,Lithonia Lighting Quantum 2-Light Black LED Emergency Fixture Unit,emergency light,2.67,score,scale_1_3
+9,House of Fara 3/4 in. x 3 in. x 8 ft. MDF Fluted Casing,mdf 3/4,3.0,score,scale_1_3
+10,Valley View Industries Metal Stakes (4-Pack),steele stake,2.67,score,scale_1_3
+11,Toro Personal Pace Recycler 22 in. Variable Speed Self-Propelled Gas Lawn Mower with Briggs &amp; Stratton Engine,briggs and stratton lawn mower,3.0,score,scale_1_3
+12,Toro Personal Pace Recycler 22 in. Variable Speed Self-Propelled Gas Lawn Mower with Briggs &amp; Stratton Engine,gas mowe,3.0,score,scale_1_3
+13,Toro Personal Pace Recycler 22 in. Variable Speed Self-Propelled Gas Lawn Mower with Briggs &amp; Stratton Engine,honda mower,2.0,score,scale_1_3
+14,Hampton Bay Caramel Simple Weave Bamboo Rollup Shade - 96 in. W x 72 in. L,hampton bay chestnut pull up shade,2.67,score,scale_1_3
+15,InSinkErator SinkTop Switch Single Outlet for InSinkErator Disposers,disposer,2.67,score,scale_1_3
+16,Sunjoy Calais 8 ft. x 5 ft. x 8 ft. Steel Tile Fabric Grill Gazebo,grill gazebo,3.0,score,scale_1_3
+17,"MD Building Products 36 in. x 36 in. Cloverleaf Aluminum Sheet, Silver",door guards,1.0,score,scale_1_3
+18,"MD Building Products 36 in. x 36 in. Cloverleaf Aluminum Sheet, Silver",metal plate cover gcfi,1.67,score,scale_1_3
+19,"MD Building Products 36 in. x 36 in. Cloverleaf Aluminum Sheet, Silver",radiator grate,2.33,score,scale_1_3
+20,"MD Building Products 36 in. x 36 in. Cloverleaf Aluminum Sheet, Silver",windows screens,2.33,score,scale_1_3
+21,House of Fara 8 Linear ft. MDF Overlapping Wainscot Interior Paneling Kit,1x1 rail decorative wood,1.33,score,scale_1_3
+22,House of Fara 8 Linear ft. MDF Overlapping Wainscot Interior Paneling Kit,4*8 beadboard paneling,2.67,score,scale_1_3
+23,House of Fara 8 Linear ft. MDF Overlapping Wainscot Interior Paneling Kit,4x8wood paneling,2.33,score,scale_1_3
+24,House of Fara 8 Linear ft. MDF Overlapping Wainscot Interior Paneling Kit,MDF 4x8,1.33,score,scale_1_3
+25,House of Fara 8 Linear ft. MDF Overlapping Wainscot Interior Paneling Kit,wainscot chair rail,2.33,score,scale_1_3
+26,House of Fara 8 Linear ft. MDF Overlapping Wainscot Interior Paneling Kit,wainscot plank paneling,2.33,score,scale_1_3
+27,1804 Dual Spray Half Pattern 4 in Pop-Up Spray Head,lawn sprkinler,2.0,score,scale_1_3
+28,1804 Dual Spray Half Pattern 4 in Pop-Up Spray Head,rainbird sprinkler,2.33,score,scale_1_3
+29,"Samsung 4.2 cu. ft. Front Load Washer with Steam in White, ENERGY STAR",PLATFORM FOR WASHERS,2.67,score,scale_1_3
+30,"Samsung 4.2 cu. ft. Front Load Washer with Steam in White, ENERGY STAR",samsung front load washer 3.7,2.0,score,scale_1_3
+31,"Samsung 4.2 cu. ft. Front Load Washer with Steam in White, ENERGY STAR",upholstery washing machines with steam,2.33,score,scale_1_3
+32,Quikrete 80 lb. Crack-Resistant Concrete,CONCRETE & MASONRY CLEANER & ETCHER,3.0,score,scale_1_3
+33,Quikrete 80 lb. Crack-Resistant Concrete,concrete for ponds,2.0,score,scale_1_3
+34,Quikrete 80 lb. Crack-Resistant Concrete,flexlock for cracks,2.0,score,scale_1_3
+35,Nantucket Pavers Patio-on-a-Pallet 10 ft. x 10 ft. Concrete Tan Variegated Basketweave Yorkstone Paver,Belgium block pavers,2.0,score,scale_1_3
+36,Nantucket Pavers Patio-on-a-Pallet 10 ft. x 10 ft. Concrete Tan Variegated Basketweave Yorkstone Paver,ourdoor patio tile,2.33,score,scale_1_3
+37,UltraTouch 48 in. x 24 ft. Radiant Barrier,insulation roll,2.33,score,scale_1_3
+38,Backyard X-Scapes 6 ft. H. x 16 ft. L Reed Fencing,6ft h bamboo fencing,2.0,score,scale_1_3
+39,Backyard X-Scapes 6 ft. H. x 16 ft. L Reed Fencing,balcony privacy screen,2.67,score,scale_1_3
+40,Backyard X-Scapes 6 ft. H. x 16 ft. L Reed Fencing,bamboo,1.67,score,scale_1_3
+41,Backyard X-Scapes 6 ft. H. x 16 ft. L Reed Fencing,privacy lattice panels,2.33,score,scale_1_3
+42,Backyard X-Scapes 6 ft. H. x 16 ft. L Reed Fencing,privacy panels,1.67,score,scale_1_3
+43,DecoArt Americana Decor 16-oz. Whisper Chalky Finish,chalk paint,3.0,score,scale_1_3
+44,9.1 in. x 5.8 in. White Designer Shelf Bracket,8 4616809045 9,1.67,score,scale_1_3
+45,9.1 in. x 5.8 in. White Designer Shelf Bracket,shelf bracket,3.0,score,scale_1_3
+46,9.1 in. x 5.8 in. White Designer Shelf Bracket,white 4shelves,1.67,score,scale_1_3
+47,HDX 48 in. W x 72 in. H x 18 in. D Decorative Wire Chrome Finish Commercial Shelving Unit,6 teir shelving,3.0,score,scale_1_3
+48,HDX 48 in. W x 72 in. H x 18 in. D Decorative Wire Chrome Finish Commercial Shelving Unit,hdx wire shelving,3.0,score,scale_1_3
+49,HDX 48 in. W x 72 in. H x 18 in. D Decorative Wire Chrome Finish Commercial Shelving Unit,kitchen  cabinet finishes,1.0,score,scale_1_3
+50,HDX 48 in. W x 72 in. H x 18 in. D Decorative Wire Chrome Finish Commercial Shelving Unit,kitchen wire shelf tiered,3.0,score,scale_1_3
+51,HDX 48 in. W x 72 in. H x 18 in. D Decorative Wire Chrome Finish Commercial Shelving Unit,pantry rack,2.67,score,scale_1_3
+52,HDX 48 in. W x 72 in. H x 18 in. D Decorative Wire Chrome Finish Commercial Shelving Unit,plastic storage racks,2.67,score,scale_1_3
+53,HDX 48 in. W x 72 in. H x 18 in. D Decorative Wire Chrome Finish Commercial Shelving Unit,Shelves Metal,3.0,score,scale_1_3
+54,HDX 48 in. W x 72 in. H x 18 in. D Decorative Wire Chrome Finish Commercial Shelving Unit,steel shelving,2.67,score,scale_1_3
+55,HDX 48 in. W x 72 in. H x 18 in. D Decorative Wire Chrome Finish Commercial Shelving Unit,storage shelve,3.0,score,scale_1_3
+56,Marshalltown Masonry Brush,mortar tools,1.0,score,scale_1_3
+57,Rubbermaid 12 in. D Single Track Bracket,12 boltless bracket,2.33,score,scale_1_3
+58,Rubbermaid 12 in. D Single Track Bracket,12 in.  16 in single track brackets,2.33,score,scale_1_3
+59,Rubbermaid 12 in. D Single Track Bracket,12 wire shelf bracket,3.0,score,scale_1_3
+60,Rubbermaid 12 in. D Single Track Bracket,shelf track,2.33,score,scale_1_3
+61,Husky 9-Pocket Maintenance Pouch,husky tool bag,2.5,score,scale_1_3
+62,RIDGID X4 18-Volt 1/2 in. Impact Wrench (Tool Only),impact driver drill battery powered,2.33,score,scale_1_3
+63,RIDGID X4 18-Volt 1/2 in. Impact Wrench (Tool Only),impact wrench,3.0,score,scale_1_3
+64,"Emberglow 25,000 BTU Vent-Free Dual Fuel Gas Stove with Thermostat",pellet stove,2.33,score,scale_1_3
+65,"Emberglow 25,000 BTU Vent-Free Dual Fuel Gas Stove with Thermostat",register for fuel,2.33,score,scale_1_3
+66,"Emberglow 25,000 BTU Vent-Free Dual Fuel Gas Stove with Thermostat",stove and mi,2.33,score,scale_1_3
+67,"Emberglow 25,000 BTU Vent-Free Dual Fuel Gas Stove with Thermostat",ventless gas stove,3.0,score,scale_1_3
+68,American Standard Cadet 3 FloWise 2-piece 1.28 GPF Round Front Toilet in Bone,American Standard Bone round toliet,3.0,score,scale_1_3
+69,American Standard Cadet 3 FloWise 2-piece 1.28 GPF Round Front Toilet in Bone,cadet 3 insulated in bone,2.33,score,scale_1_3
+70,Sumner Street Home Hardware Grayson 2-1/2 in. Oil Rubbed Bronze Cup Pull,grayson,2.33,score,scale_1_3
+71,HDX 6 ft. Heavy Duty Steel Green Painted T-Post,6 stell,2.0,score,scale_1_3
+72,HDX 6 ft. Heavy Duty Steel Green Painted T-Post,fece posts metal,2.0,score,scale_1_3
+73,HDX 6 ft. Heavy Duty Steel Green Painted T-Post,green painted pop rivets,2.33,score,scale_1_3
+74,HDX 6 ft. Heavy Duty Steel Green Painted T-Post,post,2.67,score,scale_1_3
+75,HDX 6 ft. Heavy Duty Steel Green Painted T-Post,wire fencing 6 ft high,1.67,score,scale_1_3
+76,Crown Bolt 24 in. x 1/2 in. x 12 in. Plain Metal Expanded Sheet,bolt 1/2 in by 12,3.0,score,scale_1_3
+77,Crown Bolt 24 in. x 1/2 in. x 12 in. Plain Metal Expanded Sheet,metal sheet,2.33,score,scale_1_3
+78,Crown Bolt 24 in. x 1/2 in. x 12 in. Plain Metal Expanded Sheet,sheet metal,3.0,score,scale_1_3
+79,Henry 587 4.75 Gal. White Roof Coating,elastomeric roof coating,2.0,score,scale_1_3
+80,Hampton Bay Beverly Patio Dining Arm Chairs with Custom Cushion (2-Pack),outdoor dining,2.67,score,scale_1_3
+81,Hampton Bay Spring Haven Brown All-Weather Wicker Patio Lounge Chair with Sky Blue Cushions,cushions outdoorlounge,3.0,score,scale_1_3
+82,Hampton Bay Spring Haven Brown All-Weather Wicker Patio Lounge Chair with Sky Blue Cushions,hampton bay spring,3.0,score,scale_1_3
+83,Hampton Bay Spring Haven Brown All-Weather Wicker Patio Lounge Chair with Sky Blue Cushions,outdoorfurniture,2.33,score,scale_1_3
+84,60 in. x 150 ft. 10/10 Remesh,wiremesh,3.0,score,scale_1_3
+85,Stanley Doors 36 in. x 80 in. Chatham 3/4 Lite 1-Panel Prefinished Steel Prehung Front Door,front doors,3.0,score,scale_1_3
+86,Stanley Doors 36 in. x 80 in. Chatham 3/4 Lite 1-Panel Prefinished Steel Prehung Front Door,prehung steel door,3.0,score,scale_1_3
+87,Stanley Doors 36 in. x 80 in. Chatham 3/4 Lite 1-Panel Prefinished Steel Prehung Front Door,stanley doors,2.67,score,scale_1_3
+88,MOEN Essie Single-Handle Pull-Down Sprayer Kitchen Faucet in Spot Resist Stainless with Soap Dispenser,kingsley moen kitchen faucet,2.33,score,scale_1_3
+89,MOEN Essie Single-Handle Pull-Down Sprayer Kitchen Faucet in Spot Resist Stainless with Soap Dispenser,kitchen sink faucet,3.0,score,scale_1_3
+90,MOEN Essie Single-Handle Pull-Down Sprayer Kitchen Faucet in Spot Resist Stainless with Soap Dispenser,pricepfister kitchen faucet g135,2.0,score,scale_1_3
+91,MOEN Essie Single-Handle Pull-Down Sprayer Kitchen Faucet in Spot Resist Stainless with Soap Dispenser,soap dispenser,2.67,score,scale_1_3
+92,MOEN Essie Single-Handle Pull-Down Sprayer Kitchen Faucet in Spot Resist Stainless with Soap Dispenser,soap dispenser kitchen,2.0,score,scale_1_3
+93,Bare Ground 4 Gal. Liquid De-Icer (Case-4),roof melter,1.33,score,scale_1_3
+94,Owens Corning R-19 Kraft Faced Insulation Batts 15 in. x 93 in.,6 kraft faced insulation,2.33,score,scale_1_3
+95,Owens Corning R-19 Kraft Faced Insulation Batts 15 in. x 93 in.,fiberglass insulation,2.33,score,scale_1_3
+96,Owens Corning R-19 Kraft Faced Insulation Batts 15 in. x 93 in.,owens corning 7-3,2.0,score,scale_1_3
+97,Owens Corning R-19 Kraft Faced Insulation Batts 15 in. x 93 in.,R 15,1.33,score,scale_1_3
+98,Owens Corning R-19 Kraft Faced Insulation Batts 15 in. x 93 in.,r19 insulation,3.0,score,scale_1_3
+99,Gama Sonic 40-LED Rechargeable Battery-Powered Emergency Lantern,battery lanterns,3.0,score,scale_1_3
+100,Gama Sonic 40-LED Rechargeable Battery-Powered Emergency Lantern,ceiling light battery powered with remote,2.33,score,scale_1_3
+101,Gama Sonic 40-LED Rechargeable Battery-Powered Emergency Lantern,emergency light,3.0,score,scale_1_3
+102,12 in. Dia. Dark Blue Ceramic Rivage Pot,planters pots,2.67,score,scale_1_3
+103,RDI Porch and Newel 5 in. x 5 in. x 108 in. Vinyl Turned Fence Post with 5000 lb. Capacity,5x5 post,2.33,score,scale_1_3
+104,RDI Porch and Newel 5 in. x 5 in. x 108 in. Vinyl Turned Fence Post with 5000 lb. Capacity,column post,3.0,score,scale_1_3
+105,RDI Porch and Newel 5 in. x 5 in. x 108 in. Vinyl Turned Fence Post with 5000 lb. Capacity,post,2.33,score,scale_1_3
+106,BAZZ 10 ft. Multi-Color Self-Adhesive Cuttable Rope Lighting with Remote Control,bazz lighting,2.0,score,scale_1_3
+107,BAZZ 10 ft. Multi-Color Self-Adhesive Cuttable Rope Lighting with Remote Control,led rope,2.67,score,scale_1_3
+108,BAZZ 10 ft. Multi-Color Self-Adhesive Cuttable Rope Lighting with Remote Control,led strip lights,2.67,score,scale_1_3
+109,TrafficMASTER Allure 6 in. x 36 in. Cherry Resilient Vinyl Plank Flooring (24 sq. ft. / case),TILES 12*12,2.67,score,scale_1_3
+110,Glacier Bay 2-piece High Efficiency Dual Flush Complete Elongated Toilet in White,10  rough toilet bowl,2.33,score,scale_1_3
+111,Glacier Bay 2-piece High Efficiency Dual Flush Complete Elongated Toilet in White,delta canister 17,1.33,score,scale_1_3
+112,Glacier Bay 2-piece High Efficiency Dual Flush Complete Elongated Toilet in White,glaciar bay toiled,2.0,score,scale_1_3
+113,Glacier Bay 2-piece High Efficiency Dual Flush Complete Elongated Toilet in White,glacie bay dual flush,2.33,score,scale_1_3
+114,Glacier Bay 2-piece High Efficiency Dual Flush Complete Elongated Toilet in White,glacier bay high efficiency toilet fill valve,2.0,score,scale_1_3
+115,Glacier Bay 2-piece High Efficiency Dual Flush Complete Elongated Toilet in White,glacier bay tiolet tank lid,2.67,score,scale_1_3
+116,Glacier Bay 2-piece High Efficiency Dual Flush Complete Elongated Toilet in White,handicap toilet,2.67,score,scale_1_3
+117,Glacier Bay 2-piece High Efficiency Dual Flush Complete Elongated Toilet in White,handycap toilets,2.33,score,scale_1_3
+118,Glacier Bay 2-piece High Efficiency Dual Flush Complete Elongated Toilet in White,high boy tolet,2.33,score,scale_1_3
+119,Glacier Bay 2-piece High Efficiency Dual Flush Complete Elongated Toilet in White,kohler rosario toilet parts,1.33,score,scale_1_3
+120,Glacier Bay 2-piece High Efficiency Dual Flush Complete Elongated Toilet in White,toilet bowl,2.33,score,scale_1_3
+121,Glacier Bay 2-piece High Efficiency Dual Flush Complete Elongated Toilet in White,toilet flush kit,2.67,score,scale_1_3
+122,Glacier Bay 2-piece High Efficiency Dual Flush Complete Elongated Toilet in White,toilet glacier bay,3.0,score,scale_1_3
+123,"Rheem Performance Plus 50 Gal. Tall 9 Year 40,000 BTU High Efficiency Natural Gas Water Heater",60 heater gallon gas water,2.33,score,scale_1_3
+124,"Rheem Performance Plus 50 Gal. Tall 9 Year 40,000 BTU High Efficiency Natural Gas Water Heater",gas wayer heaters,2.0,score,scale_1_3
+125,"Rheem Performance Plus 50 Gal. Tall 9 Year 40,000 BTU High Efficiency Natural Gas Water Heater",heater gas,1.67,score,scale_1_3
+126,"Rheem Performance Plus 50 Gal. Tall 9 Year 40,000 BTU High Efficiency Natural Gas Water Heater",hot water heater cost,2.67,score,scale_1_3
+127,"Rheem Performance Plus 50 Gal. Tall 9 Year 40,000 BTU High Efficiency Natural Gas Water Heater",hot water heater gas,3.0,score,scale_1_3
+128,"Rheem Performance Plus 50 Gal. Tall 9 Year 40,000 BTU High Efficiency Natural Gas Water Heater",rheem gas water heater prog40,2.67,score,scale_1_3
+129,"Rheem Performance Plus 50 Gal. Tall 9 Year 40,000 BTU High Efficiency Natural Gas Water Heater",rheem water heater gas,3.0,score,scale_1_3
+130,"Rheem Performance Plus 50 Gal. Tall 9 Year 40,000 BTU High Efficiency Natural Gas Water Heater",rheem water heater plug,2.33,score,scale_1_3
+131,"Rheem Performance Plus 50 Gal. Tall 9 Year 40,000 BTU High Efficiency Natural Gas Water Heater",rheum water heater,3.0,score,scale_1_3
+132,"Rheem Performance Plus 50 Gal. Tall 9 Year 40,000 BTU High Efficiency Natural Gas Water Heater",water heater certified,3.0,score,scale_1_3
+133,"Rheem Performance Plus 50 Gal. Tall 9 Year 40,000 BTU High Efficiency Natural Gas Water Heater",water heater pans,1.67,score,scale_1_3
+134,Shark Rotator Slim-Light Lift-Away Vacuum Cleaner,shark vacuum,3.0,score,scale_1_3
+135,GE 18 in. Direct Wire LED Under Cabinet Light Bar with Hi/Low/Off,under cabinet led,3.0,score,scale_1_3
+136,GE 18 in. Direct Wire LED Under Cabinet Light Bar with Hi/Low/Off,under cabinet lighting,3.0,score,scale_1_3
+137,GE 18 in. Direct Wire LED Under Cabinet Light Bar with Hi/Low/Off,under counter fluorescent bar light,2.33,score,scale_1_3
+138,GE 18 in. Direct Wire LED Under Cabinet Light Bar with Hi/Low/Off,undercounter lighting,3.0,score,scale_1_3
+139,Steves &amp; Sons Retrofit Prehung Primed White Steel Patio Door,doors exterior,2.33,score,scale_1_3
+140,Steves &amp; Sons Retrofit Prehung Primed White Steel Patio Door,Double Doors,3.0,score,scale_1_3
+141,Steves &amp; Sons Retrofit Prehung Primed White Steel Patio Door,prehung steel door,3.0,score,scale_1_3
+142,Steves &amp; Sons Retrofit Prehung Primed White Steel Patio Door,steel patio railings,1.33,score,scale_1_3
+143,"Duck 1.41 in. x 60 yds. Blue Clean Release Masking Tape, (16-Pack)",3 blue masking tape,1.67,score,scale_1_3
+144,"Duck 1.41 in. x 60 yds. Blue Clean Release Masking Tape, (16-Pack)",masking tape,3.0,score,scale_1_3
+145,Kaleen Soho Thames Beige 4 ft. x 6 ft. Area Rug,4x6,3.0,score,scale_1_3
+146,4 in. x 4 in. x 5-1/3 ft. Pressure-Treated Pine 2-Hole Fence Corner Post,treated fence posts,3.0,score,scale_1_3
+147,Mueller Global 3/4 in. Black Malleable Iron Threaded Tee,1/2 x 5 black pipe nipple,1.67,score,scale_1_3
+148,Mueller Global 3/4 in. Black Malleable Iron Threaded Tee,galvanized gas tee,3.0,score,scale_1_3
+149,Safavieh Courtyard Natural/Brown 8 ft. 11 in. x 12 ft. Area Rug,area rugs 9x12,2.67,score,scale_1_3
+150,Frigidaire 18 cu. ft. Top Freezer Refrigerator in Stainless Steel,18  dishwasher,1.67,score,scale_1_3
+151,STERLING Accord 30 in. x 60 in. x 72 in. Bath and Shower Kit in White,30' x 60 'molded one piece acrylic shower stall,2.33,score,scale_1_3
+152,STERLING Accord 30 in. x 60 in. x 72 in. Bath and Shower Kit in White,one piece showers,2.33,score,scale_1_3
+153,Corner Baker&#39;s Rack with Slate Top,bakers rack,3.0,score,scale_1_3
+154,Shape Products Thick &amp; Strong Flat Area Well Cover,basemetnt window,1.33,score,scale_1_3
+155,Rust-Oleum EpoxyShield 2 gal. Tan 2-Part High-Gloss Epoxy Garage Floor Coating Kit,editing garage floor,2.0,score,scale_1_3
+156,Rust-Oleum EpoxyShield 2 gal. Tan 2-Part High-Gloss Epoxy Garage Floor Coating Kit,rustollum epoxy,3.0,score,scale_1_3
+157,YuTrax Arch XL Folding Aluminum ATV Ramp,car ramps ends,2.0,score,scale_1_3
+158,"Werner 7 ft. - 9 ft., 18 in. x 24 in. Compact Aluminum Attic Ladder with 250 lb. Maximum Load Capacity",plexiglas 18' x 24',2.0,score,scale_1_3
+159,Melnor Adjustable Rear Trigger Nozzle,melnor,3.0,score,scale_1_3
+160,"LG Electronics 5,000 BTU 115-Volt Window Air Conditioner",A/c window unit,3.0,score,scale_1_3
+161,"LG Electronics 5,000 BTU 115-Volt Window Air Conditioner",air /heaterconditioner window,3.0,score,scale_1_3
+162,"LG Electronics 5,000 BTU 115-Volt Window Air Conditioner",room a/c units,2.67,score,scale_1_3
+163,"LG Electronics 5,000 BTU 115-Volt Window Air Conditioner",spliter ac unit,2.33,score,scale_1_3
+164,"LG Electronics 5,000 BTU 115-Volt Window Air Conditioner",window air condit,2.33,score,scale_1_3
+165,"LG Electronics 5,000 BTU 115-Volt Window Air Conditioner",Window Unit Air Conditioner/Heater,2.67,score,scale_1_3
+166,Rust-Oleum Restore 1-gal. 4X Deck Coat,berh deck over,2.33,score,scale_1_3
+167,Rust-Oleum Restore 1-gal. 4X Deck Coat,deck over,1.67,score,scale_1_3
+168,Rust-Oleum Restore 1-gal. 4X Deck Coat,deck over paint,2.67,score,scale_1_3
+169,Rust-Oleum Restore 1-gal. 4X Deck Coat,deckpaint,2.67,score,scale_1_3
+170,Rust-Oleum Restore 1-gal. 4X Deck Coat,restore 4x,2.67,score,scale_1_3
+171,Milwaukee M18 FUEL 18-Volt Brushless Lithium-Ion Hole Hawg 1/2 in. Right Angle Drill (Bare Tool),milwaukee right angle,3.0,score,scale_1_3
+172,Milwaukee M18 FUEL 18-Volt Brushless Lithium-Ion Hole Hawg 1/2 in. Right Angle Drill (Bare Tool),milwaukee stone hole drill,3.0,score,scale_1_3
+173,Milwaukee M18 FUEL 18-Volt Brushless Lithium-Ion Hole Hawg 1/2 in. Right Angle Drill (Bare Tool),pneumatic right angle drill,2.67,score,scale_1_3
+174,Milwaukee M18 FUEL 18-Volt Brushless Lithium-Ion Hole Hawg 1/2 in. Right Angle Drill (Bare Tool),right angle drill,3.0,score,scale_1_3
+175,Ariens Deluxe 28 in. Two-Stage Electric Start Gas Snow Blower with Auto-Turn Steering,28 snow thower,3.0,score,scale_1_3
+176,Ariens Deluxe 28 in. Two-Stage Electric Start Gas Snow Blower with Auto-Turn Steering,gas snowblower trailer,2.33,score,scale_1_3
+177,Ariens Deluxe 28 in. Two-Stage Electric Start Gas Snow Blower with Auto-Turn Steering,toro snow blowers gas,1.33,score,scale_1_3
+178,GE Adora 5.0 cu. ft. Gas Range with Self-Cleaning Convection Oven in Stainless Steel,gas gridlee,2.0,score,scale_1_3
+179,GE Adora 5.0 cu. ft. Gas Range with Self-Cleaning Convection Oven in Stainless Steel,ge adora range,3.0,score,scale_1_3
+180,Woodgrain Millwork LWM 623 1/2 in. x 3-1/4 in. x 96 in. Primed MDF Base Moulding,base board molding boundle,2.0,score,scale_1_3
+181,Woodgrain Millwork LWM 623 1/2 in. x 3-1/4 in. x 96 in. Primed MDF Base Moulding,crown molding mdf,2.67,score,scale_1_3
+182,Woodgrain Millwork LWM 623 1/2 in. x 3-1/4 in. x 96 in. Primed MDF Base Moulding,wall wood,2.67,score,scale_1_3
+183,Hampton Bay Woodbury 7-Piece Patio Dining Set with Dragonfruit Cushion,hampton bay set 7-piece led aluminum,2.33,score,scale_1_3
+184,Gardener&#39;s Blue Ribbon 16 in. Plastic Rolling Plant Caddy,plants moses in a cradle,1.33,score,scale_1_3
+185,Dimex EasyFlex 24 ft. Aluminum Landscape Edging Project Kit in Black,landscape edging,3.0,score,scale_1_3
+186,Intertape Polymer Group PG 21 2.0 in. x 60 yd. Lacquer Resistant Performance Grade Masking Tape (6-Pack),intertape duct tape 3pk,1.67,score,scale_1_3
+187,Intertape Polymer Group PG 21 2.0 in. x 60 yd. Lacquer Resistant Performance Grade Masking Tape (6-Pack),masking tape,3.0,score,scale_1_3
+188,Teks #12 1-1/2 in. External Hex Flange Hex-Head Self-Drilling Screws (80-Pack),1 black self tapping screws,2.67,score,scale_1_3
+189,Teks #12 1-1/2 in. External Hex Flange Hex-Head Self-Drilling Screws (80-Pack),1 infloor flange,2.0,score,scale_1_3
+190,GE All Purpose Silicone I 10.1-oz. Clear Window and Door Caulk,10 window sping rod,1.67,score,scale_1_3
+191,GE All Purpose Silicone I 10.1-oz. Clear Window and Door Caulk,clear silicone caulk windows doors,2.33,score,scale_1_3
+192,GE All Purpose Silicone I 10.1-oz. Clear Window and Door Caulk,silicone,3.0,score,scale_1_3
+193,RIDGID X4 18-Volt Lithium-Ion Cordless Drill and Impact Driver Combo Kit (2-Tool),combo powertool kit,2.67,score,scale_1_3
+194,RIDGID X4 18-Volt Lithium-Ion Cordless Drill and Impact Driver Combo Kit (2-Tool),desalt impact 18,2.67,score,scale_1_3
+195,RIDGID X4 18-Volt Lithium-Ion Cordless Drill and Impact Driver Combo Kit (2-Tool),rigid lithium ion batteries fuego drill,2.33,score,scale_1_3
+196,Sun Joe Shredder Joe 12 in. 13 Amp 16:1 Reduction Ratio Electric Leaf Mulcher/Shredder,chipper,1.25,score,scale_1_3
+197,American Standard Colorado FloWise Elongated Toilet Bowl Only in White,bidet,2.33,score,scale_1_3
+198,Shark Navigator Lift-Away Deluxe Bagless Vacuum Cleaner with Appliance Wand,shark cleaner,3.0,score,scale_1_3
+199,Shark Navigator Lift-Away Deluxe Bagless Vacuum Cleaner with Appliance Wand,shark vacuum,3.0,score,scale_1_3
+200,Ryobi Expand-It 10 in. Universal Pole Saw Attachment,expand it universal products,2.33,score,scale_1_3
+201,Ryobi Expand-It 10 in. Universal Pole Saw Attachment,pole saw,2.67,score,scale_1_3
+202,Ryobi Expand-It 10 in. Universal Pole Saw Attachment,ryobi pole saw,2.67,score,scale_1_3
+203,Ryobi Expand-It 10 in. Universal Pole Saw Attachment,ryobi trimmers,2.67,score,scale_1_3
+204,Ryobi Expand-It 10 in. Universal Pole Saw Attachment,trimmer attachment,2.0,score,scale_1_3
+205,Prime-Line Fiberglass Screening Kit with Rolling Tool,fiberglass repair kit,3.0,score,scale_1_3
+206,Prime-Line Fiberglass Screening Kit with Rolling Tool,fiberglass repir kit,1.67,score,scale_1_3
+207,Rug Doctor Universal Upholstery Hand Tool Attachment,rug doctor carpet cleaner,2.0,score,scale_1_3
+208,Amerelle Line Voltage Halogen Bronze Pucks (5-Pack),under cabinet lighting,2.67,score,scale_1_3
+209,Baled Pine Straw,pine straw,3.0,score,scale_1_3
+210,MasterPiece 71-1/4 in. x 79-1/2 in. Composite Right-Hand Woodgrain Interior Blinds Between Glass Sliding Patio Door,andersen sliding right hand doors with blinds,3.0,score,scale_1_3
+211,MasterPiece 71-1/4 in. x 79-1/2 in. Composite Right-Hand Woodgrain Interior Blinds Between Glass Sliding Patio Door,doors exterior,2.0,score,scale_1_3
+212,"LG Electronics 10,000 BTU Portable Air Conditioner and Dehumidifier Function with Remote in White",10000 btu portable ac,3.0,score,scale_1_3
+213,"LG Electronics 10,000 BTU Portable Air Conditioner and Dehumidifier Function with Remote in White",portable air condtioners,3.0,score,scale_1_3
+214,Home Decorators Collection Corner Desk in Espresso,computer desk,2.0,score,scale_1_3
+215,Jameson Heavy Duty Pruner and Pole Package,tree pruner,2.67,score,scale_1_3
+216,Purdy 2 in. A. P. All Paints Brush Set (3-Pack),2 paint brush pack,2.67,score,scale_1_3
+217,Purdy 2 in. A. P. All Paints Brush Set (3-Pack),paint roller inserts,1.0,score,scale_1_3
+218,DEWALT 2.4-amp 1/4-Sheet Pad Sander,hand sander,3.0,score,scale_1_3
+219,"Champion Power Equipment 3,100 Watt Gasoline Powered Wireless Remote Start Inverter Generator with Free Cover",inverter generator,3.0,score,scale_1_3
+220,Delta Foundations Single-Handle Kitchen Faucet in Chrome,delta faucet handles,3.0,score,scale_1_3
+221,Delta Foundations Single-Handle Kitchen Faucet in Chrome,kitchen faucet delta,2.33,score,scale_1_3
+222,Delta Foundations Single-Handle Kitchen Faucet in Chrome,kitchen sink faucet,3.0,score,scale_1_3
+223,Delta Foundations Single-Handle Kitchen Faucet in Chrome,pricepfister kitchen faucet g135,2.33,score,scale_1_3
+224,InSinkErator Involve H-View Instant Hot Water Dispenser System in Satin Nickel,hot water dispenser,2.67,score,scale_1_3
+225,RapidAir 3/8 in. Plastic Tubing Clamp (12-Pack),plastic tubing,2.33,score,scale_1_3
+226,Proslat 32 sq. ft. White Wall Panel Kit,garage chair organizer,1.0,score,scale_1_3
+227,Proslat 32 sq. ft. White Wall Panel Kit,slatwall,3.0,score,scale_1_3
+228,Proslat 32 sq. ft. White Wall Panel Kit,wall board,2.67,score,scale_1_3
+229,Proslat 32 sq. ft. White Wall Panel Kit,wall pannels,2.67,score,scale_1_3
+230,Sundstrom Safety Silicone Half Mask Respirator,face masks,1.0,score,scale_1_3
+231,Sundstrom Safety Silicone Half Mask Respirator,respirator,3.0,score,scale_1_3
+232,Terro Outdoor Liquid Ant Stake,ant killer,3.0,score,scale_1_3
+233,Leaktite 5-gal. Homer Leakproof Lid,5 gal buckets,1.67,score,scale_1_3
+234,Leaktite 5-gal. Homer Leakproof Lid,5gal bucket,1.67,score,scale_1_3
+235,Leaktite 5-gal. Homer Leakproof Lid,college homer bucket,2.0,score,scale_1_3
+236,Leaktite 5-gal. Homer Leakproof Lid,paint pails,1.67,score,scale_1_3
+237,Hampton Bay 66 in. Satin Nickel Floor Lamp,lamp,3.0,score,scale_1_3
+238,2 in. x 4 in. x 104-5/8 in. Kiln-Dried Whitewood Stud,2*3 stud,2.33,score,scale_1_3
+239,2 in. x 4 in. x 104-5/8 in. Kiln-Dried Whitewood Stud,2X4 SRUDS,3.0,score,scale_1_3
+240,2 in. x 4 in. x 104-5/8 in. Kiln-Dried Whitewood Stud,lumber 2x4,3.0,score,scale_1_3
+241,Frost King E/O 84 in. x 110 in. Patio Shrink Window Insulation Kit,frostking window shrink film,2.67,score,scale_1_3
+242,Frost King E/O 84 in. x 110 in. Patio Shrink Window Insulation Kit,plastic covers,1.0,score,scale_1_3
+243,Frost King E/O 84 in. x 110 in. Patio Shrink Window Insulation Kit,plastic film,1.67,score,scale_1_3
+244,Frost King E/O 84 in. x 110 in. Patio Shrink Window Insulation Kit,window removable weather strip,2.33,score,scale_1_3
+245,Frost King E/O 84 in. x 110 in. Patio Shrink Window Insulation Kit,wrap around plastic light covers,1.33,score,scale_1_3
+246,Pelican Water 10 GPM Whole House Carbon Water Filter System for Homes with 1-3 Bathrooms,water trap moisture filter,2.0,score,scale_1_3
+247,Philips 4 ft. T8 32-Watt Daylight (6500K) ALTO Linear Fluorescent Light Bulb (10-Pack),4   lights bulbs,3.0,score,scale_1_3
+248,Philips 4 ft. T8 32-Watt Daylight (6500K) ALTO Linear Fluorescent Light Bulb (10-Pack),Florescent Light Bulbs,3.0,score,scale_1_3
+249,Philips 4 ft. T8 32-Watt Daylight (6500K) ALTO Linear Fluorescent Light Bulb (10-Pack),fluorescent fixture,1.67,score,scale_1_3
+250,Philips 4 ft. T8 32-Watt Daylight (6500K) ALTO Linear Fluorescent Light Bulb (10-Pack),fluorescent light  ballet,1.67,score,scale_1_3
+251,Philips 4 ft. T8 32-Watt Daylight (6500K) ALTO Linear Fluorescent Light Bulb (10-Pack),t8 light,3.0,score,scale_1_3
+252,Philips 4 ft. T8 32-Watt Daylight (6500K) ALTO Linear Fluorescent Light Bulb (10-Pack),violet flourescent light,1.67,score,scale_1_3
+253,Honda GCV190 21 in. Variable Speed Self-Propelled Walk-Behind Gas Mower,lawn mower- electic,2.33,score,scale_1_3
+254,Honda GCV190 21 in. Variable Speed Self-Propelled Walk-Behind Gas Mower,Lawnmowers,3.0,score,scale_1_3
+255,ClosetMaid 36 in. Laminated 2-Door Raised Panel Storage Cabinet in White,closetmade,2.0,score,scale_1_3
+256,ClosetMaid 36 in. Laminated 2-Door Raised Panel Storage Cabinet in White,closetmaid,2.67,score,scale_1_3
+257,ClosetMaid 36 in. Laminated 2-Door Raised Panel Storage Cabinet in White,closetmaid pantry,1.67,score,scale_1_3
+258,ClosetMaid 36 in. Laminated 2-Door Raised Panel Storage Cabinet in White,storage cabinets,3.0,score,scale_1_3
+259,ClosetMaid 36 in. Laminated 2-Door Raised Panel Storage Cabinet in White,white cabinet,3.0,score,scale_1_3
+260,Frigidaire 4.2 cu. ft. Gas Range in Stainless Steel,24 stainless gas range,2.33,score,scale_1_3
+261,Frigidaire 4.2 cu. ft. Gas Range in Stainless Steel,frigidaire gas range,3.0,score,scale_1_3
+262,Frigidaire 4.2 cu. ft. Gas Range in Stainless Steel,gas range,3.0,score,scale_1_3
+263,Frigidaire 4.2 cu. ft. Gas Range in Stainless Steel,stainless steel gas stove,3.0,score,scale_1_3
+264,Aquatic Gelcoat Repair Kit in White,fiberglass repair kit,2.75,score,scale_1_3
+265,Aquatic Gelcoat Repair Kit in White,fiberglass repir kit,2.0,score,scale_1_3
+266,32 sq. ft. Ultra True Bead Hardboard Paneling,4*8 beadboard paneling,2.0,score,scale_1_3
+267,Armstrong 12 in. x 12 in. Peel and Stick Slate Sand &amp; Sky Vinyl Tile (45 sq. ft. / case),6x6 p sand tile,2.0,score,scale_1_3
+268,Armstrong 12 in. x 12 in. Peel and Stick Slate Sand &amp; Sky Vinyl Tile (45 sq. ft. / case),vinyl tile peel and stick,3.0,score,scale_1_3
+269,Everbilt R-Value 6 Reflective Barrier Water Heater Blanket,water heater blanket,3.0,score,scale_1_3
+270,MARAZZI Montagna Gunstock 6 in. x 24 in. Glazed Porcelain Floor and Wall Tile (14.53 sq. ft. / case),funnel 6 inch,1.0,score,scale_1_3
+271,MARAZZI Montagna Gunstock 6 in. x 24 in. Glazed Porcelain Floor and Wall Tile (14.53 sq. ft. / case),greecianmarble floor tile,1.67,score,scale_1_3
+272,MARAZZI Montagna Gunstock 6 in. x 24 in. Glazed Porcelain Floor and Wall Tile (14.53 sq. ft. / case),join compound wall tile,2.0,score,scale_1_3
+273,MARAZZI Montagna Gunstock 6 in. x 24 in. Glazed Porcelain Floor and Wall Tile (14.53 sq. ft. / case),lunada bay tile 3' x 6' wall tile,2.0,score,scale_1_3
+274,MARAZZI Montagna Gunstock 6 in. x 24 in. Glazed Porcelain Floor and Wall Tile (14.53 sq. ft. / case),Montagna rustic,2.0,score,scale_1_3
+275,MARAZZI Montagna Gunstock 6 in. x 24 in. Glazed Porcelain Floor and Wall Tile (14.53 sq. ft. / case),montagnia contina floor tile,2.33,score,scale_1_3
+276,MARAZZI Montagna Gunstock 6 in. x 24 in. Glazed Porcelain Floor and Wall Tile (14.53 sq. ft. / case),porcelain tile sealer,2.0,score,scale_1_3
+277,MARAZZI Montagna Gunstock 6 in. x 24 in. Glazed Porcelain Floor and Wall Tile (14.53 sq. ft. / case),porcelin floor tile 6x24,2.0,score,scale_1_3
+278,MARAZZI Montagna Gunstock 6 in. x 24 in. Glazed Porcelain Floor and Wall Tile (14.53 sq. ft. / case),tiles floor,2.67,score,scale_1_3
+279,MARAZZI Montagna Gunstock 6 in. x 24 in. Glazed Porcelain Floor and Wall Tile (14.53 sq. ft. / case),towel rings that look like wood,1.67,score,scale_1_3
+280,4 in. x 4 in. x 4-1/2 ft. Pressure-Treated Pine Double V-Grooved Deck Post,4x4 deck post,2.33,score,scale_1_3
+281,4 in. x 4 in. x 4-1/2 ft. Pressure-Treated Pine Double V-Grooved Deck Post,4x4 lumber,3.0,score,scale_1_3
+282,4 in. x 4 in. x 4-1/2 ft. Pressure-Treated Pine Double V-Grooved Deck Post,4x4 lumber not treated,2.67,score,scale_1_3
+283,4 in. x 4 in. x 4-1/2 ft. Pressure-Treated Pine Double V-Grooved Deck Post,post,2.33,score,scale_1_3
+284,4 in. x 4 in. x 4-1/2 ft. Pressure-Treated Pine Double V-Grooved Deck Post,pressure treated posts for decks,2.0,score,scale_1_3
+285,Commercial Electric 7 in. White LED Easy Light Ceiling Flushmount Daylight,closet light fixture,3.0,score,scale_1_3
+286,Cub Cadet 42 in. and 46 in. LTX and XT1 Bagger,cub cadet 42,3.0,score,scale_1_3
+287,Cub Cadet 42 in. and 46 in. LTX and XT1 Bagger,cub cadet battery72517063,2.0,score,scale_1_3
+288,Cub Cadet 42 in. and 46 in. LTX and XT1 Bagger,cub cadet lawn mowers,2.0,score,scale_1_3
+289,Cub Cadet 42 in. and 46 in. LTX and XT1 Bagger,foof leaf broom,1.0,score,scale_1_3
+290,Cub Cadet 42 in. and 46 in. LTX and XT1 Bagger,lawn tractor,1.0,score,scale_1_3
+291,Leviton 15 Amp 3-Way Toggle Switch - White,3 way,2.67,score,scale_1_3
+292,Leviton 15 Amp 3-Way Toggle Switch - White,3 WAY TOGGLE SWITCH,3.0,score,scale_1_3
+293,Leviton 15 Amp 3-Way Toggle Switch - White,three wayy,2.0,score,scale_1_3
+294,"Reddy Heater 26,000 - 30,000 BTU Infrared Dual-Fuel Wall Heater with Blower",dual wall ducts,1.33,score,scale_1_3
+295,"Reddy Heater 26,000 - 30,000 BTU Infrared Dual-Fuel Wall Heater with Blower",incide wall heater,2.67,score,scale_1_3
+296,Backyard X-Scapes 1 in. D x 6 ft. H x 8 ft. L Stained Mahogany Rolled Bamboo Fence,6ft h bamboo fencing,3.0,score,scale_1_3
+297,Fiskars Bypass Lopper,hedge shears,3.0,score,scale_1_3
+298,KOHLER Memoirs Pedestal Combo Bathroom Sink with Classic Design in White,kohler retro pedestal sink combos,2.67,score,scale_1_3
+299,KOHLER Memoirs Pedestal Combo Bathroom Sink with Classic Design in White,pedestal sink combo,3.0,score,scale_1_3
+300,KOHLER Memoirs Pedestal Combo Bathroom Sink with Classic Design in White,toilet sink,3.0,score,scale_1_3
+301,KOHLER Memoirs Pedestal Combo Bathroom Sink with Classic Design in White,westminster pedistal combo,2.33,score,scale_1_3
+302,DEWALT 20-Volt Max Lithium-Ion Cordless Combo Kit (9-Tool),dewalt combo kit,3.0,score,scale_1_3
+303,Aquasana Whole House Water Filtration System,omnifilter,2.33,score,scale_1_3
+304,Aquasana Whole House Water Filtration System,water softners,2.33,score,scale_1_3
+305,Avanti Pro 4 in. Turbo Diamond Blade,lenox diamond blades,2.0,score,scale_1_3
+306,"CedarSafe Aromatic Eastern Red Cedar Closet Liner Tongue and Groove Planks, 35 sq. ft.",cedar plank,2.67,score,scale_1_3
+307,"CedarSafe Aromatic Eastern Red Cedar Closet Liner Tongue and Groove Planks, 35 sq. ft.",wooden planks,3.0,score,scale_1_3
+308,Quikrete 10 oz. Liquid Cement Color - Charcoal,colosso,1.0,score,scale_1_3
+309,Quikrete 10 oz. Liquid Cement Color - Charcoal,quikrete color,2.67,score,scale_1_3
+310,Everbilt 3-1/2 in. x 5/8 in. Satin Nickel Radius Door Hinge (3 per Pack),door hinge,3.0,score,scale_1_3
+311,Everbilt 3-1/2 in. x 5/8 in. Satin Nickel Radius Door Hinge (3 per Pack),exterior door hinges,3.0,score,scale_1_3
+312,"Dyna-Glo Pro 125,000 BTU Forced Air LP Gas Portable Heater",kerosene heater,1.0,score,scale_1_3
+313,"Dyna-Glo Pro 125,000 BTU Forced Air LP Gas Portable Heater",lp gas heaters,2.67,score,scale_1_3
+314,"Dyna-Glo Pro 125,000 BTU Forced Air LP Gas Portable Heater",portable air tank,1.67,score,scale_1_3
+315,"Dyna-Glo Pro 125,000 BTU Forced Air LP Gas Portable Heater",thin propane heater,2.33,score,scale_1_3
+316,Sundstrom Safety P100 Particulate Filter,respirator,1.33,score,scale_1_3
+317,Lithonia Lighting 4 ft. Integrated White LED Linear Lite Puff,KITCHEN  LIGHTING,2.67,score,scale_1_3
+318,Haier BrewMaster Single Tap Beer Dispenser in Black-DISCONTINUED,beer keg dispenser,3.0,score,scale_1_3
+319,Reflectix 24 in. x 100 ft. Double Reflective Insulation with Staple Tab,foil board,1.67,score,scale_1_3
+320,Malibu Low Voltage 50-Watt Black Flood Light,malibu lights,3.0,score,scale_1_3
+321,Hickory Hardware Studio 5 in. Satin Nickel Pull,satin nickel pull,3.0,score,scale_1_3
+322,Miracle-Gro LiquaFeed 16 oz. All-Purpose Plant Food Refills (4-Pack),miricale,2.33,score,scale_1_3
+323,"Paslode 3 in. x 0.120-Gauge 30å¡ Galvanized Ring Shank Paper Tape Framing Nails (2,000-Pack)",galvanized framing nails,2.67,score,scale_1_3
+324,"Paslode 3 in. x 0.120-Gauge 30å¡ Galvanized Ring Shank Paper Tape Framing Nails (2,000-Pack)",paslode framing nails,3.0,score,scale_1_3
+325,Prime-Line Chrome Showcase Sliding Panel Keyed Lock,locks for sliding doors,3.0,score,scale_1_3
+326,Prime-Line Chrome Showcase Sliding Panel Keyed Lock,sliding windos locks,2.33,score,scale_1_3
+327,Crosley MDF Parsons Pantry Cabinet in White,pantry rack,2.0,score,scale_1_3
+328,Crosley MDF Parsons Pantry Cabinet in White,storage cabinets,3.0,score,scale_1_3
+329,Crosley MDF Parsons Pantry Cabinet in White,white pantry cabinets,2.0,score,scale_1_3
+330,Sheetrock Firecode Core 5/8 in. x 4 ft. x 12 ft. Gypsum Board,sheetrock,3.0,score,scale_1_3
+331,Bootz Industries Aloha 5 ft. Right Hand Drain Soaking Tub in White,bathrooms,2.0,score,scale_1_3
+332,Bootz Industries Aloha 5 ft. Right Hand Drain Soaking Tub in White,bootz,2.67,score,scale_1_3
+333,Bootz Industries Aloha 5 ft. Right Hand Drain Soaking Tub in White,main drain tub,1.67,score,scale_1_3
+334,Bootz Industries Aloha 5 ft. Right Hand Drain Soaking Tub in White,porcelain,2.33,score,scale_1_3
+335,Bootz Industries Aloha 5 ft. Right Hand Drain Soaking Tub in White,tub & tile spray on refinishing kit,2.33,score,scale_1_3
+336,Rubbermaid 68 in. Utility Single Track Upright,shelf track,2.67,score,scale_1_3
+337,14 in. Vinyl Coated Scroll Top Border,chicken wire,2.67,score,scale_1_3
+338,Prepac Elite 32 in. Wood Laminate Cabinet in White,cabinet closet  $100,2.33,score,scale_1_3
+339,Prepac Elite 32 in. Wood Laminate Cabinet in White,cabinets pantry,2.33,score,scale_1_3
+340,Prepac Elite 32 in. Wood Laminate Cabinet in White,closetmaid pantry,1.67,score,scale_1_3
+341,Prepac Elite 32 in. Wood Laminate Cabinet in White,in stock white cabinets,2.67,score,scale_1_3
+342,Prepac Elite 32 in. Wood Laminate Cabinet in White,kitchen cupboards hinges,1.33,score,scale_1_3
+343,Prepac Elite 32 in. Wood Laminate Cabinet in White,storage cabinets,3.0,score,scale_1_3
+344,Prepac Elite 32 in. Wood Laminate Cabinet in White,wardrobe closet material,1.33,score,scale_1_3
+345,Fiskars 54 in. EZ Reach Stik Tree Pruner,tree pruner,3.0,score,scale_1_3
+346,Main Door 36 in. x 80 in. Rustic Mahogany Type Prefinished Distressed Solid Wood Speakeasy Prehung Front Door,80 x 36 solid wood,3.0,score,scale_1_3
+347,Main Door 36 in. x 80 in. Rustic Mahogany Type Prefinished Distressed Solid Wood Speakeasy Prehung Front Door,front door,3.0,score,scale_1_3
+348,Main Door 36 in. x 80 in. Rustic Mahogany Type Prefinished Distressed Solid Wood Speakeasy Prehung Front Door,front doors,3.0,score,scale_1_3
+349,Main Door 36 in. x 80 in. Rustic Mahogany Type Prefinished Distressed Solid Wood Speakeasy Prehung Front Door,louvre door 36 inch,2.33,score,scale_1_3
+350,Main Door 36 in. x 80 in. Rustic Mahogany Type Prefinished Distressed Solid Wood Speakeasy Prehung Front Door,prehung solid core wooden entry door,3.0,score,scale_1_3
+351,Main Door 36 in. x 80 in. Rustic Mahogany Type Prefinished Distressed Solid Wood Speakeasy Prehung Front Door,rustic door 42x80,2.0,score,scale_1_3
+352,DEWALT 20-Volt 3Ah Max Lithium-Ion Battery (2-Pack),20v dewalt kombo,1.67,score,scale_1_3
+353,DEWALT 20-Volt 3Ah Max Lithium-Ion Battery (2-Pack),dewalt 20v,3.0,score,scale_1_3
+354,DEWALT 20-Volt 3Ah Max Lithium-Ion Battery (2-Pack),dewalt 7.2volt battery,2.0,score,scale_1_3
+355,DEWALT 20-Volt 3Ah Max Lithium-Ion Battery (2-Pack),dewalt battery chargers,2.67,score,scale_1_3
+356,DEWALT 20-Volt 3Ah Max Lithium-Ion Battery (2-Pack),DEWALT VACCUM,1.67,score,scale_1_3
+357,DEWALT 20-Volt 3Ah Max Lithium-Ion Battery (2-Pack),lithium 20 dewalt,3.0,score,scale_1_3
+358,MD Hobby and Craft 12 in. x 12 in. Galvanized Steel Sheet with Magnetic Surface,sheet metal,3.0,score,scale_1_3
+359,Rheem Performance 10 Gal. 6 Year 2000-Watt Single Element Electric Point-Of-Use Water Heater,element for hot wa,2.0,score,scale_1_3
+360,Rheem Performance 10 Gal. 6 Year 2000-Watt Single Element Electric Point-Of-Use Water Heater,water heather,3.0,score,scale_1_3
+361,Toro 225 mph 390 CFM Electric Super Leaf Blower with Vacuum Shredder,aspiradora,1.33,score,scale_1_3
+362,Toro 225 mph 390 CFM Electric Super Leaf Blower with Vacuum Shredder,leaf blower batte,2.67,score,scale_1_3
+363,Toro 225 mph 390 CFM Electric Super Leaf Blower with Vacuum Shredder,riobi blower vac 9056,1.67,score,scale_1_3
+364,Toro 225 mph 390 CFM Electric Super Leaf Blower with Vacuum Shredder,shredder,2.33,score,scale_1_3
+365,Toro 225 mph 390 CFM Electric Super Leaf Blower with Vacuum Shredder,yard blowers in stock,2.0,score,scale_1_3
+366,Toro 225 mph 390 CFM Electric Super Leaf Blower with Vacuum Shredder,yardman leaf vac,2.33,score,scale_1_3
+367,Flowtron 21 in. 5-Amp Electronic Leaf-Eater/Ultimate Mulcher,chipper,2.0,score,scale_1_3
+368,Cooper Bussmann GMA 5 Amp Glass Tube Fuse,Fuses,3.0,score,scale_1_3
+369,MS International Chiaro Brick 12 in. x 12 in. x 10 mm Tumbled Travertine Mesh-Mounted Mosaic Tile,mosaic  tiles,2.33,score,scale_1_3
+370,MS International Chiaro Brick 12 in. x 12 in. x 10 mm Tumbled Travertine Mesh-Mounted Mosaic Tile,mosaic tile backsplash,2.67,score,scale_1_3
+371,MS International Chiaro Brick 12 in. x 12 in. x 10 mm Tumbled Travertine Mesh-Mounted Mosaic Tile,tile backsplash,3.0,score,scale_1_3
+372,MS International Chiaro Brick 12 in. x 12 in. x 10 mm Tumbled Travertine Mesh-Mounted Mosaic Tile,travertine tiles,3.0,score,scale_1_3
+373,1/2 in. Brass CSST x MIPT Termination Flange,gas tubing,1.67,score,scale_1_3
+374,1/2 in. Brass CSST x MIPT Termination Flange,home-flex,1.33,score,scale_1_3
+375,Liberty 3-3/4 in. Steel Bar Pull (25-Pack),bathroom hardware knobs and pulls,2.67,score,scale_1_3
+376,Liberty 3-3/4 in. Steel Bar Pull (25-Pack),DRAWEER PULLS,3.0,score,scale_1_3
+377,Liberty 3-3/4 in. Steel Bar Pull (25-Pack),knob,2.33,score,scale_1_3
+378,Liberty 3-3/4 in. Steel Bar Pull (25-Pack),knobs for cabinet,3.0,score,scale_1_3
+379,PC Products 50ml PC-Clear Liquid Epoxy Cartridge,fiberglass epoxy,2.33,score,scale_1_3
+380,PC Products 50ml PC-Clear Liquid Epoxy Cartridge,fiberglass repair kit,1.75,score,scale_1_3
+381,Malibu Low Voltage Black Tier Light,malibu lights,3.0,score,scale_1_3
+382,WM 356 11/16 in. x 2-1/4 in. x 84 in. Pine Pre-Mitered Casing Set (3-Piece),door trim,2.33,score,scale_1_3
+383,Beautyscapes Red Rubber Mulch,bagged cinder mulch,2.33,score,scale_1_3
+384,Beautyscapes Red Rubber Mulch,red cypress mulch,2.33,score,scale_1_3
+385,Beautyscapes Red Rubber Mulch,red mulch,2.67,score,scale_1_3
+386,Wired Door Bell Contractor Kit,door bell,3.0,score,scale_1_3
+387,Wired Door Bell Contractor Kit,door bell chime,2.33,score,scale_1_3
+388,"Sigman 11 ft. 6 in. x 14 ft. 6 in., 8 oz. Canvas Drop Cloth",canvas drop cloth,3.0,score,scale_1_3
+389,Sun Joe 14 in. 12 Amp Lawn Electric Mower,bentgrass lawn mower,2.33,score,scale_1_3
+390,Sun Joe 14 in. 12 Amp Lawn Electric Mower,electric mower,3.0,score,scale_1_3
+391,Sun Joe 14 in. 12 Amp Lawn Electric Mower,kobalt electric mower corded,2.0,score,scale_1_3
+392,Sun Joe 14 in. 12 Amp Lawn Electric Mower,Lawnmowers,3.0,score,scale_1_3
+393,Everbilt 3-1/2 in. x 3-1/2 in. Satin Nickel Square Corner Door Hinge,hindges,2.33,score,scale_1_3
+394,JET 12 in. x 21 in. Variable Speed Woodworking Lathe,lathe,3.0,score,scale_1_3
+395,House of Fara 7/8 in. x 2-1/2 in. x 8 ft. Hardwood Chair Rail Moulding,chair molding,2.67,score,scale_1_3
+396,House of Fara 7/8 in. x 2-1/2 in. x 8 ft. Hardwood Chair Rail Moulding,chair rail hieght,3.0,score,scale_1_3
+397,House of Fara 7/8 in. x 2-1/2 in. x 8 ft. Hardwood Chair Rail Moulding,chair rail moulding,3.0,score,scale_1_3
+398,Medium Density Fiberboard (Common: 1/4 in. x 2 ft. x 4 ft.; Actual: 0.216 in. x 23.75 in. x 47.75 in.),2x4 board,2.67,score,scale_1_3
+399,Adjust-A-Gate 2 Rail Gate Frame Kit,fence gates,2.67,score,scale_1_3
+400,Adjust-A-Gate 2 Rail Gate Frame Kit,gate frame block,2.67,score,scale_1_3
+401,Adjust-A-Gate 2 Rail Gate Frame Kit,wood fence gate0,2.0,score,scale_1_3
+402,Wooster 9 in. Sherlock Roller Frame,roller,1.67,score,scale_1_3
+403,Mission Split 8 in. x 4 in. x 1.63 in. Tumbled Clay Red Flash Paver,clab,2.67,score,scale_1_3
+404,Mission Split 8 in. x 4 in. x 1.63 in. Tumbled Clay Red Flash Paver,paver stones,3.0,score,scale_1_3
+405,Hampton Bay Andrews Patio Chaise Lounge,chaise,2.67,score,scale_1_3
+406,Hampton Bay Hawkins 44 in. Tarnished Bronze Ceiling Fan,celling light,1.0,score,scale_1_3
+407,Hampton Bay Hawkins 44 in. Tarnished Bronze Ceiling Fan,fan with remote,2.33,score,scale_1_3
+408,Hampton Bay Hawkins 44 in. Tarnished Bronze Ceiling Fan,hampton ceiling fans,2.67,score,scale_1_3
+409,Caravan Sports 9 ft. x 6 ft. Blue Sport Shelter,tent,2.75,score,scale_1_3
+410,EZ Screen Room 8 ft. x 2 in. x 2 in. Bronze Screen Room Aluminum Extrusion with Spline Track,screen frame,2.67,score,scale_1_3
+411,Owens Corning R-19 Kraft Faced Insulation Batts 23 in. x 93 in.,fiberglass insulation,2.67,score,scale_1_3
+412,Owens Corning R-19 Kraft Faced Insulation Batts 23 in. x 93 in.,owens corning 7-3,2.0,score,scale_1_3
+413,Owens Corning R-19 Kraft Faced Insulation Batts 23 in. x 93 in.,r19 insulation,3.0,score,scale_1_3
+414,Rust-Oleum Specialty 1-qt. Biscuit Tub and Tile Refinishing Kit,fiberglass repair kit,1.67,score,scale_1_3
+415,Rust-Oleum Specialty 1-qt. Biscuit Tub and Tile Refinishing Kit,fiberglass repir kit,2.0,score,scale_1_3
+416,Rust-Oleum Specialty 1-qt. Biscuit Tub and Tile Refinishing Kit,rustoleum tile paint,2.67,score,scale_1_3
+417,Rust-Oleum Specialty 1-qt. Biscuit Tub and Tile Refinishing Kit,rustollum epoxy,2.67,score,scale_1_3
+418,Rust-Oleum Specialty 1-qt. Biscuit Tub and Tile Refinishing Kit,tub repair kit procelian,2.67,score,scale_1_3
+419,DEWALT DS 150 Tough System Storage Unit,dewalr tools,1.67,score,scale_1_3
+420,DEWALT DS 150 Tough System Storage Unit,dewalt tool box,3.0,score,scale_1_3
+421,DEWALT DS 150 Tough System Storage Unit,dewalt tough system bin,3.0,score,scale_1_3
+422,Werner Job Bucket,werner ladder,1.67,score,scale_1_3
+423,Hearth &amp; Garden Polyester Offset Patio Umbrella Cover with PVC Coating,patio furniture covers,1.67,score,scale_1_3
+424,Henry 3.30 Gal. 208 Wet Patch Roof Cement,5gallon roof patch,2.33,score,scale_1_3
+425,Backer-On 1-1/4 in. Zinc-Plated Steel Flat-Head Square Cement Board Screws (200-Pack),1/4 WonderBoard,1.33,score,scale_1_3
+426,Backer-On 1-1/4 in. Zinc-Plated Steel Flat-Head Square Cement Board Screws (200-Pack),tile backerboard,1.67,score,scale_1_3
+427,Backer-On 1-1/4 in. Zinc-Plated Steel Flat-Head Square Cement Board Screws (200-Pack),zinc plated flatbraces,1.0,score,scale_1_3
+428,Hampton Bay Midili 44 in. Brushed Nickel Indoor Ceiling Fan,cieling,2.33,score,scale_1_3
+429,Hampton Bay Midili 44 in. Brushed Nickel Indoor Ceiling Fan,control celing fan,1.67,score,scale_1_3
+430,Hampton Bay Midili 44 in. Brushed Nickel Indoor Ceiling Fan,fans with remote,3.0,score,scale_1_3
+431,Hampton Bay Midili 44 in. Brushed Nickel Indoor Ceiling Fan,Hampton Bay Ceiling Fan with remote,2.67,score,scale_1_3
+432,Hampton Bay Midili 44 in. Brushed Nickel Indoor Ceiling Fan,hampton ceiling fans,3.0,score,scale_1_3
+433,Hampton Bay Midili 44 in. Brushed Nickel Indoor Ceiling Fan,remote control ceiling fan replacement parts,2.33,score,scale_1_3
+434,House of Fara 7/8 in. x 2-5/8 in. x 8 ft. Basswood Casing/Chair Rail Moulding,chair rail moulding,3.0,score,scale_1_3
+435,6 in. x 6 in. x 10 ft. Rough Green Western Red Cedar Timber,6in  by 6 in.lumder,3.0,score,scale_1_3
+436,Summer Infant Sure and Secure 36 in. Extra-Tall Walk-Thru Gate,gates,2.67,score,scale_1_3
+437,3M Scotch 1.41 in. x 60.1 yds. Painting Production Masking Tape,masking tape,3.0,score,scale_1_3
+438,Element Contractor Farm 3/4 in. Dia x 100 ft. Lead Free Water Hose,gilmore 3/4  hose,2.0,score,scale_1_3
+439,3M 84 in. x 112 in. Indoor Patio Door Window Insulator Kit,window insulation kit,3.0,score,scale_1_3
+440,GAF Tri-Ply 39 in. x 97-1/2 ft. (316 sq. ft.) Modified Bitumen Rolled Roofing in Black,PLY 1/2,1.33,score,scale_1_3
+441,GAF Tri-Ply 39 in. x 97-1/2 ft. (316 sq. ft.) Modified Bitumen Rolled Roofing in Black,roll roofing lap cemet,2.33,score,scale_1_3
+442,GAF Tri-Ply 39 in. x 97-1/2 ft. (316 sq. ft.) Modified Bitumen Rolled Roofing in Black,rolled roofing,2.67,score,scale_1_3
+443,GAF Tri-Ply 39 in. x 97-1/2 ft. (316 sq. ft.) Modified Bitumen Rolled Roofing in Black,tub materials sheets,1.33,score,scale_1_3
+444,1/4 in. x 3-3/4 in. x 48 in. 100% Aromatic Eastern Red Cedar Planking,ceadar,2.67,score,scale_1_3
+445,1/4 in. x 3-3/4 in. x 48 in. 100% Aromatic Eastern Red Cedar Planking,cedar plank,2.0,score,scale_1_3
+446,1/4 in. x 3-3/4 in. x 48 in. 100% Aromatic Eastern Red Cedar Planking,cedart board,2.33,score,scale_1_3
+447,Vigoro 0.5 cu. ft. Decorative Stone Red Lava Rock,black rock,2.0,score,scale_1_3
+448,Vigoro 0.5 cu. ft. Decorative Stone Red Lava Rock,red cypress mulch,1.33,score,scale_1_3
+449,Vigoro 0.5 cu. ft. Decorative Stone Red Lava Rock,red mulch,1.33,score,scale_1_3
+450,DecraMold DM L58 - 7/32 in. x 17/32 in. Solid Pine Wall and Cabinet Trim Embossed with a Button Style Design,molding trim,2.67,score,scale_1_3
+451,BLACK+DECKER 10 in. 6.5 Amp Electric Corded Pole Chain Saw,electric pole,3.0,score,scale_1_3
+452,BLACK+DECKER 10 in. 6.5 Amp Electric Corded Pole Chain Saw,pole saw gear,2.67,score,scale_1_3
+453,BLACK+DECKER 10 in. 6.5 Amp Electric Corded Pole Chain Saw,pruners,1.0,score,scale_1_3
+454,BLACK+DECKER 10 in. 6.5 Amp Electric Corded Pole Chain Saw,tree pruner,1.33,score,scale_1_3
+455,"LG Electronics 4.0 DOE cu. ft. High-Efficiency Front Load Washer in White, ENERGY STAR",electrolux dryer,2.0,score,scale_1_3
+456,"LG Electronics 4.0 DOE cu. ft. High-Efficiency Front Load Washer in White, ENERGY STAR",front load washer and dryer,2.67,score,scale_1_3
+457,"LG Electronics 4.0 DOE cu. ft. High-Efficiency Front Load Washer in White, ENERGY STAR",frontload washer,3.0,score,scale_1_3
+458,"LG Electronics 4.0 DOE cu. ft. High-Efficiency Front Load Washer in White, ENERGY STAR",lg stcking kit,1.33,score,scale_1_3
+459,"LG Electronics 4.0 DOE cu. ft. High-Efficiency Front Load Washer in White, ENERGY STAR",lg washer/top load,2.0,score,scale_1_3
+460,"LG Electronics 4.0 DOE cu. ft. High-Efficiency Front Load Washer in White, ENERGY STAR",samsung front load dryer,2.67,score,scale_1_3
+461,"LG Electronics 4.0 DOE cu. ft. High-Efficiency Front Load Washer in White, ENERGY STAR",samsung front load washer 3.7,2.0,score,scale_1_3
+462,"LG Electronics 4.0 DOE cu. ft. High-Efficiency Front Load Washer in White, ENERGY STAR",samsung washer pedestal,2.33,score,scale_1_3
+463,"LG Electronics 4.0 DOE cu. ft. High-Efficiency Front Load Washer in White, ENERGY STAR",washer   dryer,2.33,score,scale_1_3
+464,"LG Electronics 4.0 DOE cu. ft. High-Efficiency Front Load Washer in White, ENERGY STAR",washer dryer sets,2.0,score,scale_1_3
+465,"LG Electronics 4.0 DOE cu. ft. High-Efficiency Front Load Washer in White, ENERGY STAR",whirlpool washer 12 inch pedestal,2.33,score,scale_1_3
+466,Reach Barrier 4 ft. x 250 ft. Silvertanium Radiant Barrier Insulation,barreir,2.33,score,scale_1_3
+467,Reach Barrier 4 ft. x 250 ft. Silvertanium Radiant Barrier Insulation,foam insulation board,1.33,score,scale_1_3
+468,Reach Barrier 4 ft. x 250 ft. Silvertanium Radiant Barrier Insulation,isolation foil,2.67,score,scale_1_3
+469,Reach Barrier 4 ft. x 250 ft. Silvertanium Radiant Barrier Insulation,reflective foil insulation,3.0,score,scale_1_3
+470,"LG Electronics 4.3 cu. ft. High-Efficiency Front Load Washer in White, ENERGY STAR",washer dryer sets,2.0,score,scale_1_3
+471,Daltile Briton Bone 3 in. x 12 in. Bullnose Floor and Wall Tile,bullnose tile,2.67,score,scale_1_3
+472,Werner 16 ft. Reach Fiberglass Podium Ladder with 300 lb. Load Capacity Type IA Duty Rating (Comparable to 12 ft. Stepladder),ajustable ladder feet,2.67,score,scale_1_3
+473,Werner 16 ft. Reach Fiberglass Podium Ladder with 300 lb. Load Capacity Type IA Duty Rating (Comparable to 12 ft. Stepladder),werner ladder,3.0,score,scale_1_3
+474,JELD-WEN 30 in. x 80 in. Woodgrain Flush Unfinished Hardwood Bored Interior Door Slab,2 panel door,2.0,score,scale_1_3
+475,JELD-WEN 30 in. x 80 in. Woodgrain Flush Unfinished Hardwood Bored Interior Door Slab,flush hardwood bifold jeldwen,2.67,score,scale_1_3
+476,JELD-WEN 30 in. x 80 in. Woodgrain Flush Unfinished Hardwood Bored Interior Door Slab,interior solid core doors,2.67,score,scale_1_3
+477,JELD-WEN 30 in. x 80 in. Woodgrain Flush Unfinished Hardwood Bored Interior Door Slab,jeld wen  lover door,2.33,score,scale_1_3
+478,JELD-WEN 30 in. x 80 in. Woodgrain Flush Unfinished Hardwood Bored Interior Door Slab,jeld wen aurora a5001,2.0,score,scale_1_3
+479,JELD-WEN 30 in. x 80 in. Woodgrain Flush Unfinished Hardwood Bored Interior Door Slab,unfinished interior doors,2.33,score,scale_1_3
+480,JELD-WEN 30 in. x 80 in. Woodgrain Flush Unfinished Hardwood Bored Interior Door Slab,unfinished jeld-wen slab entry door,2.67,score,scale_1_3
+481,JELD-WEN 30 in. x 80 in. Woodgrain Flush Unfinished Hardwood Bored Interior Door Slab,wooden doors,2.33,score,scale_1_3
+482,Safavieh Courtyard Anthracite/Beige 9 ft. x 12 ft. Area Rug,area rugs 9x12,3.0,score,scale_1_3
+483,Milwaukee M12 12-Volt Lithium-Ion Compact Battery (2-Pack),milwakee M12,3.0,score,scale_1_3
+484,Milwaukee M12 12-Volt Lithium-Ion Compact Battery (2-Pack),milwaukee m12,1.67,score,scale_1_3
+485,Milwaukee M12 12-Volt Lithium-Ion Compact Battery (2-Pack),photoelectric/ion with lithium battery,1.67,score,scale_1_3
+486,Fiskars 12 ft. Telescoping Pruning Stick,pruning saw,1.33,score,scale_1_3
+487,Fiskars 12 ft. Telescoping Pruning Stick,tree pruner,2.67,score,scale_1_3
+488,Werner Multipurpose Project Tray,werner ladder,1.33,score,scale_1_3
+489,Feit Electric 60W Equivalent Red Spiral CFL Light Bulb,60w bulb,3.0,score,scale_1_3
+490,RL Flo-Master 1 Gal. Economy Sprayer,ceiling scraper,1.0,score,scale_1_3
+491,RL Flo-Master 1 Gal. Economy Sprayer,garden sprayer non pump,2.67,score,scale_1_3
+492,RL Flo-Master 1 Gal. Economy Sprayer,powder shooting hand pump bottle,1.67,score,scale_1_3
+493,RL Flo-Master 1 Gal. Economy Sprayer,water,1.0,score,scale_1_3
+494,RL Flo-Master 1 Gal. Economy Sprayer,weeds spray,2.0,score,scale_1_3
+495,Foss Ribbed Taupe 6 ft. x 8 ft. Indoor/Outdoor Area Rug,foss rug,2.67,score,scale_1_3
+496,Foss Ribbed Taupe 6 ft. x 8 ft. Indoor/Outdoor Area Rug,indoor * outdoor rug 21' x 15',2.67,score,scale_1_3
+497,CAT 1000-Watt Power Inverter,inverter generator,2.67,score,scale_1_3
+498,Whirlpool Refrigerator Water Supply Kit,plastic tubing,1.67,score,scale_1_3
+499,Whirlpool Refrigerator Water Supply Kit,water pex tubing,1.33,score,scale_1_3
+500,"Werner 8 ft. - 10 ft., 22.5 in. x 54 in. Energy Seal Aluminum Attic Ladder Universal Fit with 375 lb. Maximum Load Capacity",attic ladder,3.0,score,scale_1_3
